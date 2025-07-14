@@ -186,4 +186,4 @@ For questions, suggestions, or collaboration opportunities, please open an issue
 
 ---
 
-*Shrauta-Lakshana* - From the Sanskrit शाखा (śākhā, "branch") + लक्षण (lakṣaṇa, "characteristic"), referring to the distinctive features that mark different branches of Vedic tradition.
+*Shrauta-Lakshana* - From the Sanskrit श्रौत (śrauta, "related to Shruti (the Vedas)") + लक्षण (lakṣaṇa, "characteristic"), referring to the distinctive features that mark the evolution of Vedic texts.
