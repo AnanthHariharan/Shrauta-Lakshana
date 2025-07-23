@@ -177,14 +177,6 @@ python rm_blank.py
 4. Include appropriate tests and documentation
 5. Submit a pull request
 
-## Future Development
-
-- **Brahmana Analysis**: Extend to prose Vedic texts
-- **Morphological Parsing**: Deep grammatical analysis
-- **Phonological Features**: Sound change tracking
-- **Machine Learning**: Automated feature discovery
-- **Web Interface**: Interactive analysis dashboard
-
 ## License
 
 This project is released under the MIT License.
@@ -195,4 +187,4 @@ For questions, suggestions, or collaboration opportunities, please open an issue
 
 ---
 
-*Shrauta-Lakshana* - From the Sanskrit शाखा (śākhā, "branch") + लक्षण (lakṣaṇa, "characteristic"), referring to the distinctive features that mark different branches of Vedic tradition.
+*Shrauta-Lakshana* - From the Sanskrit श्रौत (śrauta, "Vedic") + लक्षण (lakṣaṇa, "characteristic"), referring to the distinctive features that mark different branches of Vedic tradition.
