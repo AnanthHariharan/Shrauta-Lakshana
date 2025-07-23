@@ -76,11 +76,27 @@ class VedicDiachronicAnalyzer:
 analyzer = VedicDiachronicAnalyzer()
 
 corpus_files = {
+    # Samhitas (Early to Middle Vedic)
     'Rigveda': '../texts/samhita/rig-samhita.txt',
     'Yajurveda': '../texts/samhita/yajur-samhita.txt',
     'Samaveda': '../texts/samhita/sama-samhita.txt',
-    'Atharvaveda': '../texts/samhita/atharva-samhita.txt'
+    'Atharvaveda': '../texts/samhita/atharva-samhita.txt',
+
+    # Brahmanas (Late Vedic)
+    'Kausitaki-Br': '../texts/brahmana/rig-kausitaki.txt',
+    'Pancavimsa-Br': '../texts/brahmana/sama-pancavimsa.txt',
+    'Satapatha-Br': '../texts/brahmana/yajur-satapatha.txt',
+    'Gopatha-Br': '../texts/brahmana/atharva-gopatha.txt',
+
+    # Upanishads (Latest Vedic)
+    'Brhadaranyaka-Up': '../texts/upanishad/yajur-brhadaranyaka.txt',
+    'Chandogya-Up': '../texts/upanishad/sama-chandogya.txt',
+    'Aitareya-Up': '../texts/upanishad/rig-aitareya.txt',
+    'Mandukya-Up': '../texts/upanishad/atharva-mandukya.txt'
 }
+
+# Add this line after corpus_files:
+text_order = list(corpus_files.keys())
 
 analyzer.analyze_corpus(corpus_files)
 analyzer.generate_report()
@@ -126,73 +142,138 @@ class EnhancedVedicAnalyzer(VedicDiachronicAnalyzer):
             'adverb_tra': r'\b\w+tra\b',  # locative suffix
         }
         self.features.update(self.morphological_features)
+        def plot_diachronic_trends(analyzer):
+            """Create visualization of feature changes"""
+            df = pd.DataFrame(analyzer.results).T
+            # Change this line:
+            # text_order = ['Rigveda', 'Yajurveda', 'Samaveda', 'Atharvaveda']
+            df = df.reindex(text_order)  # Use the global text_order
+
+            # Update features to plot if needed
+            features_to_plot = ['retroflex_l', 'subjunctive_ati', 'particle_sma',
+                               'long_compounds', 'infinitive_tum', 'gerund_tvaa']
+
+            # Change subplot layout to accommodate more features
+            fig, axes = plt.subplots(3, 2, figsize=(15, 18))
+            axes = axes.ravel()
+
+            for idx, feature in enumerate(features_to_plot):
+                if idx < len(axes):
+                    ax = axes[idx]
+                    values = df[feature].values
+
+                    # Color code by text type
+                    colors = ['red']*4 + ['blue']*4 + ['green']*4
+                    ax.scatter(range(len(text_order)), values, c=colors, s=100, alpha=0.6)
+                    ax.plot(range(len(text_order)), values, 'k-', alpha=0.3)
+
+                    ax.set_title(f'{feature} frequency evolution')
+                    ax.set_ylabel('Freq per 1000 words')
+                    ax.set_xticks(range(len(text_order)))
+                    ax.set_xticklabels(text_order, rotation=45, ha='right')
+
+                    # Add period shading
+                    ax.axvspan(-0.5, 3.5, alpha=0.1, color='red')
+                    ax.axvspan(3.5, 7.5, alpha=0.1, color='blue')
+                    ax.axvspan(7.5, 11.5, alpha=0.1, color='green')
+
+                    # Trend line
+                    x_numeric = np.arange(len(text_order))
+                    z = np.polyfit(x_numeric, values, 2)
+                    p = np.poly1d(z)
+                    ax.plot(x_numeric, p(x_numeric), "r--", alpha=0.5)
+
+            plt.tight_layout()
+            plt.savefig('vedic_full_diachronic_trends.png', dpi=300)
+            plt.show()
 
 def plot_diachronic_trends(analyzer):
     """Create visualization of feature changes"""
     df = pd.DataFrame(analyzer.results).T
-    text_order = ['Rigveda', 'Yajurveda', 'Samaveda', 'Atharvaveda']
-    df = df.reindex(text_order)
-    features_to_plot = ['retroflex_l', 'subjunctive_ati', 'particle_sma',
-                       'long_compounds', 'dual_forms']
+    # Change this line:
+    # text_order = ['Rigveda', 'Yajurveda', 'Samaveda', 'Atharvaveda']
+    df = df.reindex(text_order)  # Use the global text_order
 
-    fig, axes = plt.subplots(2, 3, figsize=(15, 10))
+    # Update features to plot if needed
+    features_to_plot = ['retroflex_l', 'subjunctive_ati', 'particle_sma',
+                       'long_compounds', 'infinitive_tum', 'gerund_tvaa']
+
+    # Change subplot layout to accommodate more features
+    fig, axes = plt.subplots(3, 2, figsize=(15, 18))
     axes = axes.ravel()
 
     for idx, feature in enumerate(features_to_plot):
         if idx < len(axes):
             ax = axes[idx]
             values = df[feature].values
-            ax.plot(text_order, values, marker='o', linewidth=2)
-            ax.set_title(f'{feature} frequency over time')
-            ax.set_ylabel('Freq per 1000 words')
-            ax.tick_params(axis='x', rotation=45)
 
-            # Add trend line
+            # Color code by text type
+            colors = ['red']*4 + ['blue']*4 + ['green']*4
+            ax.scatter(range(len(text_order)), values, c=colors, s=100, alpha=0.6)
+            ax.plot(range(len(text_order)), values, 'k-', alpha=0.3)
+
+            ax.set_title(f'{feature} frequency evolution')
+            ax.set_ylabel('Freq per 1000 words')
+            ax.set_xticks(range(len(text_order)))
+            ax.set_xticklabels(text_order, rotation=45, ha='right')
+
+            # Add period shading
+            ax.axvspan(-0.5, 3.5, alpha=0.1, color='red')
+            ax.axvspan(3.5, 7.5, alpha=0.1, color='blue')
+            ax.axvspan(7.5, 11.5, alpha=0.1, color='green')
+
+            # Trend line
             x_numeric = np.arange(len(text_order))
-            z = np.polyfit(x_numeric, values, 1)
+            z = np.polyfit(x_numeric, values, 2)
             p = np.poly1d(z)
-            ax.plot(text_order, p(x_numeric), "r--", alpha=0.5)
+            ax.plot(x_numeric, p(x_numeric), "r--", alpha=0.5)
 
     plt.tight_layout()
-    plt.savefig('vedic_diachronic_trends.png')
+    plt.savefig('vedic_full_diachronic_trends.png', dpi=300)
     plt.show()
 
 def statistical_analysis(analyzer):
     """Test if changes between texts are significant"""
-    results = []
+    print("\nStatistical Analysis by Period")
+    print("=" * 60)
 
-    texts = ['Rigveda', 'Yajurveda', 'Samaveda', 'Atharvaveda']
-    features = ['subjunctive_ati', 'particle_sma', 'retroflex_l']
+    # Change from individual texts to periods
+    periods = {
+        'Samhita': text_order[:4],
+        'Brahmana': text_order[4:8],
+        'Upanishad': text_order[8:]
+    }
+
+    features = ['subjunctive_ati', 'particle_sma', 'retroflex_l', 'long_compounds']
 
     for feature in features:
-        print(f"\nStatistical tests for {feature}:")
+        print(f"\n{feature}:")
         print("-" * 40)
 
-        for i in range(len(texts)-1):
-            text1, text2 = texts[i], texts[i+1]
+        for period, texts in periods.items():
+            values = [analyzer.results[text][feature] for text in texts]
+            avg = np.mean(values)
+            std = np.std(values)
+            print(f"{period}: {avg:.2f} ± {std:.2f}")
 
-            freq1 = analyzer.results[text1][feature]
-            freq2 = analyzer.results[text2][feature]
+        # Calculate overall change
+        samhita_avg = np.mean([analyzer.results[t][feature] for t in periods['Samhita']])
+        upanishad_avg = np.mean([analyzer.results[t][feature] for t in periods['Upanishad']])
 
-            print(f"{text1} vs {text2}:")
-            print(f"  {text1}: {freq1:.2f} per 1000 words")
-            print(f"  {text2}: {freq2:.2f} per 1000 words")
+        if samhita_avg > 0:
+            change = ((upanishad_avg - samhita_avg) / samhita_avg) * 100
+            print(f"Change from Samhita to Upanishad: {change:+.1f}%")
 
-            if freq1 == 0:
-                if freq2 == 0:
-                    print(f"  Change: No occurrences in either text")
-                else:
-                    print(f"  Change: New feature (0 → {freq2:.2f})")
-            else:
-                change = ((freq2-freq1)/freq1)*100
-                print(f"  Change: {change:+.1f}%")
 
 def export_results(analyzer, filename='vedic_analysis.csv'):
     """Export results for further analysis"""
     df = pd.DataFrame(analyzer.results).T
 
-    df['text_period'] = ['Early Vedic', 'Middle Vedic', 'Middle Vedic', 'Late Vedic']
-    df['approx_date_bce'] = [1500, 1200, 1000, 800]
+    periods = ['Early Vedic']*4 + ['Late Vedic']*4 + ['Latest Vedic']*4
+    dates = [1500, 1300, 1200, 1000] + [900, 850, 800, 750] + [700, 650, 600, 550]
+
+    df['text_period'] = periods
+    df['approx_date_bce'] = dates
 
     df['archaism_index'] = (df['retroflex_l'] + df['subjunctive_ati'] +
                             df['particle_sma']) / 3
@@ -248,16 +329,21 @@ export_results(analyzer)
 
 def create_summary_report(analyzer):
     with open('vedic_diachronic_report.txt', 'w', encoding='utf-8') as f:
-        f.write("VEDIC SANSKRIT DIACHRONIC ANALYSIS\n")
+        f.write("COMPREHENSIVE VEDIC SANSKRIT DIACHRONIC ANALYSIS\n")
         f.write("="*50 + "\n\n")
+
+        f.write("Corpus:\n")
+        f.write("-"*30 + "\n")
+        f.write("Samhitas: RV, YV, SV, AV\n")
+        f.write("Brahmanas: Kausitaki, Pancavimsa, Satapatha, Gopatha\n")
+        f.write("Upanishads: Brhadaranyaka, Chandogya, Aitareya, Mandukya\n\n")
 
         f.write("Key Findings:\n")
         f.write("-"*30 + "\n")
 
-        texts = ['Rigveda', 'Yajurveda', 'Samaveda', 'Atharvaveda']
-
+        # Use text_order instead of hardcoded list
         for feature in ['subjunctive_ati', 'retroflex_l', 'long_compounds']:
-            values = [analyzer.results[t][feature] for t in texts]
+            values = [analyzer.results[t][feature] for t in text_order]
 
             f.write(f"\n{feature}:\n")
 

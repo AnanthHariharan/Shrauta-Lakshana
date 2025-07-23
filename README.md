@@ -24,13 +24,22 @@ Shrauta-Lakshana/
 │   └── vedic_diachronic_trends.png
 ├── texts/
 │   ├── samhita/
-│   │   ├── rig-samhita.txt      # Rigveda corpus
-│   │   ├── yajur-samhita.txt    # Yajurveda corpus
-│   │   ├── sama-samhita.txt     # Samaveda corpus
-│   │   ├── atharva-samhita.txt  # Atharvaveda corpus
-│   │   └── rm_blank.py          # Text preprocessing utility
-│   └── brahmana/                # Future Brahmana texts
+│   │   ├── rig-samhita.txt      # Rigveda corpus (Śākala Śākhā)
+│   │   ├── yajur-samhita.txt    # Yajurveda corpus (Kṛṣṇa Yajurveda – Maitrāyaṇī Śākhā)
+│   │   ├── sama-samhita.txt     # Samaveda corpus (Kauthuma Śākhā)
+│   │   └── atharva-samhita.txt  # Atharvaveda corpus (Śaunaka Śākhā)
+│   ├── brahmana/
+│   │   ├── rig-kausitaki.txt    # Kauṣītaki Brāhmaṇa (Rigveda)
+│   │   ├── yajur-satapatha.txt  # Śatapatha Brāhmaṇa (Yajurveda)
+│   │   ├── sama-pancavimsa.txt  # Pañcaviṃśa Brāhmaṇa (Samaveda)
+│   │   └── atharva-gopatha.txt  # Gopatha Brāhmaṇa (Atharvaveda)
+│   └── upanishad/
+│       ├── rig-aitareya.txt     # Aitareya Upaniṣad (Rigveda)
+│       ├── yajur-brhadaranyaka.txt # Bṛhadāraṇyaka Upaniṣad (Yajurveda)
+│       ├── sama-chandogya.txt   # Chāndogya Upaniṣad (Samaveda)
+│       ├── atharva-mandukya.txt # Māṇḍūkya Upaniṣad (Atharvaveda)
 ├── preprocessing/               # Text processing tools
+          └── rm_blank.py
 └── README.md
 ```
 
