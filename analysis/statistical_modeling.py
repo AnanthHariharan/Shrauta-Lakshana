@@ -66,10 +66,22 @@ class VedicTextMetadata:
                 'geographic_origin': 'northwest',
                 'preservation_quality': 'good'
             },
-            'Atharvaveda': {
+            'Atharvaveda (Paippalada)': {
                 'genre': 'poetry',
                 'period': 'middle_vedic',
-                'chronology': 1000,
+                'chronology': 800,
+                'recension': 'paippalada',
+                'veda_branch': 'atharva',
+                'text_type': 'samhita',
+                'prose_ratio': 0.20,  # Some prose passages
+                'liturgical_focus': 'magical',
+                'geographic_origin': 'eastern',
+                'preservation_quality': 'fair'
+            },
+            'Atharvaveda (Saunaka)': {
+                'genre': 'poetry',
+                'period': 'middle_vedic',
+                'chronology': 600,
                 'recension': 'shaunaka',
                 'veda_branch': 'atharva',
                 'text_type': 'samhita',
@@ -166,17 +178,77 @@ class VedicTextMetadata:
                 'geographic_origin': 'eastern',
                 'preservation_quality': 'good'
             },
-            'Mandukya-Up': {
+            'Prashna-Up': {
                 'genre': 'mixed',
                 'period': 'latest_vedic',
-                'chronology': 550,
-                'recension': 'mandukya',
+                'chronology': 520,
+                'recension': 'prashna',
                 'veda_branch': 'atharva',
                 'text_type': 'upanishad',
-                'prose_ratio': 0.60,
+                'prose_ratio': 0.65,
                 'liturgical_focus': 'philosophical',
                 'geographic_origin': 'eastern',
                 'preservation_quality': 'good'
+            },
+            'Shvetashvatara-Up': {
+                'genre': 'mixed',
+                'period': 'latest_vedic',
+                'chronology': 480,
+                'recension': 'shvetashvatara',
+                'veda_branch': 'yajur',
+                'text_type': 'upanishad',
+                'prose_ratio': 0.40,
+                'liturgical_focus': 'philosophical',
+                'geographic_origin': 'eastern',
+                'preservation_quality': 'excellent'
+            },
+            'Taittiriya-Up': {
+                'genre': 'mixed',
+                'period': 'latest_vedic',
+                'chronology': 450,
+                'recension': 'taittiriya',
+                'veda_branch': 'yajur',
+                'text_type': 'upanishad',
+                'prose_ratio': 0.70,
+                'liturgical_focus': 'philosophical',
+                'geographic_origin': 'eastern',
+                'preservation_quality': 'excellent'
+            },
+            'Mahabharata': {
+                'genre': 'epic',
+                'period': 'classical',
+                'chronology': 200,
+                'recension': 'critical_edition',
+                'veda_branch': 'none',
+                'text_type': 'epic',
+                'prose_ratio': 0.05,
+                'liturgical_focus': 'narrative',
+                'geographic_origin': 'northern',
+                'preservation_quality': 'excellent'
+            },
+            'Ramayana': {
+                'genre': 'epic',
+                'period': 'classical',
+                'chronology': 300,
+                'recension': 'valmiki',
+                'veda_branch': 'none',
+                'text_type': 'epic',
+                'prose_ratio': 0.02,
+                'liturgical_focus': 'narrative',
+                'geographic_origin': 'northern',
+                'preservation_quality': 'excellent'
+            },
+            'Bhagavata-Purana': {
+                'genre': 'purana',
+                'period': 'classical',
+                'chronology': 800,
+                'recension': 'standard',
+                'veda_branch': 'none',
+                'text_type': 'purana',
+                'prose_ratio': 0.30,
+                'liturgical_focus': 'devotional',
+                'geographic_origin': 'southern',
+                'preservation_quality': 'excellent'
             }
         }
     

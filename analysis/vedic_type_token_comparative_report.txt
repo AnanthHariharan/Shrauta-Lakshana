@@ -1,0 +1,37 @@
+COMPARATIVE ANALYSIS: TYPE-TOKEN vs TOKEN-ONLY ANALYSIS
+======================================================================
+
+METHODOLOGY COMPARISON
+--------------------------------------------------
+Traditional Token Analysis:
+• Counts total occurrences of linguistic patterns
+• Measures frequency and productivity
+• Focuses on usage patterns
+
+Type-Token Analysis:
+• Distinguishes unique forms (types) from total occurrences (tokens)
+• Measures morphological diversity and vocabulary richness
+• Reveals productive vs. fossilized patterns
+
+KEY INSIGHTS FROM TYPE-TOKEN ANALYSIS
+--------------------------------------------------
+TTR Evolution Across Periods:
+  Early Vedic: 0.3116 (range: 0.2494-0.4429)
+  Late Vedic: 0.3106 (range: 0.2206-0.4346)
+  Latest Vedic: 0.4279 (range: 0.2840-0.6717)
+
+Morphological Productivity Patterns:
+Most morphologically diverse categories:
+  long compounds: TTR = 0.844
+  instrumental archaic: TTR = 0.351
+  philosophical terms: TTR = 0.303
+  deity names: TTR = 0.240
+  ritual terms: TTR = 0.206
+
+IMPLICATIONS FOR VEDIC SANSKRIT STUDIES
+--------------------------------------------------
+• Type-token ratios reveal morphological complexity changes
+• High TTR indicates productive, creative language use
+• Low TTR suggests formulaic or ritualized language
+• Diachronic TTR changes track linguistic evolution
+• Hapax legomena patterns validate text authenticity

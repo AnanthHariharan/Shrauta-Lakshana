@@ -1,0 +1,928 @@
+COMPREHENSIVE TYPE-TOKEN FREQUENCY ANALYSIS
+Vedic Sanskrit Diachronic Study
+======================================================================
+
+EXECUTIVE SUMMARY
+--------------------------------------------------
+This analysis distinguishes between:
+• TOKEN FREQUENCY: Total occurrences of patterns
+• TYPE FREQUENCY: Unique forms exhibiting patterns
+• TYPE-TOKEN RATIO: Morphological/lexical diversity
+
+OVERALL LEXICAL DIVERSITY
+--------------------------------------------------
+
+Rigveda:
+  Total Tokens: 159,425
+  Total Types: 39,757
+  TTR: 0.2494
+  Root TTR: 99.5716
+  Herdan's C: 0.8841
+
+Samaveda:
+  Total Tokens: 19,099
+  Total Types: 8,458
+  TTR: 0.4429
+  Root TTR: 61.2015
+  Herdan's C: 0.9174
+
+Yajurveda:
+  Total Tokens: 115,594
+  Total Types: 30,990
+  TTR: 0.2681
+  Root TTR: 91.1494
+  Herdan's C: 0.8871
+
+Atharvaveda (Paippalada):
+  Total Tokens: 110,269
+  Total Types: 31,532
+  TTR: 0.2860
+  Root TTR: 94.9565
+  Herdan's C: 0.8922
+
+Atharvaveda (Saunaka):
+  Total Tokens: 85,040
+  Total Types: 25,945
+  TTR: 0.3051
+  Root TTR: 88.9697
+  Herdan's C: 0.8954
+
+Kausitaki-Br:
+  Total Tokens: 39,057
+  Total Types: 8,616
+  TTR: 0.2206
+  Root TTR: 43.5970
+  Herdan's C: 0.8570
+
+Pancavimsa-Br:
+  Total Tokens: 42,773
+  Total Types: 12,073
+  TTR: 0.2823
+  Root TTR: 58.3755
+  Herdan's C: 0.8814
+
+Satapatha-Br:
+  Total Tokens: 28,500
+  Total Types: 12,386
+  TTR: 0.4346
+  Root TTR: 73.3683
+  Herdan's C: 0.9188
+
+Gopatha-Br:
+  Total Tokens: 29,928
+  Total Types: 9,734
+  TTR: 0.3252
+  Root TTR: 56.2668
+  Herdan's C: 0.8910
+
+Aitareya-Up:
+  Total Tokens: 733
+  Total Types: 476
+  TTR: 0.6494
+  Root TTR: 17.5815
+  Herdan's C: 0.9346
+
+Taittiriya-Up:
+  Total Tokens: 2,024
+  Total Types: 1,025
+  TTR: 0.5064
+  Root TTR: 22.7834
+  Herdan's C: 0.9106
+
+Chandogya-Up:
+  Total Tokens: 14,037
+  Total Types: 4,490
+  TTR: 0.3199
+  Root TTR: 37.8974
+  Herdan's C: 0.8806
+
+Brhadaranyaka-Up:
+  Total Tokens: 16,517
+  Total Types: 5,270
+  TTR: 0.3191
+  Root TTR: 41.0058
+  Herdan's C: 0.8824
+
+Prashna-Up:
+  Total Tokens: 1,176
+  Total Types: 710
+  TTR: 0.6037
+  Root TTR: 20.7040
+  Herdan's C: 0.9286
+
+Shvetashvatara-Up:
+  Total Tokens: 1,724
+  Total Types: 1,158
+  TTR: 0.6717
+  Root TTR: 27.8894
+  Herdan's C: 0.9466
+
+Ramayana:
+  Total Tokens: 213,867
+  Total Types: 61,655
+  TTR: 0.2883
+  Root TTR: 133.3203
+  Herdan's C: 0.8987
+
+Mahabharata:
+  Total Tokens: 146,571
+  Total Types: 45,598
+  TTR: 0.3111
+  Root TTR: 119.1027
+  Herdan's C: 0.9018
+
+Bhagavata-Purana:
+  Total Tokens: 242,622
+  Total Types: 68,903
+  TTR: 0.2840
+  Root TTR: 139.8856
+  Herdan's C: 0.8985
+\n\nMORPHOLOGICAL PRODUCTIVITY ANALYSIS
+--------------------------------------------------
+Most productive morphological patterns (average across texts):
+  instrumental archaic: 0.2367
+  dual morphology: 0.0364
+  subjunctive morphology: 0.0311
+  genitive plural: 0.0289
+\n\nFEATURE-SPECIFIC TYPE-TOKEN ANALYSIS
+--------------------------------------------------
+
+SUBJUNCTIVE MORPHOLOGY:
+  Rigveda             : 3247 tokens,    7 types, TTR = 0.002
+  Samaveda            :  225 tokens,    6 types, TTR = 0.027
+  Yajurveda           : 3675 tokens,    7 types, TTR = 0.002
+  Atharvaveda (Paippalada): 3504 tokens,    7 types, TTR = 0.002
+  Atharvaveda (Saunaka): 2530 tokens,    7 types, TTR = 0.003
+  Kausitaki-Br        : 1431 tokens,    7 types, TTR = 0.005
+  Pancavimsa-Br       : 1639 tokens,    6 types, TTR = 0.004
+  Satapatha-Br        :  636 tokens,    5 types, TTR = 0.008
+  Gopatha-Br          : 1369 tokens,    6 types, TTR = 0.004
+  Aitareya-Up         :   28 tokens,    6 types, TTR = 0.214
+  Taittiriya-Up       :   74 tokens,    5 types, TTR = 0.068
+  Chandogya-Up        :  565 tokens,    6 types, TTR = 0.011
+  Brhadaranyaka-Up    :  630 tokens,    6 types, TTR = 0.010
+  Prashna-Up          :   33 tokens,    6 types, TTR = 0.182
+  Shvetashvatara-Up   :   77 tokens,    6 types, TTR = 0.078
+  Ramayana            : 8363 tokens,    6 types, TTR = 0.001
+  Mahabharata         : 6127 tokens,    7 types, TTR = 0.001
+  Bhagavata-Purana    : 7287 tokens,    7 types, TTR = 0.001
+
+DUAL MORPHOLOGY:
+  Rigveda             : 2582 tokens,    4 types, TTR = 0.002
+  Samaveda            :  320 tokens,    2 types, TTR = 0.006
+  Yajurveda           : 1977 tokens,    4 types, TTR = 0.002
+  Atharvaveda (Paippalada): 2133 tokens,    4 types, TTR = 0.002
+  Atharvaveda (Saunaka): 1575 tokens,    4 types, TTR = 0.003
+  Kausitaki-Br        :  687 tokens,    4 types, TTR = 0.006
+  Pancavimsa-Br       :  770 tokens,    4 types, TTR = 0.005
+  Satapatha-Br        :  522 tokens,    3 types, TTR = 0.006
+  Gopatha-Br          :  478 tokens,    4 types, TTR = 0.008
+  Aitareya-Up         :   12 tokens,    3 types, TTR = 0.250
+  Taittiriya-Up       :   28 tokens,    3 types, TTR = 0.107
+  Chandogya-Up        :  165 tokens,    4 types, TTR = 0.024
+  Brhadaranyaka-Up    :  254 tokens,    3 types, TTR = 0.012
+  Prashna-Up          :   17 tokens,    3 types, TTR = 0.176
+  Shvetashvatara-Up   :   26 tokens,    2 types, TTR = 0.077
+  Ramayana            : 5144 tokens,    4 types, TTR = 0.001
+  Mahabharata         : 3219 tokens,    4 types, TTR = 0.001
+  Bhagavata-Purana    : 3613 tokens,    4 types, TTR = 0.001
+
+AGENT NOUNS:
+  Rigveda             :  228 tokens,    1 types, TTR = 0.004
+  Samaveda            :    0 tokens,    0 types, TTR = 0.000
+  Yajurveda           :  147 tokens,    1 types, TTR = 0.007
+  Atharvaveda (Paippalada):  184 tokens,    2 types, TTR = 0.011
+  Atharvaveda (Saunaka):  107 tokens,    1 types, TTR = 0.009
+  Kausitaki-Br        :   93 tokens,    2 types, TTR = 0.022
+  Pancavimsa-Br       :   12 tokens,    1 types, TTR = 0.083
+  Satapatha-Br        :    0 tokens,    0 types, TTR = 0.000
+  Gopatha-Br          :   20 tokens,    1 types, TTR = 0.050
+  Aitareya-Up         :    0 tokens,    0 types, TTR = 0.000
+  Taittiriya-Up       :    0 tokens,    0 types, TTR = 0.000
+  Chandogya-Up        :   11 tokens,    1 types, TTR = 0.091
+  Brhadaranyaka-Up    :   17 tokens,    2 types, TTR = 0.118
+  Prashna-Up          :    0 tokens,    0 types, TTR = 0.000
+  Shvetashvatara-Up   :    0 tokens,    0 types, TTR = 0.000
+  Ramayana            :    3 tokens,    2 types, TTR = 0.667
+  Mahabharata         :   20 tokens,    1 types, TTR = 0.050
+  Bhagavata-Purana    :  245 tokens,    2 types, TTR = 0.008
+
+ABSTRACT NOUNS:
+  Rigveda             : 7806 tokens,    3 types, TTR = 0.000
+  Samaveda            : 1186 tokens,    3 types, TTR = 0.003
+  Yajurveda           : 5405 tokens,    3 types, TTR = 0.001
+  Atharvaveda (Paippalada): 4380 tokens,    3 types, TTR = 0.001
+  Atharvaveda (Saunaka): 3364 tokens,    3 types, TTR = 0.001
+  Kausitaki-Br        : 2065 tokens,    3 types, TTR = 0.001
+  Pancavimsa-Br       : 1734 tokens,    3 types, TTR = 0.002
+  Satapatha-Br        : 1422 tokens,    3 types, TTR = 0.002
+  Gopatha-Br          : 1089 tokens,    3 types, TTR = 0.003
+  Aitareya-Up         :   16 tokens,    2 types, TTR = 0.125
+  Taittiriya-Up       :   81 tokens,    2 types, TTR = 0.025
+  Chandogya-Up        :  574 tokens,    2 types, TTR = 0.003
+  Brhadaranyaka-Up    :  649 tokens,    2 types, TTR = 0.003
+  Prashna-Up          :   29 tokens,    2 types, TTR = 0.069
+  Shvetashvatara-Up   :   85 tokens,    2 types, TTR = 0.024
+  Ramayana            : 12027 tokens,    3 types, TTR = 0.000
+  Mahabharata         : 7145 tokens,    3 types, TTR = 0.000
+  Bhagavata-Purana    : 9943 tokens,    3 types, TTR = 0.000
+
+LONG COMPOUNDS:
+  Rigveda             :  426 tokens,  399 types, TTR = 0.937
+  Samaveda            :  971 tokens,  836 types, TTR = 0.861
+  Yajurveda           : 1890 tokens, 1433 types, TTR = 0.758
+  Atharvaveda (Paippalada):  576 tokens,  491 types, TTR = 0.852
+  Atharvaveda (Saunaka):  480 tokens,  409 types, TTR = 0.852
+  Kausitaki-Br        :  106 tokens,   60 types, TTR = 0.566
+  Pancavimsa-Br       : 1072 tokens,  767 types, TTR = 0.715
+  Satapatha-Br        : 4021 tokens, 3461 types, TTR = 0.861
+  Gopatha-Br          :  827 tokens,  578 types, TTR = 0.699
+  Aitareya-Up         :   23 tokens,   23 types, TTR = 1.000
+  Taittiriya-Up       :  140 tokens,  113 types, TTR = 0.807
+  Chandogya-Up        :  208 tokens,  164 types, TTR = 0.788
+  Brhadaranyaka-Up    :  222 tokens,  172 types, TTR = 0.775
+  Prashna-Up          :   27 tokens,   27 types, TTR = 1.000
+  Shvetashvatara-Up   :   64 tokens,   64 types, TTR = 1.000
+  Ramayana            : 9179 tokens, 8087 types, TTR = 0.881
+  Mahabharata         : 5086 tokens, 4544 types, TTR = 0.893
+  Bhagavata-Purana    : 8277 tokens, 7827 types, TTR = 0.946
+
+RITUAL TERMS:
+  Rigveda             :   15 tokens,    3 types, TTR = 0.200
+  Samaveda            :    2 tokens,    1 types, TTR = 0.500
+  Yajurveda           :   38 tokens,    3 types, TTR = 0.079
+  Atharvaveda (Paippalada):    7 tokens,    1 types, TTR = 0.143
+  Atharvaveda (Saunaka):   10 tokens,    2 types, TTR = 0.200
+  Kausitaki-Br        :   54 tokens,    6 types, TTR = 0.111
+  Pancavimsa-Br       :   11 tokens,    2 types, TTR = 0.182
+  Satapatha-Br        :   32 tokens,    1 types, TTR = 0.031
+  Gopatha-Br          :   12 tokens,    2 types, TTR = 0.167
+  Aitareya-Up         :    0 tokens,    0 types, TTR = 0.000
+  Taittiriya-Up       :    0 tokens,    0 types, TTR = 0.000
+  Chandogya-Up        :    1 tokens,    1 types, TTR = 1.000
+  Brhadaranyaka-Up    :    5 tokens,    1 types, TTR = 0.200
+  Prashna-Up          :    0 tokens,    0 types, TTR = 0.000
+  Shvetashvatara-Up   :    0 tokens,    0 types, TTR = 0.000
+  Ramayana            :   35 tokens,    1 types, TTR = 0.029
+  Mahabharata         :   74 tokens,    2 types, TTR = 0.027
+  Bhagavata-Purana    :  179 tokens,    4 types, TTR = 0.022
+\n\nFREQUENCY DISTRIBUTION ANALYSIS
+--------------------------------------------------
+
+Rigveda:
+  subjunctive_morphology:
+    Zipf coefficient: 1.600 (R² = 0.635)
+    Shannon entropy: 2.383
+    Hapax ratio: 0.000
+  dual_morphology:
+    Zipf coefficient: 4.148 (R² = 0.930)
+    Shannon entropy: 0.730
+    Hapax ratio: 0.000
+  instrumental_archaic:
+    Zipf coefficient: 0.950 (R² = 0.952)
+    Shannon entropy: 9.919
+    Hapax ratio: 0.599
+  genitive_plural:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  agent_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  action_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.783
+    Hapax ratio: 0.000
+  abstract_nouns:
+    Zipf coefficient: 5.111 (R² = 0.759)
+    Shannon entropy: 0.845
+    Hapax ratio: 0.000
+  primary_derivatives:
+    Zipf coefficient: 1.833 (R² = 0.963)
+    Shannon entropy: 1.499
+    Hapax ratio: 0.000
+  secondary_derivatives:
+    Zipf coefficient: 5.581 (R² = 0.861)
+    Shannon entropy: 0.851
+    Hapax ratio: 0.000
+
+Samaveda:
+  subjunctive_morphology:
+    Zipf coefficient: 1.659 (R² = 0.673)
+    Shannon entropy: 2.165
+    Hapax ratio: 0.000
+  dual_morphology:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.526
+    Hapax ratio: 0.000
+  instrumental_archaic:
+    Zipf coefficient: 0.661 (R² = 0.932)
+    Shannon entropy: 9.166
+    Hapax ratio: 0.643
+  genitive_plural:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  action_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.761
+    Hapax ratio: 0.000
+  abstract_nouns:
+    Zipf coefficient: 5.202 (R² = 0.798)
+    Shannon entropy: 0.756
+    Hapax ratio: 0.000
+  primary_derivatives:
+    Zipf coefficient: 3.600 (R² = 0.923)
+    Shannon entropy: 0.902
+    Hapax ratio: 0.000
+  secondary_derivatives:
+    Zipf coefficient: 5.202 (R² = 0.798)
+    Shannon entropy: 0.756
+    Hapax ratio: 0.000
+
+Yajurveda:
+  subjunctive_morphology:
+    Zipf coefficient: 1.924 (R² = 0.545)
+    Shannon entropy: 2.326
+    Hapax ratio: 0.000
+  dual_morphology:
+    Zipf coefficient: 3.138 (R² = 0.867)
+    Shannon entropy: 1.166
+    Hapax ratio: 0.000
+  instrumental_archaic:
+    Zipf coefficient: 0.874 (R² = 0.952)
+    Shannon entropy: 8.457
+    Hapax ratio: 0.608
+  genitive_plural:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  agent_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  action_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.493
+    Hapax ratio: 0.000
+  abstract_nouns:
+    Zipf coefficient: 6.947 (R² = 0.734)
+    Shannon entropy: 0.789
+    Hapax ratio: 0.333
+  primary_derivatives:
+    Zipf coefficient: 2.601 (R² = 0.964)
+    Shannon entropy: 0.873
+    Hapax ratio: 0.000
+  secondary_derivatives:
+    Zipf coefficient: 6.770 (R² = 0.821)
+    Shannon entropy: 0.791
+    Hapax ratio: 0.500
+
+Atharvaveda (Paippalada):
+  subjunctive_morphology:
+    Zipf coefficient: 1.882 (R² = 0.540)
+    Shannon entropy: 2.231
+    Hapax ratio: 0.000
+  dual_morphology:
+    Zipf coefficient: 3.329 (R² = 0.863)
+    Shannon entropy: 1.136
+    Hapax ratio: 0.000
+  instrumental_archaic:
+    Zipf coefficient: 0.880 (R² = 0.941)
+    Shannon entropy: 9.007
+    Hapax ratio: 0.639
+  genitive_plural:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  agent_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.852
+    Hapax ratio: 0.000
+  action_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.993
+    Hapax ratio: 0.000
+  abstract_nouns:
+    Zipf coefficient: 5.586 (R² = 0.741)
+    Shannon entropy: 0.849
+    Hapax ratio: 0.000
+  primary_derivatives:
+    Zipf coefficient: 2.201 (R² = 0.829)
+    Shannon entropy: 1.459
+    Hapax ratio: 0.000
+  secondary_derivatives:
+    Zipf coefficient: 5.430 (R² = 0.825)
+    Shannon entropy: 0.859
+    Hapax ratio: 0.000
+
+Atharvaveda (Saunaka):
+  subjunctive_morphology:
+    Zipf coefficient: 1.925 (R² = 0.491)
+    Shannon entropy: 2.273
+    Hapax ratio: 0.000
+  dual_morphology:
+    Zipf coefficient: 3.812 (R² = 0.820)
+    Shannon entropy: 1.131
+    Hapax ratio: 0.000
+  instrumental_archaic:
+    Zipf coefficient: 0.855 (R² = 0.945)
+    Shannon entropy: 9.069
+    Hapax ratio: 0.629
+  genitive_plural:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  agent_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  action_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.978
+    Hapax ratio: 0.000
+  abstract_nouns:
+    Zipf coefficient: 5.975 (R² = 0.746)
+    Shannon entropy: 0.814
+    Hapax ratio: 0.000
+  primary_derivatives:
+    Zipf coefficient: 2.226 (R² = 0.857)
+    Shannon entropy: 1.453
+    Hapax ratio: 0.000
+  secondary_derivatives:
+    Zipf coefficient: 5.975 (R² = 0.746)
+    Shannon entropy: 0.814
+    Hapax ratio: 0.000
+
+Kausitaki-Br:
+  subjunctive_morphology:
+    Zipf coefficient: 2.212 (R² = 0.509)
+    Shannon entropy: 2.330
+    Hapax ratio: 0.143
+  dual_morphology:
+    Zipf coefficient: 2.959 (R² = 0.767)
+    Shannon entropy: 1.269
+    Hapax ratio: 0.000
+  instrumental_archaic:
+    Zipf coefficient: 0.945 (R² = 0.962)
+    Shannon entropy: 7.200
+    Hapax ratio: 0.538
+  genitive_plural:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  agent_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.955
+    Hapax ratio: 0.000
+  action_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.084
+    Hapax ratio: 0.000
+  abstract_nouns:
+    Zipf coefficient: 5.783 (R² = 0.834)
+    Shannon entropy: 0.609
+    Hapax ratio: 0.000
+  primary_derivatives:
+    Zipf coefficient: 2.917 (R² = 0.845)
+    Shannon entropy: 0.367
+    Hapax ratio: 0.000
+  secondary_derivatives:
+    Zipf coefficient: 5.783 (R² = 0.834)
+    Shannon entropy: 0.609
+    Hapax ratio: 0.000
+
+Pancavimsa-Br:
+  subjunctive_morphology:
+    Zipf coefficient: 0.969 (R² = 0.972)
+    Shannon entropy: 2.330
+    Hapax ratio: 0.000
+  dual_morphology:
+    Zipf coefficient: 4.087 (R² = 0.757)
+    Shannon entropy: 1.165
+    Hapax ratio: 0.250
+  instrumental_archaic:
+    Zipf coefficient: 0.856 (R² = 0.932)
+    Shannon entropy: 7.313
+    Hapax ratio: 0.654
+  genitive_plural:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  agent_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  action_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.090
+    Hapax ratio: 0.000
+  abstract_nouns:
+    Zipf coefficient: 6.062 (R² = 0.767)
+    Shannon entropy: 0.757
+    Hapax ratio: 0.333
+  primary_derivatives:
+    Zipf coefficient: 3.524 (R² = 0.924)
+    Shannon entropy: 0.282
+    Hapax ratio: 0.000
+  secondary_derivatives:
+    Zipf coefficient: 6.062 (R² = 0.767)
+    Shannon entropy: 0.757
+    Hapax ratio: 0.333
+
+Satapatha-Br:
+  subjunctive_morphology:
+    Zipf coefficient: 1.288 (R² = 0.725)
+    Shannon entropy: 2.005
+    Hapax ratio: 0.000
+  dual_morphology:
+    Zipf coefficient: 2.426 (R² = 0.682)
+    Shannon entropy: 1.149
+    Hapax ratio: 0.000
+  instrumental_archaic:
+    Zipf coefficient: 0.705 (R² = 0.889)
+    Shannon entropy: 7.967
+    Hapax ratio: 0.722
+  genitive_plural:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  action_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.112
+    Hapax ratio: 0.000
+  abstract_nouns:
+    Zipf coefficient: 3.982 (R² = 0.825)
+    Shannon entropy: 0.845
+    Hapax ratio: 0.000
+  primary_derivatives:
+    Zipf coefficient: 5.048 (R² = 0.989)
+    Shannon entropy: 0.155
+    Hapax ratio: 0.000
+  secondary_derivatives:
+    Zipf coefficient: 3.684 (R² = 0.895)
+    Shannon entropy: 0.912
+    Hapax ratio: 0.000
+
+Gopatha-Br:
+  subjunctive_morphology:
+    Zipf coefficient: 1.255 (R² = 0.834)
+    Shannon entropy: 2.251
+    Hapax ratio: 0.000
+  dual_morphology:
+    Zipf coefficient: 3.665 (R² = 0.732)
+    Shannon entropy: 1.234
+    Hapax ratio: 0.250
+  instrumental_archaic:
+    Zipf coefficient: 0.838 (R² = 0.933)
+    Shannon entropy: 7.215
+    Hapax ratio: 0.639
+  genitive_plural:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  agent_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  action_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.039
+    Hapax ratio: 0.000
+  abstract_nouns:
+    Zipf coefficient: 5.066 (R² = 0.774)
+    Shannon entropy: 0.818
+    Hapax ratio: 0.000
+  primary_derivatives:
+    Zipf coefficient: 3.480 (R² = 0.880)
+    Shannon entropy: 0.220
+    Hapax ratio: 0.000
+  secondary_derivatives:
+    Zipf coefficient: 4.754 (R² = 0.867)
+    Shannon entropy: 0.843
+    Hapax ratio: 0.000
+
+Aitareya-Up:
+  subjunctive_morphology:
+    Zipf coefficient: 1.663 (R² = 0.879)
+    Shannon entropy: 1.915
+    Hapax ratio: 0.500
+  dual_morphology:
+    Zipf coefficient: 1.149 (R² = 0.997)
+    Shannon entropy: 1.384
+    Hapax ratio: 0.000
+  instrumental_archaic:
+    Zipf coefficient: 0.614 (R² = 0.856)
+    Shannon entropy: 4.992
+    Hapax ratio: 0.721
+  action_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  abstract_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.696
+    Hapax ratio: 0.000
+  primary_derivatives:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.406
+    Hapax ratio: 0.000
+  secondary_derivatives:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.696
+    Hapax ratio: 0.000
+
+Taittiriya-Up:
+  subjunctive_morphology:
+    Zipf coefficient: 1.761 (R² = 0.886)
+    Shannon entropy: 1.801
+    Hapax ratio: 0.000
+  dual_morphology:
+    Zipf coefficient: 2.234 (R² = 0.682)
+    Shannon entropy: 1.178
+    Hapax ratio: 0.333
+  instrumental_archaic:
+    Zipf coefficient: 0.685 (R² = 0.881)
+    Shannon entropy: 5.801
+    Hapax ratio: 0.725
+  genitive_plural:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  action_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.650
+    Hapax ratio: 0.000
+  abstract_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.605
+    Hapax ratio: 0.000
+  primary_derivatives:
+    Zipf coefficient: 4.346 (R² = 0.879)
+    Shannon entropy: 0.695
+    Hapax ratio: 0.333
+  secondary_derivatives:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.605
+    Hapax ratio: 0.000
+
+Chandogya-Up:
+  subjunctive_morphology:
+    Zipf coefficient: 1.192 (R² = 0.919)
+    Shannon entropy: 2.189
+    Hapax ratio: 0.000
+  dual_morphology:
+    Zipf coefficient: 3.678 (R² = 0.758)
+    Shannon entropy: 1.091
+    Hapax ratio: 0.500
+  instrumental_archaic:
+    Zipf coefficient: 0.853 (R² = 0.937)
+    Shannon entropy: 6.836
+    Hapax ratio: 0.636
+  genitive_plural:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  agent_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  action_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.055
+    Hapax ratio: 0.000
+  abstract_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.683
+    Hapax ratio: 0.000
+  primary_derivatives:
+    Zipf coefficient: 3.674 (R² = 0.859)
+    Shannon entropy: 0.216
+    Hapax ratio: 0.000
+  secondary_derivatives:
+    Zipf coefficient: 4.669 (R² = 0.846)
+    Shannon entropy: 0.714
+    Hapax ratio: 0.000
+
+Brhadaranyaka-Up:
+  subjunctive_morphology:
+    Zipf coefficient: 1.393 (R² = 0.942)
+    Shannon entropy: 2.136
+    Hapax ratio: 0.000
+  dual_morphology:
+    Zipf coefficient: 2.002 (R² = 0.694)
+    Shannon entropy: 1.218
+    Hapax ratio: 0.000
+  instrumental_archaic:
+    Zipf coefficient: 0.854 (R² = 0.926)
+    Shannon entropy: 6.714
+    Hapax ratio: 0.666
+  genitive_plural:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  agent_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.787
+    Hapax ratio: 0.000
+  action_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.125
+    Hapax ratio: 0.000
+  abstract_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.657
+    Hapax ratio: 0.000
+  primary_derivatives:
+    Zipf coefficient: 3.600 (R² = 0.914)
+    Shannon entropy: 0.288
+    Hapax ratio: 0.000
+  secondary_derivatives:
+    Zipf coefficient: 5.356 (R² = 0.828)
+    Shannon entropy: 0.672
+    Hapax ratio: 0.333
+
+Prashna-Up:
+  subjunctive_morphology:
+    Zipf coefficient: 1.706 (R² = 0.966)
+    Shannon entropy: 1.624
+    Hapax ratio: 0.333
+  dual_morphology:
+    Zipf coefficient: 1.824 (R² = 0.710)
+    Shannon entropy: 1.253
+    Hapax ratio: 0.333
+  instrumental_archaic:
+    Zipf coefficient: 0.461 (R² = 0.756)
+    Shannon entropy: 5.376
+    Hapax ratio: 0.830
+  action_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  abstract_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.958
+    Hapax ratio: 0.000
+  primary_derivatives:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.360
+    Hapax ratio: 0.000
+  secondary_derivatives:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.958
+    Hapax ratio: 0.000
+
+Shvetashvatara-Up:
+  subjunctive_morphology:
+    Zipf coefficient: 1.034 (R² = 0.837)
+    Shannon entropy: 2.324
+    Hapax ratio: 0.000
+  dual_morphology:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.779
+    Hapax ratio: 0.000
+  instrumental_archaic:
+    Zipf coefficient: 0.449 (R² = 0.840)
+    Shannon entropy: 6.300
+    Hapax ratio: 0.768
+  genitive_plural:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  action_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.330
+    Hapax ratio: 0.000
+  abstract_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.807
+    Hapax ratio: 0.000
+  primary_derivatives:
+    Zipf coefficient: 3.778 (R² = 0.999)
+    Shannon entropy: 0.437
+    Hapax ratio: 0.333
+  secondary_derivatives:
+    Zipf coefficient: 3.551 (R² = 0.840)
+    Shannon entropy: 0.889
+    Hapax ratio: 0.333
+
+Ramayana:
+  subjunctive_morphology:
+    Zipf coefficient: 1.426 (R² = 0.766)
+    Shannon entropy: 2.040
+    Hapax ratio: 0.000
+  dual_morphology:
+    Zipf coefficient: 3.421 (R² = 0.805)
+    Shannon entropy: 1.115
+    Hapax ratio: 0.000
+  instrumental_archaic:
+    Zipf coefficient: 0.825 (R² = 0.907)
+    Shannon entropy: 9.250
+    Hapax ratio: 0.702
+  genitive_plural:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  action_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.431
+    Hapax ratio: 0.000
+  abstract_nouns:
+    Zipf coefficient: 5.629 (R² = 0.756)
+    Shannon entropy: 0.813
+    Hapax ratio: 0.000
+  primary_derivatives:
+    Zipf coefficient: 4.062 (R² = 0.746)
+    Shannon entropy: 0.906
+    Hapax ratio: 0.200
+  secondary_derivatives:
+    Zipf coefficient: 5.321 (R² = 0.854)
+    Shannon entropy: 0.827
+    Hapax ratio: 0.000
+
+Mahabharata:
+  subjunctive_morphology:
+    Zipf coefficient: 2.950 (R² = 0.577)
+    Shannon entropy: 1.925
+    Hapax ratio: 0.143
+  dual_morphology:
+    Zipf coefficient: 3.613 (R² = 0.785)
+    Shannon entropy: 1.130
+    Hapax ratio: 0.000
+  instrumental_archaic:
+    Zipf coefficient: 0.826 (R² = 0.914)
+    Shannon entropy: 8.905
+    Hapax ratio: 0.686
+  genitive_plural:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  agent_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  action_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.370
+    Hapax ratio: 0.000
+  abstract_nouns:
+    Zipf coefficient: 6.577 (R² = 0.730)
+    Shannon entropy: 0.819
+    Hapax ratio: 0.000
+  primary_derivatives:
+    Zipf coefficient: 2.628 (R² = 0.912)
+    Shannon entropy: 0.977
+    Hapax ratio: 0.000
+  secondary_derivatives:
+    Zipf coefficient: 6.066 (R² = 0.857)
+    Shannon entropy: 0.829
+    Hapax ratio: 0.000
+
+Bhagavata-Purana:
+  subjunctive_morphology:
+    Zipf coefficient: 2.870 (R² = 0.543)
+    Shannon entropy: 1.901
+    Hapax ratio: 0.143
+  dual_morphology:
+    Zipf coefficient: 3.430 (R² = 0.803)
+    Shannon entropy: 1.126
+    Hapax ratio: 0.000
+  instrumental_archaic:
+    Zipf coefficient: 0.759 (R² = 0.907)
+    Shannon entropy: 10.229
+    Hapax ratio: 0.711
+  genitive_plural:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.000
+    Hapax ratio: 0.000
+  agent_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.998
+    Hapax ratio: 0.000
+  action_nouns:
+    Zipf coefficient: 0.000 (R² = 0.000)
+    Shannon entropy: 0.398
+    Hapax ratio: 0.000
+  abstract_nouns:
+    Zipf coefficient: 3.739 (R² = 0.936)
+    Shannon entropy: 0.692
+    Hapax ratio: 0.000
+  primary_derivatives:
+    Zipf coefficient: 1.962 (R² = 0.900)
+    Shannon entropy: 1.152
+    Hapax ratio: 0.000
+  secondary_derivatives:
+    Zipf coefficient: 3.467 (R² = 0.949)
+    Shannon entropy: 0.764
+    Hapax ratio: 0.000
+\n\nMETHODOLOGY
+--------------------------------------------------
+• Type frequency: Count of unique forms
+• Token frequency: Count of total occurrences
+• TTR: Type-Token Ratio (lexical diversity)
+• Morphological productivity: TTR for inflectional patterns
+• Zipfian analysis: Frequency distribution patterns
+• Shannon entropy: Information content measure\n
+Type-token analysis reveals morphological productivity patterns
+and vocabulary richness evolution across Vedic periods.

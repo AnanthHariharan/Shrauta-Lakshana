@@ -38,9 +38,10 @@ def main():
     corpus_files = {
         # Samhitas (Early to Middle Vedic)
         'Rigveda': '../texts/samhita/rig-samhita.txt',
-        'Yajurveda': '../texts/samhita/yajur-samhita.txt',
         'Samaveda': '../texts/samhita/sama-samhita.txt',
-        'Atharvaveda': '../texts/samhita/atharva-samhita.txt',
+        'Yajurveda': '../texts/samhita/yajur-samhita.txt',
+        'Atharvaveda (Paippalada)': '../texts/samhita/atharva-paippalada-samhita.txt',
+        'Atharvaveda (Saunaka)': '../texts/samhita/atharva-saunaka-samhita.txt',
 
         # Brahmanas (Late Vedic)
         'Kausitaki-Br': '../texts/brahmana/rig-kausitaki.txt',
@@ -49,10 +50,17 @@ def main():
         'Gopatha-Br': '../texts/brahmana/atharva-gopatha.txt',
 
         # Upanishads (Latest Vedic)
-        'Brhadaranyaka-Up': '../texts/upanishad/yajur-brhadaranyaka.txt',
-        'Chandogya-Up': '../texts/upanishad/sama-chandogya.txt',
         'Aitareya-Up': '../texts/upanishad/rig-aitareya.txt',
-        'Mandukya-Up': '../texts/upanishad/atharva-mandukya.txt'
+        'Taittiriya-Up': '../texts/upanishad/yajur-taittiriya-up.txt',
+        'Chandogya-Up': '../texts/upanishad/sama-chandogya.txt',
+        'Brhadaranyaka-Up': '../texts/upanishad/yajur-brhadaranyaka.txt',
+        'Prashna-Up': '../texts/upanishad/atharva-prashna.txt',
+        'Shvetashvatara-Up': '../texts/upanishad/yajur-shvetashvatara.txt',
+        
+        # Classical Sanskrit (Post-Vedic)
+        'Ramayana': '../texts/classical-sanskrit/ramayana.txt',
+        'Mahabharata': '../texts/classical-sanskrit/mahabharata.txt',
+        'Bhagavata-Purana': '../texts/classical-sanskrit/bhagavata-purana.txt'
     }
     
     print("Analyzing corpus files...")
