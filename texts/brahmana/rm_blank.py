@@ -15,7 +15,7 @@ def remove_blank_lines(input_filepath, output_filepath):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-input_file = 'atharva-paippalada-samhita.txt'
-output_file = 'atharva-paippalada-samhita.txt'
+input_file = 'yajur-satapatha.txt'
+output_file = 'yajur-satapatha.txt'
 
 remove_blank_lines(input_file, output_file)

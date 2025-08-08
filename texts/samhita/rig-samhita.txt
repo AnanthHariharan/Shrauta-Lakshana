@@ -2,7 +2,7 @@ agnim īḷe purohitaṃ yajñasya devam ṛtvijam
 hotāraṃ ratnadhātamam
 agniḥ pūrvebhir ṛṣibhir īḍyo nūtanair uta
 sa devāṃ eha vakṣati
-agninā rayim aśnavat poṣam eva dive-dive
+agninā rayim aśnavat poṣam eva dive dive
 yaśasaṃ vīravattamam
 agne yaṃ yajñam adhvaraṃ viśvataḥ paribhūr asi
 sa id deveṣu gacchati
@@ -10,7 +10,7 @@ agnir hotā kavikratuḥ satyaś citraśravastamaḥ
 devo devebhir ā gamat
 yad aṅga dāśuṣe tvam agne bhadraṃ kariṣyasi
 tavet tat satyam aṅgiraḥ
-upa tvāgne dive-dive doṣāvastar dhiyā vayam
+upa tvāgne dive dive doṣāvastar dhiyā vayam
 namo bharanta emasi
 rājantam adhvarāṇāṃ gopām ṛtasya dīdivim
 vardhamānaṃ sve dame
@@ -59,7 +59,7 @@ yajñaṃ dadhe sarasvatī
 maho arṇaḥ sarasvatī pra cetayati ketunā
 dhiyo viśvā vi rājati
 surūpakṛtnum ūtaye sudughām iva goduhe
-juhūmasi dyavi-dyavi
+juhūmasi dyavi dyavi
 upa naḥ savanā gahi somasya somapāḥ piba
 godā id revato madaḥ
 athā te antamānāṃ vidyāma sumatīnām
@@ -130,7 +130,7 @@ indraṃ vayam mahādhana indram arbhe havāmahe
 yujaṃ vṛtreṣu vajriṇam
 sa no vṛṣann amuṃ caruṃ satrādāvann apā vṛdhi
 asmabhyam apratiṣkutaḥ
-tuñje-tuñje ya uttare stomā indrasya vajriṇaḥ
+tuñje tuñje ya uttare stomā indrasya vajriṇaḥ
 na vindhe asya suṣṭutim
 vṛṣā yūtheva vaṃsagaḥ kṛṣṭīr iyarty ojasā
 īśāno apratiṣkutaḥ
@@ -176,7 +176,7 @@ asme dhehi śravo bṛhad dyumnaṃ sahasrasātamam
 indra tā rathinīr iṣaḥ
 vasor indraṃ vasupatiṃ gīrbhir gṛṇanta ṛgmiyam
 homa gantāram ūtaye
-sute-sute nyokase bṛhad bṛhata ed ariḥ
+sute sute nyokase bṛhad bṛhata ed ariḥ
 indrāya śūṣam arcati
 gāyanti tvā gāyatriṇo 'rcanty arkam arkiṇaḥ
 brahmāṇas tvā śatakrata ud vaṃśam iva yemire
@@ -220,7 +220,7 @@ indram īśānam ojasābhi stomā anūṣata
 sahasraṃ yasya rātaya uta vā santi bhūyasīḥ
 agniṃ dūtaṃ vṛṇīmahe hotāraṃ viśvavedasam
 asya yajñasya sukratum
-agnim-agniṃ havīmabhiḥ sadā havanta viśpatim
+agnim agniṃ havīmabhiḥ sadā havanta viśpatim
 havyavāham purupriyam
 agne devāṃ ihā vaha jajñāno vṛktabarhiṣe
 asi hotā na īḍyaḥ
@@ -399,7 +399,7 @@ saṃ vo madāso agmatendreṇa ca marutvatā
 uta tyaṃ camasaṃ navaṃ tvaṣṭur devasya niṣkṛtam
 akarta caturaḥ punaḥ
 te no ratnāni dhattana trir ā sāptāni sunvate
-ekam-ekaṃ suśastibhiḥ
+ekam ekaṃ suśastibhiḥ
 adhārayanta vahnayo 'bhajanta sukṛtyayā
 bhāgaṃ deveṣu yajñiyam
 ihendrāgnī upa hvaye tayor it stomam uśmasi
@@ -535,7 +535,7 @@ kṣayann asmabhyam asura pracetā rājann enāṃsi śiśrathaḥ kṛtāni
 ud uttamaṃ varuṇa pāśam asmad avādhamaṃ vi madhyamaṃ śrathāya
 athā vayam āditya vrate tavānāgaso aditaye syāma
 yac cid dhi te viśo yathā pra deva varuṇa vratam
-minīmasi dyavi-dyavi
+minīmasi dyavi dyavi
 mā no vadhāya hatnave jihīḷānasya rīradhaḥ
 mā hṛṇānasya manyave
 vi mṛḷīkāya te mano rathīr aśvaṃ na saṃditam
@@ -586,7 +586,7 @@ sakhā sakhye vareṇyaḥ
 sīdantu manuṣo yathā
 pūrvya hotar asya no mandasva sakhyasya ca
 imā u ṣu śrudhī giraḥ
-yac cid dhi śaśvatā tanā devaṃ-devaṃ yajāmahe
+yac cid dhi śaśvatā tanā devaṃ devaṃ yajāmahe
 tve id dhūyate haviḥ
 priyo no astu viśpatir hotā mandro vareṇyaḥ
 priyāḥ svagnayo vayam
@@ -614,7 +614,7 @@ nakir asya sahantya paryetā kayasya cit
 vājo asti śravāyyaḥ
 sa vājaṃ viśvacarṣaṇir arvadbhir astu tarutā
 viprebhir astu sanitā
-jarābodha tad viviḍḍhi viśe-viśe yajñiyāya
+jarābodha tad viviḍḍhi viśe viśe yajñiyāya
 stomaṃ rudrāya dṛśīkam
 sa no mahāṃ animāno dhūmaketuḥ puruścandraḥ
 dhiye vājāya hinvatu
@@ -630,7 +630,7 @@ yatra nāry apacyavam upacyavaṃ ca śikṣate
 ulūkhalasutānām aved v indra jalgulaḥ
 yatra manthāṃ vibadhnate raśmīn yamitavā iva
 ulūkhalasutānām aved v indra jalgulaḥ
-yac cid dhi tvaṃ gṛhe-gṛha ulūkhalaka yujyase
+yac cid dhi tvaṃ gṛhe gṛha ulūkhalaka yujyase
 iha dyumattamaṃ vada jayatām iva dundubhiḥ
 uta sma te vanaspate vāto vi vāty agram it
 atho indrāya pātave sunu somam ulūkhala
@@ -666,7 +666,7 @@ stotraṃ rādhānām pate girvāho vīra yasya te
 vibhūtir astu sūnṛtā
 ūrdhvas tiṣṭhā na ūtaye 'smin vāje śatakrato
 sam anyeṣu bravāvahai
-yoge-yoge tavastaraṃ vāje-vāje havāmahe
+yoge yoge tavastaraṃ vāje vāje havāmahe
 sakhāya indram ūtaye
 ā ghā gamad yadi śravat sahasriṇībhir ūtibhiḥ
 vājebhir upa no havam
@@ -710,7 +710,7 @@ tvam agne vṛṣabhaḥ puṣṭivardhana udyatasruce bhavasi śravāyyaḥ
 ya āhutim pari vedā vaṣaṭkṛtim ekāyur agre viśa āvivāsasi
 tvam agne vṛjinavartaniṃ naraṃ sakman piparṣi vidathe vicarṣaṇe
 yaḥ śūrasātā paritakmye dhane dabhrebhiś cit samṛtā haṃsi bhūyasaḥ
-tvaṃ tam agne amṛtatva uttame martaṃ dadhāsi śravase dive-dive
+tvaṃ tam agne amṛtatva uttame martaṃ dadhāsi śravase dive dive
 yas tātṛṣāṇa ubhayāya janmane mayaḥ kṛṇoṣi praya ā ca sūraye
 tvaṃ no agne sanaye dhanānāṃ yaśasaṃ kāruṃ kṛṇuhi stavānaḥ
 ṛdhyāma karmāpasā navena devair dyāvāpṛthivī prāvataṃ naḥ
@@ -806,7 +806,7 @@ trir no rayiṃ vahatam aśvinā yuvaṃ trir devatātā trir utāvataṃ dhiya�
 triḥ saubhagatvaṃ trir uta śravāṃsi nas triṣṭhaṃ vāṃ sūre duhitā ruhad ratham
 trir no aśvinā divyāni bheṣajā triḥ pārthivāni trir u dattam adbhyaḥ
 omānaṃ śaṃyor mamakāya sūnave tridhātu śarma vahataṃ śubhas patī
-trir no aśvinā yajatā dive-dive pari tridhātu pṛthivīm aśāyatam
+trir no aśvinā yajatā dive dive pari tridhātu pṛthivīm aśāyatam
 tisro nāsatyā rathyā parāvata ātmeva vātaḥ svasarāṇi gacchatam
 trir aśvinā sindhubhiḥ saptamātṛbhis traya āhāvās tredhā haviṣ kṛtam
 tisraḥ pṛthivīr upari pravā divo nākaṃ rakṣethe dyubhir aktubhir hitam
@@ -920,7 +920,7 @@ yad yūyam pṛśnimātaro martāsaḥ syātana
 stotā vo amṛtaḥ syāt
 mā vo mṛgo na yavase jaritā bhūd ajoṣyaḥ
 pathā yamasya gād upa
-mo ṣu ṇaḥ parā-parā nirṛtir durhaṇā vadhīt
+mo ṣu ṇaḥ parā parā nirṛtir durhaṇā vadhīt
 padīṣṭa tṛṣṇayā saha
 satyaṃ tveṣā amavanto dhanvañ cid ā rudriyāsaḥ
 mihaṃ kṛṇvanty avātām
@@ -973,7 +973,7 @@ yasminn indro varuṇo mitro aryamā devā okāṃsi cakrire
 tam id vocemā vidatheṣu śambhuvam mantraṃ devā anehasam
 imāṃ ca vācam pratiharyathā naro viśved vāmā vo aśnavat
 ko devayantam aśnavaj janaṃ ko vṛktabarhiṣam
-pra-pra dāśvān pastyābhir asthitāntarvāvat kṣayaṃ dadhe
+pra pra dāśvān pastyābhir asthitāntarvāvat kṣayaṃ dadhe
 upa kṣatram pṛñcīta hanti rājabhir bhaye cit sukṣitiṃ dadhe
 nāsya vartā na tarutā mahādhane nārbhe asti vajriṇaḥ
 yaṃ rakṣanti pracetaso varuṇo mitro aryamā
@@ -1102,7 +1102,7 @@ abhūd u bhā u aṃśave hiraṇyam prati sūryaḥ
 vy akhyaj jihvayāsitaḥ
 abhūd u pāram etave panthā ṛtasya sādhuyā
 adarśi vi srutir divaḥ
-tat-tad id aśvinor avo jaritā prati bhūṣati
+tat tad id aśvinor avo jaritā prati bhūṣati
 made somasya pipratoḥ
 vāvasānā vivasvati somasya pītyā girā
 manuṣvac chambhū ā gatam
@@ -1555,7 +1555,7 @@ vīḷu cid dṛḷhā pitaro na ukthair adriṃ rujann aṅgiraso raveṇa
 cakrur divo bṛhato gātum asme ahaḥ svar vividuḥ ketum usrāḥ
 dadhann ṛtaṃ dhanayann asya dhītim ād id aryo didhiṣvo vibhṛtrāḥ
 atṛṣyantīr apaso yanty acchā devāñ janma prayasā vardhayantīḥ
-mathīd yad īṃ vibhṛto mātariśvā gṛhe-gṛhe śyeto jenyo bhūt
+mathīd yad īṃ vibhṛto mātariśvā gṛhe gṛhe śyeto jenyo bhūt
 ād īṃ rājñe na sahīyase sacā sann ā dūtyam bhṛgavāṇo vivāya
 mahe yat pitra īṃ rasaṃ dive kar ava tsarat pṛśanyaś cikitvān
 sṛjad astā dhṛṣatā didyum asmai svāyāṃ devo duhitari tviṣiṃ dhāt
@@ -1614,7 +1614,7 @@ upaprayanto adhvaram mantraṃ vocemāgnaye
 yaḥ snīhitīṣu pūrvyaḥ saṃjagmānāsu kṛṣṭiṣu
 arakṣad dāśuṣe gayam
 uta bruvantu jantava ud agnir vṛtrahājani
-dhanañjayo raṇe-raṇe
+dhanañjayo raṇe raṇe
 yasya dūto asi kṣaye veṣi havyāni vītaye
 dasmat kṛṇoṣy adhvaram
 tam it suhavyam aṅgiraḥ sudevaṃ sahaso yaho
@@ -1735,7 +1735,7 @@ kratvā mahāṃ anuṣvadham bhīma ā vāvṛdhe śavaḥ
 na tvāvāṃ indra kaś cana na jāto na janiṣyate 'ti viśvaṃ vavakṣitha
 yo aryo martabhojanam parādadāti dāśuṣe
 indro asmabhyaṃ śikṣatu vi bhajā bhūri te vasu bhakṣīya tava rādhasaḥ
-made-made hi no dadir yūthā gavām ṛjukratuḥ
+made made hi no dadir yūthā gavām ṛjukratuḥ
 saṃ gṛbhāya purū śatobhayāhastyā vasu śiśīhi rāya ā bhara
 mādayasva sute sacā śavase śūra rādhase
 vidmā hi tvā purūvasum upa kāmān sasṛjmahe 'thā no 'vitā bhava
@@ -1874,7 +1874,7 @@ paśyan hiraṇyacakrān ayodaṃṣṭrān vidhāvato varāhūn
 eṣā syā vo maruto 'nubhartrī prati ṣṭobhati vāghato na vāṇī
 astobhayad vṛthāsām anu svadhāṃ gabhastyoḥ
 ā no bhadrāḥ kratavo yantu viśvato 'dabdhāso aparītāsa udbhidaḥ
-devā no yathā sadam id vṛdhe asann aprāyuvo rakṣitāro dive-dive
+devā no yathā sadam id vṛdhe asann aprāyuvo rakṣitāro dive dive
 devānām bhadrā sumatir ṛjūyatāṃ devānāṃ rātir abhi no ni vartatām
 devānāṃ sakhyam upa sedimā vayaṃ devā na āyuḥ pra tirantu jīvase
 tān pūrvayā nividā hūmahe vayam bhagam mitram aditiṃ dakṣam asridham
@@ -1975,7 +1975,7 @@ uṣas tam aśyāṃ yaśasaṃ suvīraṃ dāsapravargaṃ rayim aśvabudhyam
 sudaṃsasā śravasā yā vibhāsi vājaprasūtā subhage bṛhantam
 viśvāni devī bhuvanābhicakṣyā pratīcī cakṣur urviyā vi bhāti
 viśvaṃ jīvaṃ carase bodhayantī viśvasya vācam avidan manāyoḥ
-punaḥ-punar jāyamānā purāṇī samānaṃ varṇam abhi śumbhamānā
+punaḥ punar jāyamānā purāṇī samānaṃ varṇam abhi śumbhamānā
 śvaghnīva kṛtnur vija āminānā martasya devī jarayanty āyuḥ
 vyūrṇvatī divo antāṃ abodhy apa svasāraṃ sanutar yuyoti
 praminatī manuṣyā yugāni yoṣā jārasya cakṣasā vi bhāti
@@ -2023,7 +2023,7 @@ yasmai tvam āyajase sa sādhaty anarvā kṣeti dadhate suvīryam
 sa tūtāva nainam aśnoty aṃhatir agne sakhye mā riṣāmā vayaṃ tava
 śakema tvā samidhaṃ sādhayā dhiyas tve devā havir adanty āhutam
 tvam ādityāṃ ā vaha tān hy uśmasy agne sakhye mā riṣāmā vayaṃ tava
-bharāmedhmaṃ kṛṇavāmā havīṃṣi te citayantaḥ parvaṇā-parvaṇā vayam
+bharāmedhmaṃ kṛṇavāmā havīṃṣi te citayantaḥ parvaṇā parvaṇā vayam
 jīvātave prataraṃ sādhayā dhiyo 'gne sakhye mā riṣāmā vayaṃ tava
 viśāṃ gopā asya caranti jantavo dvipac ca yad uta catuṣpad aktubhiḥ
 citraḥ praketa uṣaso mahāṃ asy agne sakhye mā riṣāmā vayaṃ tava
@@ -2115,7 +2115,7 @@ jātavedase sunavāma somam arātīyato ni dahāti vedaḥ
 sa naḥ parṣad ati durgāṇi viśvā nāveva sindhuṃ duritāty agniḥ
 sa yo vṛṣā vṛṣṇyebhiḥ samokā maho divaḥ pṛthivyāś ca samrāṭ
 satīnasatvā havyo bhareṣu marutvān no bhavatv indra ūtī
-yasyānāptaḥ sūryasyeva yāmo bhare-bhare vṛtrahā śuṣmo asti
+yasyānāptaḥ sūryasyeva yāmo bhare bhare vṛtrahā śuṣmo asti
 vṛṣantamaḥ sakhibhiḥ svebhir evair marutvān no bhavatv indra ūtī
 divo na yasya retaso dughānāḥ panthāso yanti śavasāparītāḥ
 taraddveṣāḥ sāsahiḥ pauṃsyebhir marutvān no bhavatv indra ūtī
@@ -2157,7 +2157,7 @@ yo vyaṃsaṃ jāhṛṣāṇena manyunā yaḥ śambaraṃ yo ahan piprum avra
 indro yaḥ śuṣṇam aśuṣaṃ ny āvṛṇaṅ marutvantaṃ sakhyāya havāmahe
 yasya dyāvāpṛthivī pauṃsyam mahad yasya vrate varuṇo yasya sūryaḥ
 yasyendrasya sindhavaḥ saścati vratam marutvantaṃ sakhyāya havāmahe
-yo aśvānāṃ yo gavāṃ gopatir vaśī ya āritaḥ karmaṇi-karmaṇi sthiraḥ
+yo aśvānāṃ yo gavāṃ gopatir vaśī ya āritaḥ karmaṇi karmaṇi sthiraḥ
 vīḷoś cid indro yo asunvato vadho marutvantaṃ sakhyāya havāmahe
 yo viśvasya jagataḥ prāṇatas patir yo brahmaṇe prathamo gā avindat
 indro yo dasyūṃr adharāṃ avātiran marutvantaṃ sakhyāya havāmahe
@@ -2179,11 +2179,11 @@ asya śravo nadyaḥ sapta bibhrati dyāvākṣāmā pṛthivī darśataṃ vapu
 asme sūryācandramasābhicakṣe śraddhe kam indra carato vitarturam
 taṃ smā ratham maghavan prāva sātaye jaitraṃ yaṃ te anumadāma saṃgame
 ājā na indra manasā puruṣṭuta tvāyadbhyo maghavañ charma yaccha naḥ
-vayaṃ jayema tvayā yujā vṛtam asmākam aṃśam ud avā bhare-bhare
+vayaṃ jayema tvayā yujā vṛtam asmākam aṃśam ud avā bhare bhare
 asmabhyam indra varivaḥ sugaṃ kṛdhi pra śatrūṇām maghavan vṛṣṇyā ruja
 nānā hi tvā havamānā janā ime dhanānāṃ dhartar avasā vipanyavaḥ
 asmākaṃ smā ratham ā tiṣṭha sātaye jaitraṃ hīndra nibhṛtam manas tava
-gojitā bāhū amitakratuḥ simaḥ karman-karmañ chatamūtiḥ khajaṅkaraḥ
+gojitā bāhū amitakratuḥ simaḥ karman karmañ chatamūtiḥ khajaṅkaraḥ
 akalpa indraḥ pratimānam ojasāthā janā vi hvayante siṣāsavaḥ
 ut te śatān maghavann uc ca bhūyasa ut sahasrād ririce kṛṣṭiṣu śravaḥ
 amātraṃ tvā dhiṣaṇā titviṣe mahy adhā vṛtrāṇi jighnase purandara
@@ -2713,8 +2713,8 @@ pūrvā viśvasmād bhuvanād abodhi jayantī vājam bṛhatī sanutrī
 uccā vy akhyad yuvatiḥ punarbhūr oṣā agan prathamā pūrvahūtau
 yad adya bhāgaṃ vibhajāsi nṛbhya uṣo devi martyatrā sujāte
 devo no atra savitā damūnā anāgaso vocati sūryāya
-gṛhaṃ-gṛham ahanā yāty acchā dive-dive adhi nāmā dadhānā
-siṣāsantī dyotanā śaśvad āgād agram-agram id bhajate vasūnām
+gṛhaṃ gṛham ahanā yāty acchā dive dive adhi nāmā dadhānā
+siṣāsantī dyotanā śaśvad āgād agram agram id bhajate vasūnām
 bhagasya svasā varuṇasya jāmir uṣaḥ sūnṛte prathamā jarasva
 paścā sa daghyā yo aghasya dhātā jayema taṃ dakṣiṇayā rathena
 ud īratāṃ sūnṛtā ut purandhīr ud agnayaḥ śuśucānāso asthuḥ
@@ -2724,14 +2724,14 @@ parikṣitos tamo anyā guhākar adyaud uṣāḥ śośucatā rathena
 sadṛśīr adya sadṛśīr id u śvo dīrghaṃ sacante varuṇasya dhāma
 anavadyās triṃśataṃ yojanāny ekaikā kratum pari yanti sadyaḥ
 jānaty ahnaḥ prathamasya nāma śukrā kṛṣṇād ajaniṣṭa śvitīcī
-ṛtasya yoṣā na mināti dhāmāhar-ahar niṣkṛtam ācarantī
+ṛtasya yoṣā na mināti dhāmāhar ahar niṣkṛtam ācarantī
 kanyeva tanvā śāśadānāṃ eṣi devi devam iyakṣamāṇam
 saṃsmayamānā yuvatiḥ purastād āvir vakṣāṃsi kṛṇuṣe vibhātī
 susaṃkāśā mātṛmṛṣṭeva yoṣāvis tanvaṃ kṛṇuṣe dṛśe kam
 bhadrā tvam uṣo vitaraṃ vy uccha na tat te anyā uṣaso naśanta
 aśvāvatīr gomatīr viśvavārā yatamānā raśmibhiḥ sūryasya
 parā ca yanti punar ā ca yanti bhadrā nāma vahamānā uṣāsaḥ
-ṛtasya raśmim anuyacchamānā bhadram-bhadraṃ kratum asmāsu dhehi
+ṛtasya raśmim anuyacchamānā bhadram bhadraṃ kratum asmāsu dhehi
 uṣo no adya suhavā vy ucchāsmāsu rāyo maghavatsu ca syuḥ
 uṣā ucchantī samidhāne agnā udyan sūrya urviyā jyotir aśret
 devo no atra savitā nv artham prāsāvīd dvipat pra catuṣpad ityai
@@ -2754,7 +2754,7 @@ tāḥ pratnavan navyasīr nūnam asme revad ucchantu sudinā uṣāsaḥ
 pra bodhayoṣaḥ pṛṇato maghony abudhyamānāḥ paṇayaḥ sasantu
 revad uccha maghavadbhyo maghoni revat stotre sūnṛte jārayantī
 aveyam aśvaid yuvatiḥ purastād yuṅkte gavām aruṇānām anīkam
-vi nūnam ucchād asati pra ketur gṛhaṃ-gṛham upa tiṣṭhāte agniḥ
+vi nūnam ucchād asati pra ketur gṛhaṃ gṛham upa tiṣṭhāte agniḥ
 ut te vayaś cid vasater apaptan naraś ca ye pitubhājo vyuṣṭau
 amā sate vahasi bhūri vāmam uṣo devi dāśuṣe martyāya
 astoḍhvaṃ stomyā brahmaṇā me 'vīvṛdhadhvam uśatīr uṣāsaḥ
@@ -2829,7 +2829,7 @@ yam mātariśvā manave parāvato devam bhāḥ parāvataḥ
 evena sadyaḥ pary eti pārthivam muhurgī reto vṛṣabhaḥ kanikradad dadhad retaḥ kanikradat
 śataṃ cakṣāṇo akṣabhir devo vaneṣu turvaṇiḥ
 sado dadhāna upareṣu sānuṣv agniḥ pareṣu sānuṣu
-sa sukratuḥ purohito dame-dame 'gnir yajñasyādhvarasya cetati kratvā yajñasya cetati
+sa sukratuḥ purohito dame dame 'gnir yajñasyādhvarasya cetati kratvā yajñasya cetati
 kratvā vedhā iṣūyate viśvā jātāni paspaśe
 yato ghṛtaśrīr atithir ajāyata vahnir vedhā ajāyata
 kratvā yad asya taviṣīṣu pṛñcate 'gner aveṇa marutāṃ na bhojyeṣirāya na bhojyā
@@ -2865,7 +2865,7 @@ ava sraved aghaśaṃso 'vataram ava kṣudram iva sravet
 vanema tad dhotrayā citantyā vanema rayiṃ rayivaḥ suvīryaṃ raṇvaṃ santaṃ suvīryam
 durmanmānaṃ sumantubhir em iṣā pṛcīmahi
 ā satyābhir indraṃ dyumnahūtibhir yajatraṃ dyumnahūtibhiḥ
-pra-prā vo asme svayaśobhir ūtī parivarga indro durmatīnāṃ darīman durmatīnām
+pra prā vo asme svayaśobhir ūtī parivarga indro durmatīnāṃ darīman durmatīnām
 svayaṃ sā riṣayadhyai yā na upeṣe atraiḥ
 hatem asan na vakṣati kṣiptā jūrṇir na vakṣati
 tvaṃ na indra rāyā parīṇasā yāhi pathāṃ anehasā puro yāhy arakṣasā
@@ -2920,7 +2920,7 @@ viduṣ ṭe asya vīryasya pūravaḥ puro yad indra śāradīr avātiraḥ sā
 mahīm amuṣṇāḥ pṛthivīm imā apo mandasāna imā apaḥ
 ād it te asya vīryasya carkiran madeṣu vṛṣann uśijo yad āvitha sakhīyato yad āvitha
 cakartha kāram ebhyaḥ pṛtanāsu pravantave
-te anyām-anyāṃ nadyaṃ saniṣṇata śravasyantaḥ saniṣṇata
+te anyām anyāṃ nadyaṃ saniṣṇata śravasyantaḥ saniṣṇata
 uto no asyā uṣaso juṣeta hy arkasya bodhi haviṣo havīmabhiḥ svarṣātā havīmabhiḥ
 yad indra hantave mṛdho vṛṣā vajriñ ciketasi
 ā me asya vedhaso navīyaso manma śrudhi navīyasaḥ
@@ -2931,7 +2931,7 @@ tvayā vayam maghavan pūrvye dhana indratvotāḥ sāsahyāma pṛtanyato vanuy
 nediṣṭhe asminn ahany adhi vocā nu sunvate
 asmin yajñe vi cayemā bhare kṛtaṃ vājayanto bhare kṛtam
 svarjeṣe bhara āprasya vakmany uṣarbudhaḥ svasminn añjasi krāṇasya svasminn añjasi
-ahann indro yathā vide śīrṣṇā-śīrṣṇopavācyaḥ
+ahann indro yathā vide śīrṣṇā śīrṣṇopavācyaḥ
 asmatrā te sadhryak santu rātayo bhadrā bhadrasya rātayaḥ
 tat tu prayaḥ pratnathā te śuśukvanaṃ yasmin yajñe vāram akṛṇvata kṣayam ṛtasya vār asi kṣayam
 vi tad vocer adha dvitāntaḥ paśyanti raśmibhiḥ
@@ -2942,7 +2942,7 @@ sunvadbhyo randhayā kaṃ cid avrataṃ hṛṇāyantaṃ cid avratam
 saṃ yaj janān kratubhiḥ śūra īkṣayad dhane hite taruṣanta śravasyavaḥ pra yakṣanta śravasyavaḥ
 tasmā āyuḥ prajāvad id bādhe arcanty ojasā
 indra okyaṃ didhiṣanta dhītayo devāṃ acchā na dhītayaḥ
-yuvaṃ tam indrāparvatā puroyudhā yo naḥ pṛtanyād apa taṃ-tam id dhataṃ vajreṇa taṃ-tam id dhatam
+yuvaṃ tam indrāparvatā puroyudhā yo naḥ pṛtanyād apa taṃ tam id dhataṃ vajreṇa taṃ tam id dhatam
 dūre cattāya cchantsad gahanaṃ yad inakṣat
 asmākaṃ śatrūn pari śūra viśvato darmā darṣīṣṭa viśvataḥ
 ubhe punāmi rodasī ṛtena druho dahāmi sam mahīr anindrāḥ
@@ -3005,12 +3005,12 @@ ime ye te su vāyo bāhvojaso 'ntar nadī te patayanty ukṣaṇo mahi vrādhant
 dhanvañ cid ye anāśavo jīrāś cid agiraukasaḥ
 sūryasyeva raśmayo durniyantavo hastayor durniyantavaḥ
 pra su jyeṣṭhaṃ nicirābhyām bṛhan namo havyam matim bharatā mṛḷayadbhyāṃ svādiṣṭham mṛḷayadbhyām
-tā samrājā ghṛtāsutī yajñe-yajña upastutā
+tā samrājā ghṛtāsutī yajñe yajña upastutā
 athainoḥ kṣatraṃ na kutaś canādhṛṣe devatvaṃ nū cid ādhṛṣe
 adarśi gātur urave varīyasī panthā ṛtasya sam ayaṃsta raśmibhiś cakṣur bhagasya raśmibhiḥ
 dyukṣam mitrasya sādanam aryamṇo varuṇasya ca
 athā dadhāte bṛhad ukthyaṃ vaya upastutyam bṛhad vayaḥ
-jyotiṣmatīm aditiṃ dhārayatkṣitiṃ svarvatīm ā sacete dive-dive jāgṛvāṃsā dive-dive
+jyotiṣmatīm aditiṃ dhārayatkṣitiṃ svarvatīm ā sacete dive dive jāgṛvāṃsā dive dive
 jyotiṣmat kṣatram āśāte ādityā dānunas patī
 mitras tayor varuṇo yātayajjano 'ryamā yātayajjanaḥ
 ayam mitrāya varuṇāya śantamaḥ somo bhūtv avapāneṣv ābhago devo deveṣv ābhagaḥ
@@ -3033,7 +3033,7 @@ suto mitrāya varuṇāya pītaye cārur ṛtāya pītaye
 tāṃ vāṃ dhenuṃ na vāsarīm aṃśuṃ duhanty adribhiḥ somaṃ duhanty adribhiḥ
 asmatrā gantam upa no 'rvāñcā somapītaye
 ayaṃ vām mitrāvaruṇā nṛbhiḥ sutaḥ soma ā pītaye sutaḥ
-pra-pra pūṣṇas tuvijātasya śasyate mahitvam asya tavaso na tandate stotram asya na tandate
+pra pra pūṣṇas tuvijātasya śasyate mahitvam asya tavaso na tandate stotram asya na tandate
 arcāmi sumnayann aham antyūtim mayobhuvam
 viśvasya yo mana āyuyuve makho deva āyuyuve makhaḥ
 pra hi tvā pūṣann ajiraṃ na yāmani stomebhiḥ kṛṇva ṛṇavo yathā mṛdha uṣṭro na pīparo mṛdhaḥ
@@ -3041,7 +3041,7 @@ huve yat tvā mayobhuvaṃ devaṃ sakhyāya martyaḥ
 asmākam āṅgūṣān dyumninas kṛdhi vājeṣu dyumninas kṛdhi
 yasya te pūṣan sakhye vipanyavaḥ kratvā cit santo 'vasā bubhujrira iti kratvā bubhujrire
 tām anu tvā navīyasīṃ niyutaṃ rāya īmahe
-aheḷamāna uruśaṃsa sarī bhava vāje-vāje sarī bhava
+aheḷamāna uruśaṃsa sarī bhava vāje vāje sarī bhava
 asyā ū ṣu ṇa upa sātaye bhuvo 'heḷamāno rarivāṃ ajāśva śravasyatām ajāśva
 o ṣu tvā vavṛtīmahi stomebhir dasma sādhubhiḥ
 nahi tvā pūṣann atimanya āghṛṇe na te sakhyam apahnuve
@@ -3066,7 +3066,7 @@ o ṣū ṇo agne śṛṇuhi tvam īḷito devebhyo bravasi yajñiyebhyo rājab
 yad dha tyām aṅgirobhyo dhenuṃ devā adattana
 vi tāṃ duhre aryamā kartarī sacāṃ eṣa tāṃ veda me sacā
 mo ṣu vo asmad abhi tāni pauṃsyā sanā bhūvan dyumnāni mota jāriṣur asmat purota jāriṣuḥ
-yad vaś citraṃ yuge-yuge navyaṃ ghoṣād amartyam
+yad vaś citraṃ yuge yuge navyaṃ ghoṣād amartyam
 asmāsu tan maruto yac ca duṣṭaraṃ didhṛtā yac ca duṣṭaram
 dadhyaṅ ha me januṣam pūrvo aṅgirāḥ priyamedhaḥ kaṇvo atrir manur vidus te me pūrve manur viduḥ
 teṣāṃ deveṣv āyatir asmākaṃ teṣu nābhayaḥ
@@ -3239,7 +3239,7 @@ todasyeva śaraṇa ā mahasya
 vy aninasya dhaninaḥ prahoṣe cid araruṣaḥ
 kadā cana prajigato adevayoḥ
 sa candro vipra martyo maho vrādhantamo divi
-pra-pret te agne vanuṣaḥ syāma
+pra pret te agne vanuṣaḥ syāma
 mitraṃ na yaṃ śimyā goṣu gavyavaḥ svādhyo vidathe apsu jījanan
 arejetāṃ rodasī pājasā girā prati priyaṃ yajataṃ januṣām avaḥ
 yad dha tyad vām purumīḷhasya sominaḥ pra mitrāso na dadhire svābhuvaḥ
@@ -3298,7 +3298,7 @@ tveṣam itthā samaraṇaṃ śimīvator indrāviṣṇū sutapā vām uruṣya
 yā martyāya pratidhīyamānam it kṛśānor astur asanām uruṣyathaḥ
 tā īṃ vardhanti mahy asya pauṃsyaṃ ni mātarā nayati retase bhuje
 dadhāti putro 'varam param pitur nāma tṛtīyam adhi rocane divaḥ
-tat-tad id asya pauṃsyaṃ gṛṇīmasīnasya trātur avṛkasya mīḷhuṣaḥ
+tat tad id asya pauṃsyaṃ gṛṇīmasīnasya trātur avṛkasya mīḷhuṣaḥ
 yaḥ pārthivāni tribhir id vigāmabhir uru kramiṣṭorugāyāya jīvase
 dve id asya kramaṇe svardṛśo 'bhikhyāya martyo bhuraṇyati
 tṛtīyam asya nakir ā dadharṣati vayaś cana patayantaḥ patatriṇaḥ
@@ -3345,7 +3345,7 @@ suretasā pitarā bhūma cakratur uru prajāyā amṛtaṃ varīmabhiḥ
 te sūnavaḥ svapasaḥ sudaṃsaso mahī jajñur mātarā pūrvacittaye
 sthātuś ca satyaṃ jagataś ca dharmaṇi putrasya pāthaḥ padam advayāvinaḥ
 te māyino mamire supracetaso jāmī sayonī mithunā samokasā
-navyaṃ-navyaṃ tantum ā tanvate divi samudre antaḥ kavayaḥ sudītayaḥ
+navyaṃ navyaṃ tantum ā tanvate divi samudre antaḥ kavayaḥ sudītayaḥ
 tad rādho adya savitur vareṇyaṃ vayaṃ devasya prasave manāmahe
 asmabhyaṃ dyāvāpṛthivī sucetunā rayiṃ dhattaṃ vasumantaṃ śatagvinam
 te hi dyāvāpṛthivī viśvaśambhuva ṛtāvarī rajaso dhārayatkavī
@@ -3421,9 +3421,9 @@ saṃdānam arvantam paḍbīśam priyā deveṣv ā yāmayanti
 yat te sāde mahasā śūkṛtasya pārṣṇyā vā kaśayā vā tutoda
 sruceva tā haviṣo adhvareṣu sarvā tā te brahmaṇā sūdayāmi
 catustriṃśad vājino devabandhor vaṅkrīr aśvasya svadhitiḥ sam eti
-acchidrā gātrā vayunā kṛṇota paruṣ-parur anughuṣyā vi śasta
+acchidrā gātrā vayunā kṛṇota paruṣ parur anughuṣyā vi śasta
 ekas tvaṣṭur aśvasyā viśastā dvā yantārā bhavatas tatha ṛtuḥ
-yā te gātrāṇām ṛtuthā kṛṇomi tā-tā piṇḍānām pra juhomy agnau
+yā te gātrāṇām ṛtuthā kṛṇomi tā tā piṇḍānām pra juhomy agnau
 mā tvā tapat priya ātmāpiyantam mā svadhitis tanva ā tiṣṭhipat te
 mā te gṛdhnur aviśastātihāya chidrā gātrāṇy asinā mithū kaḥ
 na vā u etan mriyase na riṣyasi devāṃ id eṣi pathibhiḥ sugebhiḥ
@@ -3642,7 +3642,7 @@ vayam adyendrasya preṣṭhā vayaṃ śvo vocemahi samarye
 vayam purā mahi ca no anu dyūn tan na ṛbhukṣā narām anu ṣyāt
 eṣa va stomo maruta iyaṃ gīr māndāryasya mānyasya kāroḥ
 eṣā yāsīṣṭa tanve vayāṃ vidyāmeṣaṃ vṛjanaṃ jīradānum
-yajñā-yajñā vaḥ samanā tuturvaṇir dhiyaṃ-dhiyaṃ vo devayā u dadhidhve
+yajñā yajñā vaḥ samanā tuturvaṇir dhiyaṃ dhiyaṃ vo devayā u dadhidhve
 ā vo 'rvācaḥ suvitāya rodasyor mahe vavṛtyām avase suvṛktibhiḥ
 vavrāso na ye svajāḥ svatavasa iṣaṃ svar abhijāyanta dhūtayaḥ
 sahasriyāso apāṃ normaya āsā gāvo vandyāso nokṣaṇaḥ
@@ -3853,7 +3853,7 @@ pūrṇaṃ rathaṃ vahethe madhva ācitaṃ tena dāśvāṃsam upa yātho aś
 kim atra dasrā kṛṇuthaḥ kim āsāthe jano yaḥ kaś cid ahavir mahīyate
 ati kramiṣṭaṃ juratam paṇer asuṃ jyotir viprāya kṛṇutaṃ vacasyave
 jambhayatam abhito rāyataḥ śuno hatam mṛdho vidathus tāny aśvinā
-vācaṃ-vācaṃ jaritū ratninīṃ kṛtam ubhā śaṃsaṃ nāsatyāvatam mama
+vācaṃ vācaṃ jaritū ratninīṃ kṛtam ubhā śaṃsaṃ nāsatyāvatam mama
 yuvam etaṃ cakrathuḥ sindhuṣu plavam ātmanvantam pakṣiṇaṃ taugryāya kam
 yena devatrā manasā nirūhathuḥ supaptanī petathuḥ kṣodaso mahaḥ
 avaviddhaṃ taugryam apsv antar anārambhaṇe tamasi praviddham
@@ -4200,7 +4200,7 @@ vidhema te parame janmann agne vidhema stomair avare sadhasthe
 yasmād yoner udārithā yaje tam pra tve havīṃṣi juhure samiddhe
 agne yajasva haviṣā yajīyāñ chruṣṭī deṣṇam abhi gṛṇīhi rādhaḥ
 tvaṃ hy asi rayipatī rayīṇāṃ tvaṃ śukrasya vacaso manotā
-ubhayaṃ te na kṣīyate vasavyaṃ dive-dive jāyamānasya dasma
+ubhayaṃ te na kṣīyate vasavyaṃ dive dive jāyamānasya dasma
 kṛdhi kṣumantaṃ jaritāram agne kṛdhi patiṃ svapatyasya rāyaḥ
 sainānīkena suvidatro asme yaṣṭā devāṃ āyajiṣṭhaḥ svasti
 adabdho gopā uta naḥ paraspā agne dyumad uta revad didīhi
@@ -4236,7 +4236,7 @@ indro mahāṃ sindhum āśayānam māyāvinaṃ vṛtram asphuran niḥ
 arejetāṃ rodasī bhiyāne kanikradato vṛṣṇo asya vajrāt
 aroravīd vṛṣṇo asya vajro 'mānuṣaṃ yan mānuṣo nijūrvāt
 ni māyino dānavasya māyā apādayat papivān sutasya
-pibā-pibed indra śūra somam mandantu tvā mandinaḥ sutāsaḥ
+pibā pibed indra śūra somam mandantu tvā mandinaḥ sutāsaḥ
 pṛṇantas te kukṣī vardhayantv itthā sutaḥ paura indram āva
 tve indrāpy abhūma viprā dhiyaṃ vanema ṛtayā sapantaḥ
 avasyavo dhīmahi praśastiṃ sadyas te rāyo dāvane syāma
@@ -4409,7 +4409,7 @@ ayaṃ hi te śunahotreṣu soma indra tvāyā pariṣikto madāya
 mama brahmendra yāhy acchā viśvā harī dhuri dhiṣvā rathasya
 purutrā hi vihavyo babhūthāsmiñ chūra savane mādayasva
 na ma indreṇa sakhyaṃ vi yoṣad asmabhyam asya dakṣiṇā duhīta
-upa jyeṣṭhe varūthe gabhastau prāye-prāye jigīvāṃsaḥ syāma
+upa jyeṣṭhe varūthe gabhastau prāye prāye jigīvāṃsaḥ syāma
 nūnaṃ sā te prati varaṃ jaritre duhīyad indra dakṣiṇā maghonī
 śikṣā stotṛbhyo māti dhag bhago no bṛhad vadema vidathe suvīrāḥ
 apāyy asyāndhaso madāya manīṣiṇaḥ suvānasya prayasaḥ
@@ -4493,7 +4493,7 @@ anānudo vṛṣabho jagmir āhavaṃ niṣṭaptā śatrum pṛtanāsu sāsahi�
 asi satya ṛṇayā brahmaṇas pata ugrasya cid damitā vīḷuharṣiṇaḥ
 adevena manasā yo riṣaṇyati śāsām ugro manyamāno jighāṃsati
 bṛhaspate mā praṇak tasya no vadho ni karma manyuṃ durevasya śardhataḥ
-bhareṣu havyo namasopasadyo gantā vājeṣu sanitā dhanaṃ-dhanam
+bhareṣu havyo namasopasadyo gantā vājeṣu sanitā dhanaṃ dhanam
 viśvā id aryo abhidipsvo mṛdho bṛhaspatir vi vavarhā rathāṃ iva
 tejiṣṭhayā tapanī rakṣasas tapa ye tvā nide dadhire dṛṣṭavīryam
 āvis tat kṛṣva yad asat ta ukthyam bṛhaspate vi parirāpo ardaya
@@ -4501,7 +4501,7 @@ bṛhaspate ati yad aryo arhād dyumad vibhāti kratumaj janeṣu
 yad dīdayac chavasa ṛtaprajāta tad asmāsu draviṇaṃ dhehi citram
 mā na stenebhyo ye abhi druhas pade nirāmiṇo ripavo 'nneṣu jāgṛdhuḥ
 ā devānām ohate vi vrayo hṛdi bṛhaspate na paraḥ sāmno viduḥ
-viśvebhyo hi tvā bhuvanebhyas pari tvaṣṭājanat sāmnaḥ-sāmnaḥ kaviḥ
+viśvebhyo hi tvā bhuvanebhyas pari tvaṣṭājanat sāmnaḥ sāmnaḥ kaviḥ
 sa ṛṇacid ṛṇayā brahmaṇas patir druho hantā maha ṛtasya dhartari
 tava śriye vy ajihīta parvato gavāṃ gotram udasṛjo yad aṅgiraḥ
 indreṇa yujā tamasā parīvṛtam bṛhaspate nir apām aubjo arṇavam
@@ -4516,7 +4516,7 @@ ud gā ājad abhinad brahmaṇā valam agūhat tamo vy acakṣayat svaḥ
 aśmāsyam avatam brahmaṇas patir madhudhāram abhi yam ojasātṛṇat
 tam eva viśve papire svardṛśo bahu sākaṃ sisicur utsam udriṇam
 sanā tā kā cid bhuvanā bhavītvā mādbhiḥ śaradbhir duro varanta vaḥ
-ayatantā carato anyad-anyad id yā cakāra vayunā brahmaṇas patiḥ
+ayatantā carato anyad anyad id yā cakāra vayunā brahmaṇas patiḥ
 abhinakṣanto abhi ye tam ānaśur nidhim paṇīnām paramaṃ guhā hitam
 te vidvāṃsaḥ praticakṣyānṛtā punar yata u āyan tad ud īyur āviśam
 ṛtāvānaḥ praticakṣyānṛtā punar āta ā tasthuḥ kavayo mahas pathaḥ
@@ -4540,15 +4540,15 @@ vīreṣu vīrāṃ upa pṛṅdhi nas tvaṃ yad īśāno brahmaṇā veṣi me
 brahmaṇas pate tvam asya yantā sūktasya bodhi tanayaṃ ca jinva
 viśvaṃ tad bhadraṃ yad avanti devā bṛhad vadema vidathe suvīrāḥ
 indhāno agniṃ vanavad vanuṣyataḥ kṛtabrahmā śūśuvad rātahavya it
-jātena jātam ati sa pra sarsṛte yaṃ-yaṃ yujaṃ kṛṇute brahmaṇas patiḥ
+jātena jātam ati sa pra sarsṛte yaṃ yaṃ yujaṃ kṛṇute brahmaṇas patiḥ
 vīrebhir vīrān vanavad vanuṣyato gobhī rayim paprathad bodhati tmanā
-tokaṃ ca tasya tanayaṃ ca vardhate yaṃ-yaṃ yujaṃ kṛṇute brahmaṇas patiḥ
+tokaṃ ca tasya tanayaṃ ca vardhate yaṃ yaṃ yujaṃ kṛṇute brahmaṇas patiḥ
 sindhur na kṣodaḥ śimīvāṃ ṛghāyato vṛṣeva vadhrīṃr abhi vaṣṭy ojasā
-agner iva prasitir nāha vartave yaṃ-yaṃ yujaṃ kṛṇute brahmaṇas patiḥ
+agner iva prasitir nāha vartave yaṃ yaṃ yujaṃ kṛṇute brahmaṇas patiḥ
 tasmā arṣanti divyā asaścataḥ sa satvabhiḥ prathamo goṣu gacchati
-anibhṛṣṭataviṣir hanty ojasā yaṃ-yaṃ yujaṃ kṛṇute brahmaṇas patiḥ
+anibhṛṣṭataviṣir hanty ojasā yaṃ yaṃ yujaṃ kṛṇute brahmaṇas patiḥ
 tasmā id viśve dhunayanta sindhavo 'cchidrā śarma dadhire purūṇi
-devānāṃ sumne subhagaḥ sa edhate yaṃ-yaṃ yujaṃ kṛṇute brahmaṇas patiḥ
+devānāṃ sumne subhagaḥ sa edhate yaṃ yaṃ yujaṃ kṛṇute brahmaṇas patiḥ
 ṛjur ic chaṃso vanavad vanuṣyato devayann id adevayantam abhy asat
 suprāvīr id vanavat pṛtsu duṣṭaraṃ yajved ayajyor vi bhajāti bhojanam
 yajasva vīra pra vihi manāyato bhadram manaḥ kṛṇuṣva vṛtratūrye
@@ -4628,9 +4628,9 @@ trādhvaṃ no devā nijuro vṛkasya trādhvaṃ kartād avapado yajatrāḥ
 māham maghono varuṇa priyasya bhūridāvna ā vidaṃ śūnam āpeḥ
 mā rāyo rājan suyamād ava sthām bṛhad vadema vidathe suvīrāḥ
 ṛtaṃ devāya kṛṇvate savitra indrāyāhighne na ramanta āpaḥ
-ahar-ahar yāty aktur apāṃ kiyāty ā prathamaḥ sarga āsām
+ahar ahar yāty aktur apāṃ kiyāty ā prathamaḥ sarga āsām
 yo vṛtrāya sinam atrābhariṣyat pra taṃ janitrī viduṣa uvāca
-patho radantīr anu joṣam asmai dive-dive dhunayo yanty artham
+patho radantīr anu joṣam asmai dive dive dhunayo yanty artham
 ūrdhvo hy asthād adhy antarikṣe 'dhā vṛtrāya pra vadhaṃ jabhāra
 mihaṃ vasāna upa hīm adudrot tigmāyudho ajayac chatrum indraḥ
 bṛhaspate tapuṣāśneva vidhya vṛkadvaraso asurasya vīrān
@@ -4648,7 +4648,7 @@ bṛhaspata āyudhair jeṣi śatrūn druhe rīṣantam pari dhehi rājan
 asmākebhiḥ satvabhiḥ śūra śūrair vīryā kṛdhi yāni te kartvāni
 jyog abhūvann anudhūpitāso hatvī teṣām ā bharā no vasūni
 taṃ vaḥ śardham mārutaṃ sumnayur giropa bruve namasā daivyaṃ janam
-yathā rayiṃ sarvavīraṃ naśāmahā apatyasācaṃ śrutyaṃ dive-dive
+yathā rayiṃ sarvavīraṃ naśāmahā apatyasācaṃ śrutyaṃ dive dive
 asmākam mitrāvaruṇāvataṃ ratham ādityai rudrair vasubhiḥ sacābhuvā
 pra yad vayo na paptan vasmanas pari śravasyavo hṛṣīvanto vanarṣadaḥ
 adha smā na ud avatā sajoṣaso rathaṃ devāso abhi vikṣu vājayum
@@ -4721,7 +4721,7 @@ indhanvabhir dhenubhī rapśadūdhabhir adhvasmabhiḥ pathibhir bhrājadṛṣ�
 ā haṃsāso na svasarāṇi gantana madhor madāya marutaḥ samanyavaḥ
 ā no brahmāṇi marutaḥ samanyavo narāṃ na śaṃsaḥ savanāni gantana
 aśvām iva pipyata dhenum ūdhani kartā dhiyaṃ jaritre vājapeśasam
-taṃ no dāta maruto vājinaṃ ratha āpānam brahma citayad dive-dive
+taṃ no dāta maruto vājinaṃ ratha āpānam brahma citayad dive dive
 iṣaṃ stotṛbhyo vṛjaneṣu kārave sanim medhām ariṣṭaṃ duṣṭaraṃ sahaḥ
 yad yuñjate maruto rukmavakṣaso 'śvān ratheṣu bhaga ā sudānavaḥ
 dhenur na śiśve svasareṣu pinvate janāya rātahaviṣe mahīm iṣam
@@ -4936,8 +4936,8 @@ ghṛtapratīka urviyā vy adyaud agnir viśvāni kāvyāni vidvān
 ā no gahi sakhyebhiḥ śivebhir mahān mahībhir ūtibhiḥ saraṇyan
 asme rayim bahulaṃ saṃtarutraṃ suvācam bhāgaṃ yaśasaṃ kṛdhī naḥ
 etā te agne janimā sanāni pra pūrvyāya nūtanāni vocam
-mahānti vṛṣṇe savanā kṛtemā janmañ-janman nihito jātavedāḥ
-janmañ-janman nihito jātavedā viśvāmitrebhir idhyate ajasraḥ
+mahānti vṛṣṇe savanā kṛtemā janmañ janman nihito jātavedāḥ
+janmañ janman nihito jātavedā viśvāmitrebhir idhyate ajasraḥ
 tasya vayaṃ sumatau yajñiyasyāpi bhadre saumanase syāma
 imaṃ yajñaṃ sahasāvan tvaṃ no devatrā dhehi sukrato rarāṇaḥ
 pra yaṃsi hotar bṛhatīr iṣo no 'gne mahi draviṇam ā yajasva
@@ -4995,9 +4995,9 @@ vaiśvānara tava dhāmāny ā cake yebhiḥ svarvid abhavo vicakṣaṇa
 jāta āpṛṇo bhuvanāni rodasī agne tā viśvā paribhūr asi tmanā
 vaiśvānarasya daṃsanābhyo bṛhad ariṇād ekaḥ svapasyayā kaviḥ
 ubhā pitarā mahayann ajāyatāgnir dyāvāpṛthivī bhūriretasā
-samit-samit sumanā bodhy asme śucā-śucā sumatiṃ rāsi vasvaḥ
+samit samit sumanā bodhy asme śucā śucā sumatiṃ rāsi vasvaḥ
 ā deva devān yajathāya vakṣi sakhā sakhīn sumanā yakṣy agne
-yaṃ devāsas trir ahann āyajante dive-dive varuṇo mitro agniḥ
+yaṃ devāsas trir ahann āyajante dive dive varuṇo mitro agniḥ
 semaṃ yajñam madhumantaṃ kṛdhī nas tanūnapād ghṛtayoniṃ vidhantam
 pra dīdhitir viśvavārā jigāti hotāram iḷaḥ prathamaṃ yajadhyai
 acchā namobhir vṛṣabhaṃ vandadhyai sa devān yakṣad iṣito yajīyān
@@ -5030,7 +5030,7 @@ pāti nābhā saptaśīrṣāṇam agniḥ pāti devānām upamādam ṛṣvaḥ
 ṛbhuś cakra īḍyaṃ cāru nāma viśvāni devo vayunāni vidvān
 sasasya carma ghṛtavat padaṃ ves tad id agnī rakṣaty aprayucchan
 ā yonim agnir ghṛtavantam asthāt pṛthupragāṇam uśantam uśānaḥ
-dīdyānaḥ śucir ṛṣvaḥ pāvakaḥ punaḥ-punar mātarā navyasī kaḥ
+dīdyānaḥ śucir ṛṣvaḥ pāvakaḥ punaḥ punar mātarā navyasī kaḥ
 sadyo jāta oṣadhībhir vavakṣe yadī vardhanti prasvo ghṛtena
 āpa iva pravatā śumbhamānā uruṣyad agniḥ pitror upasthe
 ud u ṣṭutaḥ samidhā yahvo adyaud varṣman divo adhi nābhā pṛthivyāḥ
@@ -5057,7 +5057,7 @@ urau vā ye antarikṣe madanti divo vā ye rocane santi devāḥ
 ūmā vā ye suhavāso yajatrā āyemire rathyo agne aśvāḥ
 aibhir agne sarathaṃ yāhy arvāṅ nānārathaṃ vā vibhavo hy aśvāḥ
 patnīvatas triṃśataṃ trīṃś ca devān anuṣvadham ā vaha mādayasva
-sa hotā yasya rodasī cid urvī yajñaṃ-yajñam abhi vṛdhe gṛṇītaḥ
+sa hotā yasya rodasī cid urvī yajñaṃ yajñam abhi vṛdhe gṛṇītaḥ
 prācī adhvareva tasthatuḥ sumeke ṛtāvarī ṛtajātasya satye
 iḷām agne purudaṃsaṃ saniṃ goḥ śaśvattamaṃ havamānāya sādha
 syān naḥ sūnus tanayo vijāvāgne sā te sumatir bhūtv asme
@@ -5110,7 +5110,7 @@ apāṃ napātaṃ subhagaṃ sudīditiṃ supratūrtim anehasam
 kāyamāno vanā tvaṃ yan mātṝr ajagann apaḥ
 na tat te agne pramṛṣe nivartanaṃ yad dūre sann ihābhavaḥ
 ati tṛṣṭaṃ vavakṣithāthaiva sumanā asi
-pra-prānye yanti pary anya āsate yeṣāṃ sakhye asi śritaḥ
+pra prānye yanti pary anya āsate yeṣāṃ sakhye asi śritaḥ
 īyivāṃsam ati sridhaḥ śaśvatīr ati saścataḥ
 anv īm avindan nicirāso adruho 'psu siṃham iva śritam
 sasṛvāṃsam iva tmanāgnim itthā tirohitam
@@ -5325,13 +5325,13 @@ vaiśvānaram manasāgniṃ nicāyyā haviṣmanto anuṣatyaṃ svarvidam
 sudānuṃ devaṃ rathiraṃ vasūyavo gīrbhī raṇvaṃ kuśikāso havāmahe
 taṃ śubhram agnim avase havāmahe vaiśvānaram mātariśvānam ukthyam
 bṛhaspatim manuṣo devatātaye vipraṃ śrotāram atithiṃ raghuṣyadam
-aśvo na krandañ janibhiḥ sam idhyate vaiśvānaraḥ kuśikebhir yuge-yuge
+aśvo na krandañ janibhiḥ sam idhyate vaiśvānaraḥ kuśikebhir yuge yuge
 sa no agniḥ suvīryaṃ svaśvyaṃ dadhātu ratnam amṛteṣu jāgṛviḥ
 pra yantu vājās taviṣībhir agnayaḥ śubhe sammiślāḥ pṛṣatīr ayukṣata
 bṛhadukṣo maruto viśvavedasaḥ pra vepayanti parvatāṃ adābhyāḥ
 agniśriyo maruto viśvakṛṣṭaya ā tveṣam ugram ava īmahe vayam
 te svānino rudriyā varṣanirṇijaḥ siṃhā na heṣakratavaḥ sudānavaḥ
-vrātaṃ-vrātaṃ gaṇaṃ-gaṇaṃ suśastibhir agner bhāmam marutām oja īmahe
+vrātaṃ vrātaṃ gaṇaṃ gaṇaṃ suśastibhir agner bhāmam marutām oja īmahe
 pṛṣadaśvāso anavabhrarādhaso gantāro yajñaṃ vidatheṣu dhīrāḥ
 agnir asmi janmanā jātavedā ghṛtam me cakṣur amṛtam ma āsan
 arkas tridhātū rajaso vimāno 'jasro gharmo havir asmi nāma
@@ -5384,7 +5384,7 @@ juṣasva tiroahnyam
 astīdam adhimanthanam asti prajananaṃ kṛtam
 etāṃ viśpatnīm ā bharāgnim manthāma pūrvathā
 araṇyor nihito jātavedā garbha iva sudhito garbhiṇīṣu
-dive-diva īḍyo jāgṛvadbhir haviṣmadbhir manuṣyebhir agniḥ
+dive diva īḍyo jāgṛvadbhir haviṣmadbhir manuṣyebhir agniḥ
 uttānāyām ava bharā cikitvān sadyaḥ pravītā vṛṣaṇaṃ jajāna
 aruṣastūpo ruśad asya pāja iḷāyās putro vayune 'janiṣṭa
 iḷāyās tvā pade vayaṃ nābhā pṛthivyā adhi
@@ -5408,9 +5408,9 @@ agne svadhvarā kṛṇu devān devayate yaja
 ajījanann amṛtam martyāso 'sremāṇaṃ taraṇiṃ vīḷujambham
 daśa svasāro agruvaḥ samīcīḥ pumāṃsaṃ jātam abhi saṃ rabhante
 pra saptahotā sanakād arocata mātur upasthe yad aśocad ūdhani
-na ni miṣati suraṇo dive-dive yad asurasya jaṭharād ajāyata
+na ni miṣati suraṇo dive dive yad asurasya jaṭharād ajāyata
 amitrāyudho marutām iva prayāḥ prathamajā brahmaṇo viśvam id viduḥ
-dyumnavad brahma kuśikāsa erira eka-eko dame agniṃ sam īdhire
+dyumnavad brahma kuśikāsa erira eka eko dame agniṃ sam īdhire
 yad adya tvā prayati yajñe asmin hotaś cikitvo 'vṛṇīmahīha
 dhruvam ayā dhruvam utāśamiṣṭhāḥ prajānan vidvāṃ upa yāhi somam
 icchanti tvā somyāsaḥ sakhāyaḥ sunvanti somaṃ dadhati prayāṃsi
@@ -5435,7 +5435,7 @@ alātṛṇo vala indra vrajo goḥ purā hantor bhayamāno vy āra
 sugān patho akṛṇon niraje gāḥ prāvan vāṇīḥ puruhūtaṃ dhamantīḥ
 eko dve vasumatī samīcī indra ā paprau pṛthivīm uta dyām
 utāntarikṣād abhi naḥ samīka iṣo rathīḥ sayujaḥ śūra vājān
-diśaḥ sūryo na mināti pradiṣṭā dive-dive haryaśvaprasūtāḥ
+diśaḥ sūryo na mināti pradiṣṭā dive dive haryaśvaprasūtāḥ
 saṃ yad ānaḷ adhvana ād id aśvair vimocanaṃ kṛṇute tat tv asya
 didṛkṣanta uṣaso yāmann aktor vivasvatyā mahi citram anīkam
 viśve jānanti mahinā yad āgād indrasya karma sukṛtā purūṇi
@@ -5471,7 +5471,7 @@ vidad yadī saramā rugṇam adrer mahi pāthaḥ pūrvyaṃ sadhryak kaḥ
 agraṃ nayat supady akṣarāṇām acchā ravam prathamā jānatī gāt
 agacchad u vipratamaḥ sakhīyann asūdayat sukṛte garbham adriḥ
 sasāna maryo yuvabhir makhasyann athābhavad aṅgirāḥ sadyo arcan
-sataḥ-sataḥ pratimānam purobhūr viśvā veda janimā hanti śuṣṇam
+sataḥ sataḥ pratimānam purobhūr viśvā veda janimā hanti śuṣṇam
 pra ṇo divaḥ padavīr gavyur arcan sakhā sakhīṃr amuñcan nir avadyāt
 ni gavyatā manasā sedur arkaiḥ kṛṇvānāso amṛtatvāya gātum
 idaṃ cin nu sadanam bhūry eṣāṃ yena māsāṃ asiṣāsann ṛtena
@@ -5496,7 +5496,7 @@ patir bhava vṛtrahan sūnṛtānāṃ girāṃ viśvāyur vṛṣabho vayodhā
 tam aṅgirasvan namasā saparyan navyaṃ kṛṇomi sanyase purājām
 druho vi yāhi bahulā adevīḥ svaś ca no maghavan sātaye dhāḥ
 mihaḥ pāvakāḥ pratatā abhūvan svasti naḥ pipṛhi pāram āsām
-indra tvaṃ rathiraḥ pāhi no riṣo makṣū-makṣū kṛṇuhi gojito naḥ
+indra tvaṃ rathiraḥ pāhi no riṣo makṣū makṣū kṛṇuhi gojito naḥ
 adediṣṭa vṛtrahā gopatir gā antaḥ kṛṣṇāṃ aruṣair dhāmabhir gāt
 pra sūnṛtā diśamāna ṛtena duraś ca viśvā avṛṇod apa svāḥ
 śunaṃ huvema maghavānam indram asmin bhare nṛtamaṃ vājasātau
@@ -5588,7 +5588,7 @@ pibāsy andho abhisṛṣṭo asme indra svāhā rarimā te madāya
 upājirā puruhūtāya saptī harī rathasya dhūrṣv ā yunajmi
 dravad yathā sambhṛtaṃ viśvataś cid upemaṃ yajñam ā vahāta indram
 upo nayasva vṛṣaṇā tapuṣpotem ava tvaṃ vṛṣabha svadhāvaḥ
-grasetām aśvā vi muceha śoṇā dive-dive sadṛśīr addhi dhānāḥ
+grasetām aśvā vi muceha śoṇā dive dive sadṛśīr addhi dhānāḥ
 brahmaṇā te brahmayujā yunajmi harī sakhāyā sadhamāda āśū
 sthiraṃ rathaṃ sukham indrādhitiṣṭhan prajānan vidvāṃ upa yāhi somam
 mā te harī vṛṣaṇā vītapṛṣṭhā ni rīraman yajamānāso anye
@@ -5605,8 +5605,8 @@ indra piba svadhayā cit sutasyāgner vā pāhi jihvayā yajatra
 adhvaryor vā prayataṃ śakra hastād dhotur vā yajñaṃ haviṣo juṣasva
 śunaṃ huvema maghavānam indram asmin bhare nṛtamaṃ vājasātau
 śṛṇvantam ugram ūtaye samatsu ghnantaṃ vṛtrāṇi saṃjitaṃ dhanānām
-imām ū ṣu prabhṛtiṃ sātaye dhāḥ śaśvac-chaśvad ūtibhir yādamānaḥ
-sute-sute vāvṛdhe vardhanebhir yaḥ karmabhir mahadbhiḥ suśruto bhūt
+imām ū ṣu prabhṛtiṃ sātaye dhāḥ śaśvac chaśvad ūtibhir yādamānaḥ
+sute sute vāvṛdhe vardhanebhir yaḥ karmabhir mahadbhiḥ suśruto bhūt
 indrāya somāḥ pradivo vidānā ṛbhur yebhir vṛṣaparvā vihāyāḥ
 prayamyamānān prati ṣū gṛbhāyendra piba vṛṣadhūtasya vṛṣṇaḥ
 pibā vardhasva tava ghā sutāsa indra somāsaḥ prathamā uteme
@@ -5662,7 +5662,7 @@ divo napātā vidathasya dhībhiḥ kṣatraṃ rājānā pradivo dadhāthe
 trīṇi rājānā vidathe purūṇi pari viśvāni bhūṣathaḥ sadāṃsi
 apaśyam atra manasā jaganvān vrate gandharvāṃ api vāyukeśān
 tad in nv asya vṛṣabhasya dhenor ā nāmabhir mamire sakmyaṃ goḥ
-anyad-anyad asuryaṃ vasānā ni māyino mamire rūpam asmin
+anyad anyad asuryaṃ vasānā ni māyino mamire rūpam asmin
 tad in nv asya savitur nakir me hiraṇyayīm amatiṃ yām aśiśret
 ā suṣṭutī rodasī viśvaminve apīva yoṣā janimāni vavre
 yuvam pratnasya sādhatho maho yad daivī svastiḥ pari ṇaḥ syātam
@@ -5828,7 +5828,7 @@ svaryavo matibhis tubhyaṃ viprā indrāya vāhaḥ kuśikāso akran
 śunaṃ huvema maghavānam indram asmin bhare nṛtamaṃ vājasātau
 śṛṇvantam ugram ūtaye samatsu ghnantaṃ vṛtrāṇi saṃjitaṃ dhanānām
 carṣaṇīdhṛtam maghavānam ukthyam indraṃ giro bṛhatīr abhy anūṣata
-vāvṛdhānam puruhūtaṃ suvṛktibhir amartyaṃ jaramāṇaṃ dive-dive
+vāvṛdhānam puruhūtaṃ suvṛktibhir amartyaṃ jaramāṇaṃ dive dive
 śatakratum arṇavaṃ śākinaṃ naraṃ giro ma indram upa yanti viśvataḥ
 vājasanim pūrbhidaṃ tūrṇim apturaṃ dhāmasācam abhiṣācaṃ svarvidam
 ākare vasor jaritā panasyate 'nehasa stubha indro duvasyati
@@ -5866,7 +5866,7 @@ tṛtīye dhānāḥ savane puruṣṭuta puroḷāśam āhutam māmahasva naḥ
 pūṣaṇvate te cakṛmā karambhaṃ harivate haryaśvāya dhānāḥ
 apūpam addhi sagaṇo marudbhiḥ somam piba vṛtrahā śūra vidvān
 prati dhānā bharata tūyam asmai puroḷāśaṃ vīratamāya nṛṇām
-dive-dive sadṛśīr indra tubhyaṃ vardhantu tvā somapeyāya dhṛṣṇo
+dive dive sadṛśīr indra tubhyaṃ vardhantu tvā somapeyāya dhṛṣṇo
 indrāparvatā bṛhatā rathena vāmīr iṣa ā vahataṃ suvīrāḥ
 vītaṃ havyāny adhvareṣu devā vardhethāṃ gīrbhir iḷayā madantā
 tiṣṭhā su kam maghavan mā parā gāḥ somasya nu tvā suṣutasya yakṣi
@@ -5881,7 +5881,7 @@ apāḥ somam astam indra pra yāhi kalyāṇīr jāyā suraṇaṃ gṛhe te
 yatrā rathasya bṛhato nidhānaṃ vimocanaṃ vājino dakṣiṇāvat
 ime bhojā aṅgiraso virūpā divas putrāso asurasya vīrāḥ
 viśvāmitrāya dadato maghāni sahasrasāve pra tiranta āyuḥ
-rūpaṃ-rūpam maghavā bobhavīti māyāḥ kṛṇvānas tanvam pari svām
+rūpaṃ rūpam maghavā bobhavīti māyāḥ kṛṇvānas tanvam pari svām
 trir yad divaḥ pari muhūrtam āgāt svair mantrair anṛtupā ṛtāvā
 mahāṃ ṛṣir devajā devajūto 'stabhnāt sindhum arṇavaṃ nṛcakṣāḥ
 viśvāmitro yad avahat sudāsam apriyāyata kuśikebhir indraḥ
@@ -5990,11 +5990,11 @@ padyā vaste pururūpā vapūṃṣy ūrdhvā tasthau tryaviṃ rerihāṇā
 pade iva nihite dasme antas tayor anyad guhyam āvir anyat
 sadhrīcīnā pathyā sā viṣūcī mahad devānām asuratvam ekam
 ā dhenavo dhunayantām aśiśvīḥ sabardughāḥ śaśayā apradugdhāḥ
-navyā-navyā yuvatayo bhavantīr mahad devānām asuratvam ekam
+navyā navyā yuvatayo bhavantīr mahad devānām asuratvam ekam
 yad anyāsu vṛṣabho roravīti so anyasmin yūthe ni dadhāti retaḥ
 sa hi kṣapāvān sa bhagaḥ sa rājā mahad devānām asuratvam ekam
 vīrasya nu svaśvyaṃ janāsaḥ pra nu vocāma vidur asya devāḥ
-ṣoḷhā yuktāḥ pañca-pañcā vahanti mahad devānām asuratvam ekam
+ṣoḷhā yuktāḥ pañca pañcā vahanti mahad devānām asuratvam ekam
 devas tvaṣṭā savitā viśvarūpaḥ pupoṣa prajāḥ purudhā jajāna
 imā ca viśvā bhuvanāny asya mahad devānām asuratvam ekam
 mahī sam airac camvā samīcī ubhe te asya vasunā nyṛṣṭe
@@ -6013,7 +6013,7 @@ abhīka āsām padavīr abodhy ādityānām ahve cāru nāma
 āpaś cid asmā aramanta devīḥ pṛthag vrajantīḥ pari ṣīm avṛñjan
 trī ṣadhasthā sindhavas triḥ kavīnām uta trimātā vidatheṣu samrāṭ
 ṛtāvarīr yoṣaṇās tisro apyās trir ā divo vidathe patyamānāḥ
-trir ā divaḥ savitar vāryāṇi dive-diva ā suva trir no ahnaḥ
+trir ā divaḥ savitar vāryāṇi dive diva ā suva trir no ahnaḥ
 tridhātu rāya ā suvā vasūni bhaga trātar dhiṣaṇe sātaye dhāḥ
 trir ā divaḥ savitā soṣavīti rājānā mitrāvaruṇā supāṇī
 āpaś cid asya rodasī cid urvī ratnam bhikṣanta savituḥ savāya
@@ -6327,13 +6327,13 @@ ye ha tye te sahamānā ayāsas tveṣāso agne arcayaś caranti
 akāri brahma samidhāna tubhyaṃ śaṃsāty ukthaṃ yajate vy ū dhāḥ
 hotāram agnim manuṣo ni ṣedur namasyanta uśijaḥ śaṃsam āyoḥ
 ayam iha prathamo dhāyi dhātṛbhir hotā yajiṣṭho adhvareṣv īḍyaḥ
-yam apnavāno bhṛgavo virurucur vaneṣu citraṃ vibhvaṃ viśe-viśe
+yam apnavāno bhṛgavo virurucur vaneṣu citraṃ vibhvaṃ viśe viśe
 agne kadā ta ānuṣag bhuvad devasya cetanam
 adhā hi tvā jagṛbhrire martāso vikṣv īḍyam
 ṛtāvānaṃ vicetasam paśyanto dyām iva stṛbhiḥ
-viśveṣām adhvarāṇāṃ haskartāraṃ dame-dame
+viśveṣām adhvarāṇāṃ haskartāraṃ dame dame
 āśuṃ dūtaṃ vivasvato viśvā yaś carṣaṇīr abhi
-ā jabhruḥ ketum āyavo bhṛgavāṇaṃ viśe-viśe
+ā jabhruḥ ketum āyavo bhṛgavāṇaṃ viśe viśe
 tam īṃ hotāram ānuṣak cikitvāṃsaṃ ni ṣedire
 raṇvam pāvakaśociṣaṃ yajiṣṭhaṃ sapta dhāmabhiḥ
 taṃ śaśvatīṣu mātṛṣu vana ā vītam aśritam
@@ -6360,7 +6360,7 @@ te syāma ye agnaye dadāśur havyadātibhiḥ
 ya īm puṣyanta indhate
 te rāyā te suvīryaiḥ sasavāṃso vi śṛṇvire
 ye agnā dadhire duvaḥ
-asme rāyo dive-dive saṃ carantu puruspṛhaḥ
+asme rāyo dive dive saṃ carantu puruspṛhaḥ
 asme vājāsa īratām
 sa vipraś carṣaṇīnāṃ śavasā mānuṣāṇām
 ati kṣipreva vidhyati
@@ -6451,7 +6451,7 @@ dyumāṃ amitradambhanaḥ
 asya ghā vīra īvato 'gner īśīta martyaḥ
 tigmajambhasya mīḷhuṣaḥ
 tam arvantaṃ na sānasim aruṣaṃ na divaḥ śiśum
-marmṛjyante dive-dive
+marmṛjyante dive dive
 bodhad yan mā haribhyāṃ kumāraḥ sāhadevyaḥ
 acchā na hūta ud aram
 uta tyā yajatā harī kumārāt sāhadevyāt
@@ -6588,7 +6588,7 @@ pariṣṭhitā atṛṇad badbadhānāḥ sīrā indraḥ sravitave pṛthivyā
 vamrībhiḥ putram agruvo adānaṃ niveśanād dhariva ā jabhartha
 vy andho akhyad ahim ādadāno nir bhūd ukhacchit sam aranta parva
 pra te pūrvāṇi karaṇāni viprāvidvāṃ āha viduṣe karāṃsi
-yathā-yathā vṛṣṇyāni svagūrtāpāṃsi rājan naryāviveṣīḥ
+yathā yathā vṛṣṇyāni svagūrtāpāṃsi rājan naryāviveṣīḥ
 nū ṣṭuta indra nū gṛṇāna iṣaṃ jaritre nadyo na pīpeḥ
 akāri te harivo brahma navyaṃ dhiyā syāma rathyaḥ sadāsāḥ
 ā na indro dūrād ā na āsād abhiṣṭikṛd avase yāsad ugraḥ
@@ -6630,7 +6630,7 @@ guhā yad īm auśijasya gohe pra yad dhiye prāyase madāya
 vi yad varāṃsi parvatasya vṛṇve payobhir jinve apāṃ javāṃsi
 vidad gaurasya gavayasya gohe yadī vājāya sudhyo vahanti
 bhadrā te hastā sukṛtota pāṇī prayantārā stuvate rādha indra
-kā te niṣattiḥ kim u no mamatsi kiṃ nod-ud u harṣase dātavā u
+kā te niṣattiḥ kim u no mamatsi kiṃ nod ud u harṣase dātavā u
 evā vasva indraḥ satyaḥ samrāḍ ḍhantā vṛtraṃ varivaḥ pūrave kaḥ
 puruṣṭuta kratvā naḥ śagdhi rāyo bhakṣīya te 'vaso daivyasya
 nū ṣṭuta indra nū gṛṇāna iṣaṃ jaritre nadyo na pīpeḥ
@@ -6807,7 +6807,7 @@ sa ghed utāsi vṛtrahan samāna indra gopatiḥ
 yas tā viśvāni cicyuṣe
 uta nūnaṃ yad indriyaṃ kariṣyā indra pauṃsyam
 adyā nakiṣ ṭad ā minat
-vāmaṃ-vāmaṃ ta ādure devo dadātv aryamā
+vāmaṃ vāmaṃ ta ādure devo dadātv aryamā
 vāmam pūṣā vāmam bhago vāmaṃ devaḥ karūḷatī
 kayā naś citra ā bhuvad ūtī sadāvṛdhaḥ sakhā
 kayā śaciṣṭhayā vṛtā
@@ -6846,7 +6846,7 @@ citraṃ kṛṇoṣy ūtaye
 dabhrebhiś cic chaśīyāṃsaṃ haṃsi vrādhantam ojasā
 sakhibhir ye tve sacā
 vayam indra tve sacā vayaṃ tvābhi nonumaḥ
-asmāṃ-asmāṃ id ud ava
+asmāṃ asmāṃ id ud ava
 sa naś citrābhir adrivo 'navadyābhir ūtibhiḥ
 anādhṛṣṭābhir ā gahi
 bhūyāmo ṣu tvāvataḥ sakhāya indra gomataḥ
@@ -7234,8 +7234,8 @@ deveṣu ca savitar mānuṣeṣu ca tvaṃ no atra suvatād anāgasaḥ
 na pramiye savitur daivyasya tad yathā viśvam bhuvanaṃ dhārayiṣyati
 yat pṛthivyā varimann ā svaṅgurir varṣman divaḥ suvati satyam asya tat
 indrajyeṣṭhān bṛhadbhyaḥ parvatebhyaḥ kṣayāṃ ebhyaḥ suvasi pastyāvataḥ
-yathā-yathā patayanto viyemira evaiva tasthuḥ savitaḥ savāya te
-ye te trir ahan savitaḥ savāso dive-dive saubhagam āsuvanti
+yathā yathā patayanto viyemira evaiva tasthuḥ savitaḥ savāya te
+ye te trir ahan savitaḥ savāso dive dive saubhagam āsuvanti
 indro dyāvāpṛthivī sindhur adbhir ādityair no aditiḥ śarma yaṃsat
 ko vas trātā vasavaḥ ko varūtā dyāvābhūmī adite trāsīthāṃ naḥ
 sahīyaso varuṇa mitra martāt ko vo 'dhvare varivo dhāti devāḥ
@@ -7284,7 +7284,7 @@ tenemām upa siñcatam
 arvācī subhage bhava sīte vandāmahe tvā
 yathā naḥ subhagāsasi yathā naḥ suphalāsasi
 indraḥ sītāṃ ni gṛhṇātu tām pūṣānu yacchatu
-sā naḥ payasvatī duhām uttarām-uttarāṃ samām
+sā naḥ payasvatī duhām uttarām uttarāṃ samām
 śunaṃ naḥ phālā vi kṛṣantu bhūmiṃ śunaṃ kīnāśā abhi yantu vāhaiḥ
 śunam parjanyo madhunā payobhiḥ śunāsīrā śunam asmāsu dhattam
 samudrād ūrmir madhumāṃ ud ārad upāṃśunā sam amṛtatvam ānaṭ
@@ -7318,7 +7318,7 @@ yad īṃ gaṇasya raśanām ajīgaḥ śucir aṅkte śucibhir gobhir agniḥ
 agnim acchā devayatām manāṃsi cakṣūṃṣīva sūrye saṃ caranti
 yad īṃ suvāte uṣasā virūpe śveto vājī jāyate agre ahnām
 janiṣṭa hi jenyo agre ahnāṃ hito hiteṣv aruṣo vaneṣu
-dame-dame sapta ratnā dadhāno 'gnir hotā ni ṣasādā yajīyān
+dame dame sapta ratnā dadhāno 'gnir hotā ni ṣasādā yajīyān
 agnir hotā ny asīdad yajīyān upasthe mātuḥ surabhā u loke
 yuvā kaviḥ puruniṣṭha ṛtāvā dhartā kṛṣṭīnām uta madhya iddhaḥ
 pra ṇu tyaṃ vipram adhvareṣu sādhum agniṃ hotāram īḷate namobhiḥ
@@ -7412,7 +7412,7 @@ sukhai rathebhir ūtaye
 ūrṇamradā vi prathasvābhy arkā anūṣata
 bhavā naḥ śubhra sātaye
 devīr dvāro vi śrayadhvaṃ suprāyaṇā na ūtaye
-pra-pra yajñam pṛṇītana
+pra pra yajñam pṛṇītana
 supratīke vayovṛdhā yahvī ṛtasya mātarā
 doṣām uṣāsam īmahe
 vātasya patmann īḷitā daivyā hotārā manuṣaḥ
@@ -7420,7 +7420,7 @@ imaṃ no yajñam ā gatam
 iḷā sarasvatī mahī tisro devīr mayobhuvaḥ
 barhiḥ sīdantv asridhaḥ
 śivas tvaṣṭar ihā gahi vibhuḥ poṣa uta tmanā
-yajñe-yajñe na ud ava
+yajñe yajñe na ud ava
 yatra vettha vanaspate devānāṃ guhyā nāmāni
 tatra havyāni gāmaya
 svāhāgnaye varuṇāya svāhendrāya marudbhyaḥ
@@ -7440,7 +7440,7 @@ te hinvire ta invire ta iṣaṇyanty ānuṣag iṣaṃ stotṛbhya ā bhara
 tava tye agne arcayo mahi vrādhanta vājinaḥ
 ye patvabhiḥ śaphānāṃ vrajā bhuranta gonām iṣaṃ stotṛbhya ā bhara
 navā no agna ā bhara stotṛbhyaḥ sukṣitīr iṣaḥ
-te syāma ya ānṛcus tvādūtāso dame-dama iṣaṃ stotṛbhya ā bhara
+te syāma ya ānṛcus tvādūtāso dame dama iṣaṃ stotṛbhya ā bhara
 ubhe suścandra sarpiṣo darvī śrīṇīṣa āsani
 uto na ut pupūryā uktheṣu śavasas pata iṣaṃ stotṛbhya ā bhara
 evāṃ agnim ajuryamur gīrbhir yajñebhir ānuṣak
@@ -7473,7 +7473,7 @@ tvām agne mānuṣīr īḷate viśo hotrāvidaṃ viviciṃ ratnadhātamam
 guhā santaṃ subhaga viśvadarśataṃ tuviṣvaṇasaṃ suyajaṃ ghṛtaśriyam
 tvām agne dharṇasiṃ viśvadhā vayaṃ gīrbhir gṛṇanto namasopa sedima
 sa no juṣasva samidhāno aṅgiro devo martasya yaśasā sudītibhiḥ
-tvam agne pururūpo viśe-viśe vayo dadhāsi pratnathā puruṣṭuta
+tvam agne pururūpo viśe viśe vayo dadhāsi pratnathā puruṣṭuta
 purūṇy annā sahasā vi rājasi tviṣiḥ sā te titviṣāṇasya nādhṛṣe
 tvām agne samidhānaṃ yaviṣṭhya devā dūtaṃ cakrire havyavāhanam
 urujrayasaṃ ghṛtayonim āhutaṃ tveṣaṃ cakṣur dadhire codayanmati
@@ -7513,11 +7513,11 @@ yajñasya ketum prathamam purohitam agniṃ naras triṣadhasthe sam īdhire
 indreṇa devaiḥ sarathaṃ sa barhiṣi sīdan ni hotā yajathāya sukratuḥ
 asammṛṣṭo jāyase mātroḥ śucir mandraḥ kavir ud atiṣṭho vivasvataḥ
 ghṛtena tvāvardhayann agna āhuta dhūmas te ketur abhavad divi śritaḥ
-agnir no yajñam upa vetu sādhuyāgniṃ naro vi bharante gṛhe-gṛhe
+agnir no yajñam upa vetu sādhuyāgniṃ naro vi bharante gṛhe gṛhe
 agnir dūto abhavad dhavyavāhano 'gniṃ vṛṇānā vṛṇate kavikratum
 tubhyedam agne madhumattamaṃ vacas tubhyam manīṣā iyam astu śaṃ hṛde
 tvāṃ giraḥ sindhum ivāvanīr mahīr ā pṛṇanti śavasā vardhayanti ca
-tvām agne aṅgiraso guhā hitam anv avindañ chiśriyāṇaṃ vane-vane
+tvām agne aṅgiraso guhā hitam anv avindañ chiśriyāṇaṃ vane vane
 sa jāyase mathyamānaḥ saho mahat tvām āhuḥ sahasas putram aṅgiraḥ
 prāgnaye bṛhate yajñiyāya ṛtasya vṛṣṇe asurāya manma
 ghṛtaṃ na yajña āsye supūtaṃ giram bhare vṛṣabhāya pratīcīm
@@ -7561,8 +7561,8 @@ ghṛtaprasatto asuraḥ suśevo rāyo dhartā dharuṇo vasvo agniḥ
 divo dharman dharuṇe seduṣo nṝñ jātair ajātāṃ abhi ye nanakṣuḥ
 aṅhoyuvas tanvas tanvate vi vayo mahad duṣṭaram pūrvyāya
 sa saṃvato navajātas tuturyāt siṅhaṃ na kruddham abhitaḥ pari ṣṭhuḥ
-māteva yad bharase paprathāno janaṃ-janaṃ dhāyase cakṣase ca
-vayo-vayo jarase yad dadhānaḥ pari tmanā viṣurūpo jigāsi
+māteva yad bharase paprathāno janaṃ janaṃ dhāyase cakṣase ca
+vayo vayo jarase yad dadhānaḥ pari tmanā viṣurūpo jigāsi
 vājo nu te śavasas pātv antam uruṃ doghaṃ dharuṇaṃ deva rāyaḥ
 padaṃ na tāyur guhā dadhāno maho rāye citayann atrim aspaḥ
 bṛhad vayo hi bhānave 'rcā devāyāgnaye
@@ -7611,7 +7611,7 @@ ye agne nerayanti te vṛddhā ugrasya śavasaḥ
 apa dveṣo apa hvaro 'nyavratasya saścire
 hotāraṃ tvā vṛṇīmahe 'gne dakṣasya sādhanam
 yajñeṣu pūrvyaṃ girā prayasvanto havāmahe
-itthā yathā ta ūtaye sahasāvan dive-dive
+itthā yathā ta ūtaye sahasāvan dive dive
 rāya ṛtāya sukrato gobhiḥ ṣyāma sadhamādo vīraiḥ syāma sadhamādaḥ
 manuṣvat tvā ni dhīmahi manuṣvat sam idhīmahi
 agne manuṣvad aṅgiro devān devayate yaja
@@ -7862,7 +7862,7 @@ sarvarathā śatakrato ni yāhi śavasas pate
 tvām id vṛtrahantama janāso vṛktabarhiṣaḥ
 ugram pūrvīṣu pūrvyaṃ havante vājasātaye
 asmākam indra duṣṭaram puroyāvānam ājiṣu
-sayāvānaṃ dhane-dhane vājayantam avā ratham
+sayāvānaṃ dhane dhane vājayantam avā ratham
 asmākam indrehi no ratham avā purandhyā
 vayaṃ śaviṣṭha vāryaṃ divi śravo dadhīmahi divi stomam manāmahe
 sa ā gamad indro yo vasūnāṃ ciketad dātuṃ dāmano rayīṇām
@@ -7953,7 +7953,7 @@ vidā cin nu mahānto ye va evā bravāma dasmā vāryaṃ dadhānāḥ
 vayaś cana subhva āva yanti kṣubhā martam anuyataṃ vadhasnaiḥ
 ā daivyāni pārthivāni janmāpaś cācchā sumakhāya vocam
 vardhantāṃ dyāvo giraś candrāgrā udā vardhantām abhiṣātā arṇāḥ
-pade-pade me jarimā ni dhāyi varūtrī vā śakrā yā pāyubhiś ca
+pade pade me jarimā ni dhāyi varūtrī vā śakrā yā pāyubhiś ca
 siṣaktu mātā mahī rasā naḥ smat sūribhir ṛjuhasta ṛjuvaniḥ
 kathā dāśema namasā sudānūn evayā maruto acchoktau praśravaso maruto acchoktau
 mā no 'hir budhnyo riṣe dhād asmākam bhūd upamātivaniḥ
@@ -7995,14 +7995,14 @@ yo abdimāṃ udanimāṃ iyarti pra vidyutā rodasī ukṣamāṇaḥ
 eṣa stomo mārutaṃ śardho acchā rudrasya sūnūṃr yuvanyūṃr ud aśyāḥ
 kāmo rāye havate mā svasty upa stuhi pṛṣadaśvāṃ ayāsaḥ
 praiṣa stomaḥ pṛthivīm antarikṣaṃ vanaspatīṃr oṣadhī rāye aśyāḥ
-devo-devaḥ suhavo bhūtu mahyam mā no mātā pṛthivī durmatau dhāt
+devo devaḥ suhavo bhūtu mahyam mā no mātā pṛthivī durmatau dhāt
 urau devā anibādhe syāma
 sam aśvinor avasā nūtanena mayobhuvā supraṇītī gamema
 ā no rayiṃ vahatam ota vīrān ā viśvāny amṛtā saubhagāni
 ā dhenavaḥ payasā tūrṇyarthā amardhantīr upa no yantu madhvā
 maho rāye bṛhatīḥ sapta vipro mayobhuvo jaritā johavīti
 ā suṣṭutī namasā vartayadhyai dyāvā vājāya pṛthivī amṛdhre
-pitā mātā madhuvacāḥ suhastā bhare-bhare no yaśasāv aviṣṭām
+pitā mātā madhuvacāḥ suhastā bhare bhare no yaśasāv aviṣṭām
 adhvaryavaś cakṛvāṃso madhūni pra vāyave bharata cāru śukram
 hoteva naḥ prathamaḥ pāhy asya deva madhvo rarimā te madāya
 daśa kṣipo yuñjate bāhū adriṃ somasya yā śamitārā suhastā
@@ -8028,7 +8028,7 @@ gnā vasāna oṣadhīr amṛdhras tridhātuśṛṅgo vṛṣabho vayodhāḥ
 mātuṣ pade parame śukra āyor vipanyavo rāspirāso agman
 suśevyaṃ namasā rātahavyāḥ śiśum mṛjanty āyavo na vāse
 bṛhad vayo bṛhate tubhyam agne dhiyājuro mithunāsaḥ sacanta
-devo-devaḥ suhavo bhūtu mahyam mā no mātā pṛthivī durmatau dhāt
+devo devaḥ suhavo bhūtu mahyam mā no mātā pṛthivī durmatau dhāt
 urau devā anibādhe syāma
 sam aśvinor avasā nūtanena mayobhuvā supraṇītī gamema
 ā no rayiṃ vahatam ota vīrān ā viśvāny amṛtā saubhagāni
@@ -8053,7 +8053,7 @@ atrā na hārdi kravaṇasya rejate yatrā matir vidyate pūtabandhanī
 sa hi kṣatrasya manasasya cittibhir evāvadasya yajatasya sadhreḥ
 avatsārasya spṛṇavāma raṇvabhiḥ śaviṣṭhaṃ vājaṃ viduṣā cid ardhyam
 śyena āsām aditiḥ kakṣyo mado viśvavārasya yajatasya māyinaḥ
-sam anyam-anyam arthayanty etave vidur viṣāṇam paripānam anti te
+sam anyam anyam arthayanty etave vidur viṣāṇam paripānam anti te
 sadāpṛṇo yajato vi dviṣo vadhīd bāhuvṛktaḥ śrutavit taryo vaḥ sacā
 ubhā sa varā praty eti bhāti ca yad īṃ gaṇam bhajate suprayāvabhiḥ
 sutambharo yajamānasya satpatir viśvāsām ūdhaḥ sa dhiyām udañcanaḥ
@@ -8125,7 +8125,7 @@ sacā yadi pitumantam iva kṣayaṃ ratnaṃ dadhāti bharahūtaye viśe
 sa jihvayā caturanīka ṛñjate cāru vasāno varuṇo yatann arim
 na tasya vidma puruṣatvatā vayaṃ yato bhagaḥ savitā dāti vāryam
 devaṃ vo adya savitāram eṣe bhagaṃ ca ratnaṃ vibhajantam āyoḥ
-ā vāṃ narā purubhujā vavṛtyāṃ dive-dive cid aśvinā sakhīyan
+ā vāṃ narā purubhujā vavṛtyāṃ dive dive cid aśvinā sakhīyan
 prati prayāṇam asurasya vidvān sūktair devaṃ savitāraṃ duvasya
 upa bruvīta namasā vijānañ jyeṣṭhaṃ ca ratnaṃ vibhajantam āyoḥ
 adatrayā dayate vāryāṇi pūṣā bhago aditir vasta usraḥ
@@ -8206,7 +8206,7 @@ nū manvāna eṣāṃ devāṃ acchā na vakṣaṇā
 dānā saceta sūribhir yāmaśrutebhir añjibhiḥ
 pra ye me bandhveṣe gāṃ vocanta sūrayaḥ pṛśniṃ vocanta mātaram
 adhā pitaram iṣmiṇaṃ rudraṃ vocanta śikvasaḥ
-sapta me sapta śākina ekam-ekā śatā daduḥ
+sapta me sapta śākina ekam ekā śatā daduḥ
 yamunāyām adhi śrutam ud rādho gavyam mṛje ni rādho aśvyam mṛje
 ko veda jānam eṣāṃ ko vā purā sumneṣv āsa marutām
 yad yuyujre kilāsyaḥ
@@ -8228,7 +8228,7 @@ mā vo rasānitabhā kubhā krumur mā vaḥ sindhur ni rīramat
 mā vaḥ pari ṣṭhāt sarayuḥ purīṣiṇy asme it sumnam astu vaḥ
 taṃ vaḥ śardhaṃ rathānāṃ tveṣaṃ gaṇam mārutaṃ navyasīnām
 anu pra yanti vṛṣṭayaḥ
-śardhaṃ-śardhaṃ va eṣāṃ vrātaṃ-vrātaṃ gaṇaṃ-gaṇaṃ suśastibhiḥ
+śardhaṃ śardhaṃ va eṣāṃ vrātaṃ vrātaṃ gaṇaṃ gaṇaṃ suśastibhiḥ
 anu krāmema dhītibhiḥ
 kasmā adya sujātāya rātahavyāya pra yayuḥ
 enā yāmena marutaḥ
@@ -8332,7 +8332,7 @@ mayobhuvo ye amitā mahitvā vandasva vipra tuvirādhaso nṝn
 ayaṃ yo agnir marutaḥ samiddha etaṃ juṣadhvaṃ kavayo yuvānaḥ
 yūyaṃ rājānam iryaṃ janāya vibhvataṣṭaṃ janayathā yajatrāḥ
 yuṣmad eti muṣṭihā bāhujūto yuṣmat sadaśvo marutaḥ suvīraḥ
-arā ived acaramā aheva pra-pra jāyante akavā mahobhiḥ
+arā ived acaramā aheva pra pra jāyante akavā mahobhiḥ
 pṛśneḥ putrā upamāso rabhiṣṭhāḥ svayā matyā marutaḥ sam mimikṣuḥ
 yat prāyāsiṣṭa pṛṣatībhir aśvair vīḷupavibhir maruto rathebhiḥ
 kṣodanta āpo riṇate vanāny avosriyo vṛṣabhaḥ krandatu dyauḥ
@@ -8372,7 +8372,7 @@ agniś ca yan maruto viśvavedaso divo vahadhva uttarād adhi ṣṇubhiḥ
 te mandasānā dhunayo riśādaso vāmaṃ dhatta yajamānāya sunvate
 agne marudbhiḥ śubhayadbhir ṛkvabhiḥ somam piba mandasāno gaṇaśribhiḥ
 pāvakebhir viśvaminvebhir āyubhir vaiśvānara pradivā ketunā sajūḥ
-ke ṣṭhā naraḥ śreṣṭhatamā ya eka-eka āyaya
+ke ṣṭhā naraḥ śreṣṭhatamā ya eka eka āyaya
 paramasyāḥ parāvataḥ
 kva vo 'śvāḥ kvābhīśavaḥ kathaṃ śeka kathā yaya
 pṛṣṭhe sado nasor yamaḥ
@@ -8459,7 +8459,7 @@ sutaṃ somaṃ na hastibhir ā paḍbhir dhāvataṃ narā bibhratāv arcanāna
 yaś ciketa sa sukratur devatrā sa bravītu naḥ
 varuṇo yasya darśato mitro vā vanate giraḥ
 tā hi śreṣṭhavarcasā rājānā dīrghaśruttamā
-tā satpatī ṛtāvṛdha ṛtāvānā jane-jane
+tā satpatī ṛtāvṛdha ṛtāvānā jane jane
 tā vām iyāno 'vase pūrvā upa bruve sacā
 svaśvāsaḥ su cetunā vājāṃ abhi pra dāvane
 mitro aṃhoś cid ād uru kṣayāya gātuṃ vanate
@@ -8486,7 +8486,7 @@ varuṇa mitrāryaman varṣiṣṭhaṃ kṣatram āśāthe
 dhartārā carṣaṇīnāṃ yantaṃ sumnaṃ riśādasā
 viśve hi viśvavedaso varuṇo mitro aryamā
 vratā padeva saścire pānti martyaṃ riṣaḥ
-te hi satyā ṛtaspṛśa ṛtāvāno jane-jane
+te hi satyā ṛtaspṛśa ṛtāvāno jane jane
 sunīthāsaḥ sudānavo 'ṃhoś cid urucakrayaḥ
 ko nu vām mitrāstuto varuṇo vā tanūnām
 tat su vām eṣate matir atribhya eṣate matiḥ
@@ -8599,7 +8599,7 @@ sam aśvinor avasā nūtanena mayobhuvā supraṇītī gamema
 prātaryāvāṇā prathamā yajadhvam purā gṛdhrād araruṣaḥ pibātaḥ
 prātar hi yajñam aśvinā dadhāte pra śaṃsanti kavayaḥ pūrvabhājaḥ
 prātar yajadhvam aśvinā hinota na sāyam asti devayā ajuṣṭam
-utānyo asmad yajate vi cāvaḥ pūrvaḥ-pūrvo yajamāno vanīyān
+utānyo asmad yajate vi cāvaḥ pūrvaḥ pūrvo yajamāno vanīyān
 hiraṇyatvaṅ madhuvarṇo ghṛtasnuḥ pṛkṣo vahann ā ratho vartate vām
 manojavā aśvinā vātaraṃhā yenātiyātho duritāni viśvā
 yo bhūyiṣṭhaṃ nāsatyābhyāṃ viveṣa caniṣṭham pitvo rarate vibhāge
@@ -8779,7 +8779,7 @@ vedī sūno sahaso gīrbhir ukthair ā te bhadrāyāṃ sumatau yatema
 ā yas tatantha rodasī vi bhāsā śravobhiś ca śravasyas tarutraḥ
 bṛhadbhir vājai sthavirebhir asme revadbhir agne vitaraṃ vi bhāhi
 nṛvad vaso sadam id dhehy asme bhūri tokāya tanayāya paśvaḥ
-pūrvīr iṣo bṛhatīr āre-aghā asme bhadrā sauśravasāni santu
+pūrvīr iṣo bṛhatīr āre aghā asme bhadrā sauśravasāni santu
 purūṇy agne purudhā tvāyā vasūni rājan vasutā te aśyām
 purūṇi hi tve puruvāra santy agne vasu vidhate rājani tve
 tvaṃ hi kṣaitavad yaśo 'gne mitro na patyase
@@ -8886,7 +8886,7 @@ vy astabhnād rodasī mitro adbhuto 'ntarvāvad akṛṇoj jyotiṣā tamaḥ
 vi carmaṇīva dhiṣaṇe avartayad vaiśvānaro viśvam adhatta vṛṣṇyam
 apām upasthe mahiṣā agṛbhṇata viśo rājānam upa tasthur ṛgmiyam
 ā dūto agnim abharad vivasvato vaiśvānaram mātariśvā parāvataḥ
-yuge-yuge vidathyaṃ gṛṇadbhyo 'gne rayiṃ yaśasaṃ dhehi navyasīm
+yuge yuge vidathyaṃ gṛṇadbhyo 'gne rayiṃ yaśasaṃ dhehi navyasīm
 pavyeva rājann aghaśaṃsam ajara nīcā ni vṛśca vaninaṃ na tejasā
 asmākam agne maghavatsu dhārayānāmi kṣatram ajaraṃ suvīryam
 vayaṃ jayema śatinaṃ sahasriṇaṃ vaiśvānara vājam agne tavotibhiḥ
@@ -8970,18 +8970,18 @@ vīhi svastiṃ sukṣitiṃ divo nṝn dviṣo aṃhāṃsi duritā tarema tā 
 imam ū ṣu vo atithim uṣarbudhaṃ viśvāsāṃ viśām patim ṛñjase girā
 vetīd divo januṣā kac cid ā śucir jyok cid atti garbho yad acyutam
 mitraṃ na yaṃ sudhitam bhṛgavo dadhur vanaspatāv īḍyam ūrdhvaśociṣam
-sa tvaṃ suprīto vītahavye adbhuta praśastibhir mahayase dive-dive
+sa tvaṃ suprīto vītahavye adbhuta praśastibhir mahayase dive dive
 sa tvaṃ dakṣasyāvṛko vṛdho bhūr aryaḥ parasyāntarasya taruṣaḥ
 rāyaḥ sūno sahaso martyeṣv ā chardir yaccha vītahavyāya sapratho bharadvājāya saprathaḥ
 dyutānaṃ vo atithiṃ svarṇaram agniṃ hotāram manuṣaḥ svadhvaram
 vipraṃ na dyukṣavacasaṃ suvṛktibhir havyavāham aratiṃ devam ṛñjase
 pāvakayā yaś citayantyā kṛpā kṣāman ruruca uṣaso na bhānunā
 tūrvan na yāmann etaśasya nū raṇa ā yo ghṛṇe na tatṛṣāṇo ajaraḥ
-agnim-agniṃ vaḥ samidhā duvasyata priyam-priyaṃ vo atithiṃ gṛṇīṣaṇi
+agnim agniṃ vaḥ samidhā duvasyata priyam priyaṃ vo atithiṃ gṛṇīṣaṇi
 upa vo gīrbhir amṛtaṃ vivāsata devo deveṣu vanate hi vāryaṃ devo deveṣu vanate hi no duvaḥ
 samiddham agniṃ samidhā girā gṛṇe śucim pāvakam puro adhvare dhruvam
 vipraṃ hotāram puruvāram adruhaṃ kaviṃ sumnair īmahe jātavedasam
-tvāṃ dūtam agne amṛtaṃ yuge-yuge havyavāhaṃ dadhire pāyum īḍyam
+tvāṃ dūtam agne amṛtaṃ yuge yuge havyavāhaṃ dadhire pāyum īḍyam
 devāsaś ca martāsaś ca jāgṛviṃ vibhuṃ viśpatiṃ namasā ni ṣedire
 vibhūṣann agna ubhayāṃ anu vratā dūto devānāṃ rajasī sam īyase
 yat te dhītiṃ sumatim āvṛṇīmahe 'dha smā nas trivarūthaḥ śivo bhava
@@ -9034,7 +9034,7 @@ mūrdhno viśvasya vāghataḥ
 tam u tvā dadhyaṅṅ ṛṣiḥ putra īdhe atharvaṇaḥ
 vṛtrahaṇam purandaram
 tam u tvā pāthyo vṛṣā sam īdhe dasyuhantamam
-dhanañjayaṃ raṇe-raṇe
+dhanañjayaṃ raṇe raṇe
 ehy ū ṣu bravāṇi te 'gna itthetarā giraḥ
 ebhir vardhāsa indubhiḥ
 yatra kva ca te mano dakṣaṃ dadhasa uttaram
@@ -9184,7 +9184,7 @@ marutvantaṃ vṛṣabhaṃ vāvṛdhānam akavāriṃ divyaṃ śāsam indram
 viśvāsāham avase nūtanāyograṃ sahodām iha taṃ huvema
 janaṃ vajrin mahi cin manyamānam ebhyo nṛbhyo randhayā yeṣv asmi
 adhā hi tvā pṛthivyāṃ śūrasātau havāmahe tanaye goṣv apsu
-vayaṃ ta ebhiḥ puruhūta sakhyaiḥ śatroḥ-śatror uttara it syāma
+vayaṃ ta ebhiḥ puruhūta sakhyaiḥ śatroḥ śatror uttara it syāma
 ghnanto vṛtrāṇy ubhayāni śūra rāyā madema bṛhatā tvotāḥ
 dyaur na ya indrābhi bhūmāryas tasthau rayiḥ śavasā pṛtsu janān
 taṃ naḥ sahasrabharam urvarāsāṃ daddhi sūno sahaso vṛtraturam
@@ -9337,7 +9337,7 @@ raṇā vā ye niṣadi kiṃ te asya purā vividre kim u nūtanāsaḥ
 sad asya made sad v asya pītāv indraḥ sad asya sakhye cakāra
 raṇā vā ye niṣadi sat te asya purā vividre sad u nūtanāsaḥ
 nahi nu te mahimanaḥ samasya na maghavan maghavattvasya vidma
-na rādhaso-rādhaso nūtanasyendra nakir dadṛśa indriyaṃ te
+na rādhaso rādhaso nūtanasyendra nakir dadṛśa indriyaṃ te
 etat tyat ta indriyam aceti yenāvadhīr varaśikhasya śeṣaḥ
 vajrasya yat te nihatasya śuṣmāt svanāc cid indra paramo dadāra
 vadhīd indro varaśikhasya śeṣo 'bhyāvartine cāyamānāya śikṣan
@@ -9351,7 +9351,7 @@ abhyāvartī cāyamāno dadāti dūṇāśeyaṃ dakṣiṇā pārthavānām
 ā gāvo agmann uta bhadram akran sīdantu goṣṭhe raṇayantv asme
 prajāvatīḥ pururūpā iha syur indrāya pūrvīr uṣaso duhānāḥ
 indro yajvane pṛṇate ca śikṣaty uped dadāti na svam muṣāyati
-bhūyo-bhūyo rayim id asya vardhayann abhinne khilye ni dadhāti devayum
+bhūyo bhūyo rayim id asya vardhayann abhinne khilye ni dadhāti devayum
 na tā naśanti na dabhāti taskaro nāsām āmitro vyathir ā dadharṣati
 devāṃś ca yābhir yajate dadāti ca jyog it tābhiḥ sacate gopatiḥ saha
 na tā arvā reṇukakāṭo aśnute na saṃskṛtatram upa yanti tā abhi
@@ -9379,7 +9379,7 @@ evā hi jāto asamātyojāḥ purū ca vṛtrā hanati ni dasyūn
 bhūya id vāvṛdhe vīryāyaṃ eko ajuryo dayate vasūni
 pra ririce diva indraḥ pṛthivyā ardham id asya prati rodasī ubhe
 adhā manye bṛhad asuryam asya yāni dādhāra nakir ā mināti
-dive-dive sūryo darśato bhūd vi sadmāny urviyā sukratur dhāt
+dive dive sūryo darśato bhūd vi sadmāny urviyā sukratur dhāt
 adyā cin nū cit tad apo nadīnāṃ yad ābhyo arado gātum indra
 ni parvatā admasado na sedus tvayā dṛḷhāni sukrato rajāṃsi
 satyam it tan na tvāvāṃ anyo astīndra devo na martyo jyāyān
@@ -9405,7 +9405,7 @@ puraḥ purohā sakhibhiḥ sakhīyan dṛḷhā ruroja kavibhiḥ kaviḥ san
 sa nīvyābhir jaritāram acchā maho vājebhir mahadbhiś ca śuṣmaiḥ
 puruvīrābhir vṛṣabha kṣitīnām ā girvaṇaḥ suvitāya pra yāhi
 sa sargeṇa śavasā takto atyair apa indro dakṣiṇatas turāṣāṭ
-itthā sṛjānā anapāvṛd arthaṃ dive-dive viviṣur apramṛṣyam
+itthā sṛjānā anapāvṛd arthaṃ dive dive viviṣur apramṛṣyam
 ya ojiṣṭha indra taṃ su no dā mado vṛṣan svabhiṣṭir dāsvān
 sauvaśvyaṃ yo vanavat svaśvo vṛtrā samatsu sāsahad amitrān
 tvāṃ hīndrāvase vivāco havante carṣaṇayaḥ śūrasātau
@@ -9445,7 +9445,7 @@ samudraṃ na sindhava ukthaśuṣmā uruvyacasaṃ gira ā viśanti
 sa rāyas khām upa sṛjā gṛṇānaḥ puruścandrasya tvam indra vasvaḥ
 patir babhūthāsamo janānām eko viśvasya bhuvanasya rājā
 sa tu śrudhi śrutyā yo duvoyur dyaur na bhūmābhi rāyo aryaḥ
-aso yathā naḥ śavasā cakāno yuge-yuge vayasā cekitānaḥ
+aso yathā naḥ śavasā cakāno yuge yuge vayasā cekitānaḥ
 arvāg rathaṃ viśvavāraṃ ta ugrendra yuktāso harayo vahantu
 kīriś cid dhi tvā havate svarvān ṛdhīmahi sadhamādas te adya
 pro droṇe harayaḥ karmāgman punānāsa ṛjyanto abhūvan
@@ -9501,8 +9501,8 @@ araṅgamāya jagmaye 'paścāddaghvane nare
 em enam pratyetana somebhiḥ somapātamam
 amatrebhir ṛjīṣiṇam indraṃ sutebhir indubhiḥ
 yadī sutebhir indubhiḥ somebhiḥ pratibhūṣatha
-vedā viśvasya medhiro dhṛṣat taṃ-tam id eṣate
-asmā-asmā id andhaso 'dhvaryo pra bharā sutam
+vedā viśvasya medhiro dhṛṣat taṃ tam id eṣate
+asmā asmā id andhaso 'dhvaryo pra bharā sutam
 kuvit samasya jenyasya śardhato 'bhiśaster avasparat
 yasya tyac chambaram made divodāsāya randhayaḥ
 ayaṃ sa soma indra te sutaḥ piba
@@ -9614,7 +9614,7 @@ dūṇāśaṃ sakhyaṃ tava gaur asi vīra gavyate
 aśvo aśvāyate bhava
 sa mandasvā hy andhaso rādhase tanvā mahe
 na stotāraṃ nide karaḥ
-imā u tvā sute-sute nakṣante girvaṇo giraḥ
+imā u tvā sute sute nakṣante girvaṇo giraḥ
 vatsaṃ gāvo na dhenavaḥ
 purūtamam purūṇāṃ stotṝṇāṃ vivāci
 vājebhir vājayatām
@@ -9674,7 +9674,7 @@ variṣṭhe na indra vandhure dhā vahiṣṭhayoḥ śatāvann aśvayor ā
 iṣam ā vakṣīṣāṃ varṣiṣṭhām mā nas tārīn maghavan rāyo aryaḥ
 indra mṛḷa mahyaṃ jīvātum iccha codaya dhiyam ayaso na dhārām
 yat kiṃ cāhaṃ tvāyur idaṃ vadāmi taj juṣasva kṛdhi mā devavantam
-trātāram indram avitāram indraṃ have-have suhavaṃ śūram indram
+trātāram indram avitāram indraṃ have have suhavaṃ śūram indram
 hvayāmi śakram puruhūtam indraṃ svasti no maghavā dhātv indraḥ
 indraḥ sutrāmā svavāṃ avobhiḥ sumṛḷīko bhavatu viśvavedāḥ
 bādhatāṃ dveṣo abhayaṃ kṛṇotu suvīryasya patayaḥ syāma
@@ -9683,18 +9683,18 @@ sa sutrāmā svavāṃ indro asme ārāc cid dveṣaḥ sanutar yuyotu
 ava tve indra pravato normir giro brahmāṇi niyuto dhavante
 urū na rādhaḥ savanā purūṇy apo gā vajrin yuvase sam indūn
 ka īṃ stavat kaḥ pṛṇāt ko yajāte yad ugram in maghavā viśvahāvet
-pādāv iva praharann anyam-anyaṃ kṛṇoti pūrvam aparaṃ śacībhiḥ
-śṛṇve vīra ugram-ugraṃ damāyann anyam-anyam atinenīyamānaḥ
+pādāv iva praharann anyam anyaṃ kṛṇoti pūrvam aparaṃ śacībhiḥ
+śṛṇve vīra ugram ugraṃ damāyann anyam anyam atinenīyamānaḥ
 edhamānadviḷ ubhayasya rājā coṣkūyate viśa indro manuṣyān
 parā pūrveṣāṃ sakhyā vṛṇakti vitarturāṇo aparebhir eti
 anānubhūtīr avadhūnvānaḥ pūrvīr indraḥ śaradas tartarīti
-rūpaṃ-rūpam pratirūpo babhūva tad asya rūpam praticakṣaṇāya
+rūpaṃ rūpam pratirūpo babhūva tad asya rūpam praticakṣaṇāya
 indro māyābhiḥ pururūpa īyate yuktā hy asya harayaḥ śatā daśa
 yujāno haritā rathe bhūri tvaṣṭeha rājati
 ko viśvāhā dviṣataḥ pakṣa āsata utāsīneṣu sūriṣu
 agavyūti kṣetram āganma devā urvī satī bhūmir aṃhūraṇābhūt
 bṛhaspate pra cikitsā gaviṣṭāv itthā sate jaritra indra panthām
-dive-dive sadṛśīr anyam ardhaṃ kṛṣṇā asedhad apa sadmano jāḥ
+dive dive sadṛśīr anyam ardhaṃ kṛṣṇā asedhad apa sadmano jāḥ
 ahan dāsā vṛṣabho vasnayantodavraje varcinaṃ śambaraṃ ca
 prastoka in nu rādhasas ta indra daśa kośayīr daśa vājino 'dāt
 divodāsād atithigvasya rādhaḥ śāmbaraṃ vasu praty agrabhīṣma
@@ -9715,8 +9715,8 @@ sa dundubhe sajūr indreṇa devair dūrād davīyo apa sedha śatrūn
 apa protha dundubhe ducchunā ita indrasya muṣṭir asi vīḷayasva
 āmūr aja pratyāvartayemāḥ ketumad dundubhir vāvadīti
 sam aśvaparṇāś caranti no naro 'smākam indra rathino jayantu
-yajñā-yajñā vo agnaye girā-girā ca dakṣase
-pra-pra vayam amṛtaṃ jātavedasam priyam mitraṃ na śaṃsiṣam
+yajñā yajñā vo agnaye girā girā ca dakṣase
+pra pra vayam amṛtaṃ jātavedasam priyam mitraṃ na śaṃsiṣam
 ūrjo napātaṃ sa hināyam asmayur dāśema havyadātaye
 bhuvad vājeṣv avitā bhuvad vṛdha uta trātā tanūnām
 vṛṣā hy agne ajaro mahān vibhāsy arciṣā
@@ -9761,7 +9761,7 @@ sakṛd dha dyaur ajāyata sakṛd bhūmir ajāyata
 pṛśnyā dugdhaṃ sakṛt payas tad anyo nānu jāyate
 stuṣe janaṃ suvrataṃ navyasībhir gīrbhir mitrāvaruṇā sumnayantā
 ta ā gamantu ta iha śruvantu sukṣatrāso varuṇo mitro agniḥ
-viśo-viśa īḍyam adhvareṣv adṛptakratum aratiṃ yuvatyoḥ
+viśo viśa īḍyam adhvareṣv adṛptakratum aratiṃ yuvatyoḥ
 divaḥ śiśuṃ sahasaḥ sūnum agniṃ yajñasya ketum aruṣaṃ yajadhyai
 aruṣasya duhitarā virūpe stṛbhir anyā pipiśe sūro anyā
 mithasturā vicarantī pāvake manma śrutaṃ nakṣata ṛcyamāne
@@ -9773,8 +9773,8 @@ parjanyavātā vṛṣabhā pṛthivyāḥ purīṣāṇi jinvatam apyāni
 satyaśrutaḥ kavayo yasya gīrbhir jagata sthātar jagad ā kṛṇudhvam
 pāvīravī kanyā citrāyuḥ sarasvatī vīrapatnī dhiyaṃ dhāt
 gnābhir acchidraṃ śaraṇaṃ sajoṣā durādharṣaṃ gṛṇate śarma yaṃsat
-pathas-pathaḥ paripatiṃ vacasyā kāmena kṛto abhy ānaḷ arkam
-sa no rāsac churudhaś candrāgrā dhiyaṃ-dhiyaṃ sīṣadhāti pra pūṣā
+pathas pathaḥ paripatiṃ vacasyā kāmena kṛto abhy ānaḷ arkam
+sa no rāsac churudhaś candrāgrā dhiyaṃ dhiyaṃ sīṣadhāti pra pūṣā
 prathamabhājaṃ yaśasaṃ vayodhāṃ supāṇiṃ devaṃ sugabhastim ṛbhvam
 hotā yakṣad yajatam pastyānām agnis tvaṣṭāraṃ suhavaṃ vibhāvā
 bhuvanasya pitaraṃ gīrbhir ābhī rudraṃ divā vardhayā rudram aktau
@@ -9930,7 +9930,7 @@ rathīr ṛtasya no bhava
 rathītamaṃ kapardinam īśānaṃ rādhaso mahaḥ
 rāyaḥ sakhāyam īmahe
 rāyo dhārāsy āghṛṇe vaso rāśir ajāśva
-dhīvato-dhīvataḥ sakhā
+dhīvato dhīvataḥ sakhā
 pūṣaṇaṃ nv ajāśvam upa stoṣāma vājinam
 svasur yo jāra ucyate
 mātur didhiṣum abravaṃ svasur jāraḥ śṛṇotu naḥ
@@ -10042,7 +10042,7 @@ sarasvatī stomyā bhūt
 āpapruṣī pārthivāny uru rajo antarikṣam
 sarasvatī nidas pātu
 triṣadhasthā saptadhātuḥ pañca jātā vardhayantī
-vāje-vāje havyā bhūt
+vāje vāje havyā bhūt
 pra yā mahimnā mahināsu cekite dyumnebhir anyā apasām apastamā
 ratha iva bṛhatī vibhvane kṛtopastutyā cikituṣā sarasvatī
 sarasvaty abhi no neṣi vasyo māpa spharīḥ payasā mā na ā dhak
@@ -10218,7 +10218,7 @@ ud u ṣya devaḥ savitā damūnā hiraṇyapāṇiḥ pratidoṣam asthāt
 ayohanur yajato mandrajihva ā dāśuṣe suvati bhūri vāmam
 ud ū ayāṃ upavakteva bāhū hiraṇyayā savitā supratīkā
 divo rohāṃsy aruhat pṛthivyā arīramat patayat kac cid abhvam
-vāmam adya savitar vāmam u śvo dive-dive vāmam asmabhyaṃ sāvīḥ
+vāmam adya savitar vāmam u śvo dive dive vāmam asmabhyaṃ sāvīḥ
 vāmasya hi kṣayasya deva bhūrer ayā dhiyā vāmabhājaḥ syāma
 indrāsomā mahi tad vām mahitvaṃ yuvam mahāni prathamāni cakrathuḥ
 yuvaṃ sūryaṃ vividathur yuvaṃ svar viśvā tamāṃsy ahataṃ nidaś ca
@@ -10237,7 +10237,7 @@ ghnan vṛtrāṇi vi puro dardarīti jayañ chatrūṃr amitrān pṛtsu sāhan
 bṛhaspatiḥ sam ajayad vasūni maho vrajān gomato deva eṣaḥ
 apaḥ siṣāsan svar apratīto bṛhaspatir hanty amitram arkaiḥ
 somārudrā dhārayethām asuryam pra vām iṣṭayo 'ram aśnuvantu
-dame-dame sapta ratnā dadhānā śaṃ no bhūtaṃ dvipade śaṃ catuṣpade
+dame dame sapta ratnā dadhānā śaṃ no bhūtaṃ dvipade śaṃ catuṣpade
 somārudrā vi vṛhataṃ viṣūcīm amīvā yā no gayam āviveśa
 āre bādhethāṃ nirṛtim parācair asme bhadrā sauśravasāni santu
 somārudrā yuvam etāny asme viśvā tanūṣu bheṣajāni dhattam
@@ -10254,7 +10254,7 @@ te ācarantī samaneva yoṣā māteva putram bibhṛtām upasthe
 apa śatrūn vidhyatāṃ saṃvidāne ārtnī ime viṣphurantī amitrān
 bahvīnām pitā bahur asya putraś ciścā kṛṇoti samanāvagatya
 iṣudhiḥ saṅkāḥ pṛtanāś ca sarvāḥ pṛṣṭhe ninaddho jayati prasūtaḥ
-rathe tiṣṭhan nayati vājinaḥ puro yatra-yatra kāmayate suṣārathiḥ
+rathe tiṣṭhan nayati vājinaḥ puro yatra yatra kāmayate suṣārathiḥ
 abhīśūnām mahimānam panāyata manaḥ paścād anu yacchanti raśmayaḥ
 tīvrān ghoṣān kṛṇvate vṛṣapāṇayo 'śvā rathebhiḥ saha vājayantaḥ
 avakrāmantaḥ prapadair amitrān kṣiṇanti śatrūṃr anapavyayantaḥ
@@ -10417,7 +10417,7 @@ indrasyeva pra tavasas kṛtāni vande dāruṃ vandamāno vivakmi
 kaviṃ ketuṃ dhāsim bhānum adrer hinvanti śaṃ rājyaṃ rodasyoḥ
 purandarasya gīrbhir ā vivāse 'gner vratāni pūrvyā mahāni
 ny akratūn grathino mṛdhravācaḥ paṇīṃr aśraddhāṃ avṛdhāṃ ayajñān
-pra-pra tān dasyūṃr agnir vivāya pūrvaś cakārāparāṃ ayajyūn
+pra pra tān dasyūṃr agnir vivāya pūrvaś cakārāparāṃ ayajyūn
 yo apācīne tamasi madantīḥ prācīś cakāra nṛtamaḥ śacībhiḥ
 tam īśānaṃ vasvo agniṃ gṛṇīṣe 'nānataṃ damayantam pṛtanyūn
 yo dehyo anamayad vadhasnair yo aryapatnīr uṣasaś cakāra
@@ -10446,7 +10446,7 @@ ayam u ṣya sumahāṃ avedi hotā mandro manuṣo yahvo agniḥ
 vi bhā akaḥ sasṛjānaḥ pṛthivyāṃ kṛṣṇapavir oṣadhībhir vavakṣe
 kayā no agne vi vasaḥ suvṛktiṃ kām u svadhām ṛṇavaḥ śasyamānaḥ
 kadā bhavema patayaḥ sudatra rāyo vantāro duṣṭarasya sādhoḥ
-pra-prāyam agnir bharatasya śṛṇve vi yat sūryo na rocate bṛhad bhāḥ
+pra prāyam agnir bharatasya śṛṇve vi yat sūryo na rocate bṛhad bhāḥ
 abhi yaḥ pūrum pṛtanāsu tasthau dyutāno daivyo atithiḥ śuśoca
 asann it tve āhavanāni bhūri bhuvo viśvebhiḥ sumanā anīkaiḥ
 stutaś cid agne śṛṇviṣe gṛṇānaḥ svayaṃ vardhasva tanvaṃ sujāta
@@ -10506,7 +10506,7 @@ vayaṃ ghṛtenādhvarasya hotar vayaṃ deva haviṣā bhadraśoce
 tubhyaṃ devāya dāśataḥ syāma yūyam pāta svastibhiḥ sadā naḥ
 upasadyāya mīḷhuṣa āsye juhutā haviḥ
 yo no nediṣṭham āpyam
-yaḥ pañca carṣaṇīr abhi niṣasāda dame-dame
+yaḥ pañca carṣaṇīr abhi niṣasāda dame dame
 kavir gṛhapatir yuvā
 sa no vedo amātyam agnī rakṣatu viśvataḥ
 utāsmān pātv aṃhasaḥ
@@ -10611,7 +10611,7 @@ dve naptur devavataḥ śate gor dvā rathā vadhūmantā sudāsaḥ
 arhann agne paijavanasya dānaṃ hoteva sadma pary emi rebhan
 catvāro mā paijavanasya dānāḥ smaddiṣṭayaḥ kṛśanino nireke
 ṛjrāso mā pṛthiviṣṭhāḥ sudāsas tokaṃ tokāya śravase vahanti
-yasya śravo rodasī antar urvī śīrṣṇe-śīrṣṇe vibabhājā vibhaktā
+yasya śravo rodasī antar urvī śīrṣṇe śīrṣṇe vibabhājā vibhaktā
 sapted indraṃ na sravato gṛṇanti ni yudhyāmadhim aśiśād abhīke
 imaṃ naro marutaḥ saścatānu divodāsaṃ na pitaraṃ sudāsaḥ
 aviṣṭanā paijavanasya ketaṃ dūṇāśaṃ kṣatram ajaraṃ duvoyu
@@ -10733,7 +10733,7 @@ evā na indra vāryasya pūrdhi pra te mahīṃ sumatiṃ vevidāma
 iṣam pinva maghavadbhyaḥ suvīrāṃ yūyam pāta svastibhiḥ sadā naḥ
 na soma indram asuto mamāda nābrahmāṇo maghavānaṃ sutāsaḥ
 tasmā ukthaṃ janaye yaj jujoṣan nṛvan navīyaḥ śṛṇavad yathā naḥ
-uktha-ukthe soma indram mamāda nīthe-nīthe maghavānaṃ sutāsaḥ
+uktha ukthe soma indram mamāda nīthe nīthe maghavānaṃ sutāsaḥ
 yad īṃ sabādhaḥ pitaraṃ na putrāḥ samānadakṣā avase havante
 cakāra tā kṛṇavan nūnam anyā yāni bruvanti vedhasaḥ suteṣu
 janīr iva patir ekaḥ samāno ni māmṛje pura indraḥ su sarvāḥ
@@ -10840,7 +10840,7 @@ tvaṃ viśvasya dhanadā asi śruto ya īm bhavanty ājayaḥ
 tavāyaṃ viśvaḥ puruhūta pārthivo 'vasyur nāma bhikṣate
 yad indra yāvatas tvam etāvad aham īśīya
 stotāram id didhiṣeya radāvaso na pāpatvāya rāsīya
-śikṣeyam in mahayate dive-dive rāya ā kuhacidvide
+śikṣeyam in mahayate dive dive rāya ā kuhacidvide
 nahi tvad anyan maghavan na āpyaṃ vasyo asti pitā cana
 taraṇir it siṣāsati vājam purandhyā yujā
 ā va indram puruhūtaṃ name girā nemiṃ taṣṭeva sudrvam
@@ -10851,7 +10851,7 @@ abhi tvā śūra nonumo 'dugdhā iva dhenavaḥ
 na tvāvāṃ anyo divyo na pārthivo na jāto na janiṣyate
 aśvāyanto maghavann indra vājino gavyantas tvā havāmahe
 abhī ṣatas tad ā bharendra jyāyaḥ kanīyasaḥ
-purūvasur hi maghavan sanād asi bhare-bhare ca havyaḥ
+purūvasur hi maghavan sanād asi bhare bhare ca havyaḥ
 parā ṇudasva maghavann amitrān suvedā no vasū kṛdhi
 asmākam bodhy avitā mahādhane bhavā vṛdhaḥ sakhīnām
 indra kratuṃ na ā bhara pitā putrebhyo yathā
@@ -10993,7 +10993,7 @@ anu tan no jāspatir maṃsīṣṭa ratnaṃ devasya savitur iyānaḥ
 bhagam ugro 'vase johavīti bhagam anugro adha yāti ratnam
 śaṃ no bhavantu vājino haveṣu devatātā mitadravaḥ svarkāḥ
 jambhayanto 'hiṃ vṛkaṃ rakṣāṃsi sanemy asmad yuyavann amīvāḥ
-vāje-vāje 'vata vājino no dhaneṣu viprā amṛtā ṛtajñāḥ
+vāje vāje 'vata vājino no dhaneṣu viprā amṛtā ṛtajñāḥ
 asya madhvaḥ pibata mādayadhvaṃ tṛptā yāta pathibhir devayānaiḥ
 ūrdhvo agniḥ sumatiṃ vasvo aśret pratīcī jūrṇir devatātim eti
 bhejāte adrī rathyeva panthām ṛtaṃ hotā na iṣito yajāti
@@ -11222,7 +11222,7 @@ tāṃ ā rudrasya mīḷhuṣo vivāse kuvin naṃsante marutaḥ punar naḥ
 yat sasvartā jihīḷire yad āvir ava tad ena īmahe turāṇām
 pra sā vāci suṣṭutir maghonām idaṃ sūktam maruto juṣanta
 ārāc cid dveṣo vṛṣaṇo yuyota yūyam pāta svastibhiḥ sadā naḥ
-yaṃ trāyadhva idam-idaṃ devāso yaṃ ca nayatha
+yaṃ trāyadhva idam idaṃ devāso yaṃ ca nayatha
 tasmā agne varuṇa mitrāryaman marutaḥ śarma yacchata
 yuṣmākaṃ devā avasāhani priya ījānas tarati dviṣaḥ
 pra sa kṣayaṃ tirate vi mahīr iṣo yo vo varāya dāśati
@@ -11356,7 +11356,7 @@ yad ohate varuṇo mitro aryamā yūyam ṛtasya rathyaḥ
 teṣāṃ vaḥ sumne succhardiṣṭame naraḥ syāma ye ca sūrayaḥ
 ud u tyad darśataṃ vapur diva eti pratihvare
 yad īm āśur vahati deva etaśo viśvasmai cakṣase aram
-śīrṣṇaḥ-śīrṣṇo jagatas tasthuṣas patiṃ samayā viśvam ā rajaḥ
+śīrṣṇaḥ śīrṣṇo jagatas tasthuṣas patiṃ samayā viśvam ā rajaḥ
 sapta svasāraḥ suvitāya sūryaṃ vahanti harito rathe
 tac cakṣur devahitaṃ śukram uccarat
 paśyema śaradaḥ śataṃ jīvema śaradaḥ śatam
@@ -11467,7 +11467,7 @@ sam andhāṃsy agmata matsarāṇi mā no mardhiṣṭam ā gataṃ śivena
 ā paścātān nāsatyā purastād āśvinā yātam adharād udaktāt
 ā viśvataḥ pāñcajanyena rāyā yūyam pāta svastibhiḥ sadā naḥ
 imā u vāṃ diviṣṭaya usrā havante aśvinā
-ayaṃ vām ahve 'vase śacīvasū viśaṃ-viśaṃ hi gacchathaḥ
+ayaṃ vām ahve 'vase śacīvasū viśaṃ viśaṃ hi gacchathaḥ
 yuvaṃ citraṃ dadathur bhojanaṃ narā codethāṃ sūnṛtāvate
 arvāg rathaṃ samanasā ni yacchatam pibataṃ somyam madhu
 ā yātam upa bhūṣatam madhvaḥ pibatam aśvinā
@@ -11538,7 +11538,7 @@ abhūd uṣā indratamā maghony ajījanat suvitāya śravāṃsi
 vi divo devī duhitā dadhāty aṅgirastamā sukṛte vasūni
 tāvad uṣo rādho asmabhyaṃ rāsva yāvat stotṛbhyo arado gṛṇānā
 yāṃ tvā jajñur vṛṣabhasyā raveṇa vi dṛḷhasya duro adrer aurṇoḥ
-devaṃ-devaṃ rādhase codayanty asmadryak sūnṛtā īrayantī
+devaṃ devaṃ rādhase codayanty asmadryak sūnṛtā īrayantī
 vyucchantī naḥ sanaye dhiyo dhā yūyam pāta svastibhiḥ sadā naḥ
 prati stomebhir uṣasaṃ vasiṣṭhā gīrbhir viprāsaḥ prathamā abudhran
 vivartayantīṃ rajasī samante āviṣkṛṇvatīm bhuvanāni viśvā
@@ -11574,7 +11574,7 @@ na tam aṃho na duritāni martyam indrāvaruṇā na tapaḥ kutaś cana
 yasya devā gacchatho vītho adhvaraṃ na tam martasya naśate parihvṛtiḥ
 arvāṅ narā daivyenāvasā gataṃ śṛṇutaṃ havaṃ yadi me jujoṣathaḥ
 yuvor hi sakhyam uta vā yad āpyam mārḍīkam indrāvaruṇā ni yacchatam
-asmākam indrāvaruṇā bhare-bhare puroyodhā bhavataṃ kṛṣṭyojasā
+asmākam indrāvaruṇā bhare bhare puroyodhā bhavataṃ kṛṣṭyojasā
 yad vāṃ havanta ubhaye adha spṛdhi naras tokasya tanayasya sātiṣu
 asme indro varuṇo mitro aryamā dyumnaṃ yacchantu mahi śarma saprathaḥ
 avadhraṃ jyotir aditer ṛtāvṛdho devasya ślokaṃ savitur manāmahe
@@ -11675,7 +11675,7 @@ acittī yat tava dharmā yuyopima mā nas tasmād enaso deva rīriṣaḥ
 pra vīrayā śucayo dadrire vām adhvaryubhir madhumantaḥ sutāsaḥ
 vaha vāyo niyuto yāhy acchā pibā sutasyāndhaso madāya
 īśānāya prahutiṃ yas ta ānaṭ chuciṃ somaṃ śucipās tubhyaṃ vāyo
-kṛṇoṣi tam martyeṣu praśastaṃ jāto-jāto jāyate vājy asya
+kṛṇoṣi tam martyeṣu praśastaṃ jāto jāto jāyate vājy asya
 rāye nu yaṃ jajñatū rodasīme rāye devī dhiṣaṇā dhāti devam
 adha vāyuṃ niyutaḥ saścata svā uta śvetaṃ vasudhitiṃ nireke
 ucchann uṣasaḥ sudinā ariprā uru jyotir vividur dīdhyānāḥ
@@ -11796,7 +11796,7 @@ bṛhaspate yuvam indraś ca vasvo divyasyeśāthe uta pārthivasya
 dhattaṃ rayiṃ stuvate kīraye cid yūyam pāta svastibhiḥ sadā naḥ
 adhvaryavo 'ruṇaṃ dugdham aṃśuṃ juhotana vṛṣabhāya kṣitīnām
 gaurād vedīyāṃ avapānam indro viśvāhed yāti sutasomam icchan
-yad dadhiṣe pradivi cārv annaṃ dive-dive pītim id asya vakṣi
+yad dadhiṣe pradivi cārv annaṃ dive dive pītim id asya vakṣi
 uta hṛdota manasā juṣāṇa uśann indra prasthitān pāhi somān
 jajñānaḥ somaṃ sahase papātha pra te mātā mahimānam uvāca
 endra paprāthorv antarikṣaṃ yudhā devebhyo varivaś cakartha
@@ -12040,7 +12040,7 @@ jyeṣṭhena sotar indrāya somaṃ vīrāya śakrāya
 bharā piban naryāya
 yo vediṣṭho avyathiṣv aśvāvantaṃ jaritṛbhyaḥ
 vājaṃ stotṛbhyo gomantam
-panyam-panyam it sotāra ā dhāvata madyāya
+panyam panyam it sotāra ā dhāvata madyāya
 somaṃ vīrāya śūrāya
 pātā vṛtrahā sutam ā ghā gaman nāre asmat
 ni yamate śatamūtiḥ
@@ -12143,7 +12143,7 @@ madhvā sampṛktāḥ sāragheṇa dhenavas tūyam ehi dravā piba
 aśvī rathī surūpa id gomāṃ id indra te sakhā
 śvātrabhājā vayasā sacate sadā candro yāti sabhām upa
 ṛśyo na tṛṣyann avapānam ā gahi pibā somaṃ vaśāṃ anu
-nimeghamāno maghavan dive-diva ojiṣṭhaṃ dadhiṣe sahaḥ
+nimeghamāno maghavan dive diva ojiṣṭhaṃ dadhiṣe sahaḥ
 adhvaryo drāvayā tvaṃ somam indraḥ pipāsati
 upa nūnaṃ yuyuje vṛṣaṇā harī ā ca jagāma vṛtrahā
 svayaṃ cit sa manyate dāśurir jano yatrā somasya tṛmpasi
@@ -12568,7 +12568,7 @@ yad vā śakra parāvati samudre adhi mandase
 asmākam it sute raṇā sam indubhiḥ
 yad vāsi sunvato vṛdho yajamānasya satpate
 ukthe vā yasya raṇyasi sam indubhiḥ
-devaṃ-devaṃ vo 'vasa indram-indraṃ gṛṇīṣaṇi
+devaṃ devaṃ vo 'vasa indram indraṃ gṛṇīṣaṇi
 adhā yajñāya turvaṇe vy ānaśuḥ
 yajñebhir yajñavāhasaṃ somebhiḥ somapātamam
 hotrābhir indraṃ vāvṛdhur vy ānaśuḥ
@@ -12586,7 +12586,7 @@ yadā vṛtraṃ nadīvṛtaṃ śavasā vajrinn avadhīḥ
 ād it te haryatā harī vavakṣatuḥ
 yadā te viṣṇur ojasā trīṇi padā vicakrame
 ād it te haryatā harī vavakṣatuḥ
-yadā te haryatā harī vāvṛdhāte dive-dive
+yadā te haryatā harī vāvṛdhāte dive dive
 ād it te viśvā bhuvanāni yemire
 yadā te mārutīr viśas tubhyam indra niyemire
 ād it te viśvā bhuvanāni yemire
@@ -12611,7 +12611,7 @@ rayiṃ naś citram ā bharā svarvidam
 stotā yat te vicarṣaṇir atipraśardhayad giraḥ
 vayā ivānu rohate juṣanta yat
 pratnavaj janayā giraḥ śṛṇudhī jaritur havam
-made-made vavakṣithā sukṛtvane
+made made vavakṣithā sukṛtvane
 krīḷanty asya sūnṛtā āpo na pravatā yatīḥ
 ayā dhiyā ya ucyate patir divaḥ
 uto patir ya ucyate kṛṣṭīnām eka id vaśī
@@ -12705,7 +12705,7 @@ u lokakṛtnum adrivo hariśriyam
 yena jyotīṃṣy āyave manave ca viveditha
 mandāno asya barhiṣo vi rājasi
 tad adyā cit ta ukthino 'nu ṣṭuvanti pūrvathā
-vṛṣapatnīr apo jayā dive-dive
+vṛṣapatnīr apo jayā dive dive
 tava tyad indriyam bṛhat tava śuṣmam uta kratum
 vajraṃ śiśāti dhiṣaṇā vareṇyam
 tava dyaur indra pauṃsyam pṛthivī vardhati śravaḥ
@@ -12959,7 +12959,7 @@ nūtnā id indra te vayam ūtī abhūma nahi nū te adrivaḥ
 vidmā purā parīṇasaḥ
 vidmā sakhitvam uta śūra bhojyam ā te tā vajrinn īmahe
 uto samasminn ā śiśīhi no vaso vāje suśipra gomati
-yo na idam-idam purā pra vasya ānināya tam u va stuṣe
+yo na idam idam purā pra vasya ānināya tam u va stuṣe
 sakhāya indram ūtaye
 haryaśvaṃ satpatiṃ carṣaṇīsahaṃ sa hi ṣmā yo amandata
 ā tu naḥ sa vayati gavyam aśvyaṃ stotṛbhyo maghavā śatam
@@ -13122,7 +13122,7 @@ aryo gayam maṃhamānaṃ vi dāśuṣe
 evā nūnam upa stuhi vaiyaśva daśamaṃ navam
 suvidvāṃsaṃ carkṛtyaṃ caraṇīnām
 vetthā hi nirṛtīnāṃ vajrahasta parivṛjam
-ahar-ahaḥ śundhyuḥ paripadām iva
+ahar ahaḥ śundhyuḥ paripadām iva
 tad indrāva ā bhara yenā daṃsiṣṭha kṛtvane
 dvitā kutsāya śiśnatho ni codaya
 tam u tvā nūnam īmahe navyaṃ daṃsiṣṭha sanyase
@@ -13206,7 +13206,7 @@ nedīyasaḥ kūḷayātaḥ paṇīṃr uta
 vaiyaśvasya śrutaṃ naroto me asya vedathaḥ
 sajoṣasā varuṇo mitro aryamā
 yuvādattasya dhiṣṇyā yuvānītasya sūribhiḥ
-ahar-ahar vṛṣaṇa mahyaṃ śikṣatam
+ahar ahar vṛṣaṇa mahyaṃ śikṣatam
 yo vāṃ yajñebhir āvṛto 'dhivastrā vadhūr iva
 saparyantā śubhe cakrāte aśvinā
 yo vām uruvyacastamaṃ ciketati nṛpāyyam
@@ -13257,8 +13257,8 @@ idā hi va upastutim idā vāmasya bhaktaye
 upa vo viśvavedaso namasyur āṃ asṛkṣy anyām iva
 ud u ṣya vaḥ savitā supraṇītayo 'sthād ūrdhvo vareṇyaḥ
 ni dvipādaś catuṣpādo arthino 'viśran patayiṣṇavaḥ
-devaṃ-devaṃ vo 'vase devaṃ-devam abhiṣṭaye
-devaṃ-devaṃ huvema vājasātaye gṛṇanto devyā dhiyā
+devaṃ devaṃ vo 'vase devaṃ devam abhiṣṭaye
+devaṃ devaṃ huvema vājasātaye gṛṇanto devyā dhiyā
 devāso hi ṣmā manave samanyavo viśve sākaṃ sarātayaḥ
 te no adya te aparaṃ tuce tu no bhavantu varivovidaḥ
 pra vaḥ śaṃsāmy adruhaḥ saṃstha upastutīnām
@@ -13311,7 +13311,7 @@ puroḷāśaṃ yo asmai somaṃ rarata āśiram
 pād it taṃ śakro aṃhasaḥ
 tasya dyumāṃ asad ratho devajūtaḥ sa śūśuvat
 viśvā vanvann amitriyā
-asya prajāvatī gṛhe 'saścantī dive-dive
+asya prajāvatī gṛhe 'saścantī dive dive
 iḷā dhenumatī duhe
 yā dampatī samanasā sunuta ā ca dhāvataḥ
 devāso nityayāśirā
@@ -13577,7 +13577,7 @@ ny agne navyasā vacas tanūṣu śaṃsam eṣām
 ny arātī rarāvṇāṃ viśvā aryo arātīr ito yucchantv āmuro nabhantām anyake same
 agne manmāni tubhyaṃ kaṃ ghṛtaṃ na juhva āsani
 sa deveṣu pra cikiddhi tvaṃ hy asi pūrvyaḥ śivo dūto vivasvato nabhantām anyake same
-tat-tad agnir vayo dadhe yathā-yathā kṛpaṇyati
+tat tad agnir vayo dadhe yathā yathā kṛpaṇyati
 ūrjāhutir vasūnāṃ śaṃ ca yoś ca mayo dadhe viśvasyai devahūtyai nabhantām anyake same
 sa ciketa sahīyasāgniś citreṇa karmaṇā
 sa hotā śaśvatīnāṃ dakṣiṇābhir abhīvṛta inoti ca pratīvyaṃ nabhantām anyake same
@@ -13795,7 +13795,7 @@ vṛjyāma te pari dviṣo 'raṃ te śakra dāvane
 gamemed indra gomataḥ
 śanaiś cid yanto adrivo 'śvāvantaḥ śatagvinaḥ
 vivakṣaṇā anehasaḥ
-ūrdhvā hi te dive-dive sahasrā sūnṛtā śatā
+ūrdhvā hi te dive dive sahasrā sūnṛtā śatā
 jaritṛbhyo vimaṃhate
 vidmā hi tvā dhanañjayam indra dṛḷhā cid ārujam
 ādāriṇaṃ yathā gayam
@@ -13973,7 +13973,7 @@ iṣireṇa te manasā sutasya bhakṣīmahi pitryasyeva rāyaḥ
 soma rājan pra ṇa āyūṃṣi tārīr ahānīva sūryo vāsarāṇi
 soma rājan mṛḷayā naḥ svasti tava smasi vratyās tasya viddhi
 alarti dakṣa uta manyur indo mā no aryo anukāmam parā dāḥ
-tvaṃ hi nas tanvaḥ soma gopā gātre-gātre niṣasatthā nṛcakṣāḥ
+tvaṃ hi nas tanvaḥ soma gopā gātre gātre niṣasatthā nṛcakṣāḥ
 yat te vayam pramināma vratāni sa no mṛḷa suṣakhā deva vasyaḥ
 ṛdūdareṇa sakhyā saceya yo mā na riṣyed dharyaśva pītaḥ
 ayaṃ yaḥ somo ny adhāyy asme tasmā indram pratiram emy āyuḥ
@@ -14069,7 +14069,7 @@ sam indro rāyo bṛhatīr adhūnuta saṃ kṣoṇī sam u sūryam
 saṃ śukrāsaḥ śucayaḥ saṃ gavāśiraḥ somā indram amandiṣuḥ
 upamaṃ tvā maghonāṃ jyeṣṭhaṃ ca vṛṣabhāṇām
 pūrbhittamam maghavann indra govidam īśānaṃ rāya īmahe
-ya āyuṃ kutsam atithigvam ardayo vāvṛdhāno dive-dive
+ya āyuṃ kutsam atithigvam ardayo vāvṛdhāno dive dive
 taṃ tvā vayaṃ haryaśvaṃ śatakratuṃ vājayanto havāmahe
 ā no viśveṣāṃ rasam madhvaḥ siñcantv adrayaḥ
 ye parāvati sunvire janeṣv ā ye arvāvatīndavaḥ
@@ -14105,7 +14105,7 @@ rādhas te dasyave vṛka
 mahnā divaṃ na tastabhuḥ
 śataṃ veṇūñ chataṃ śunaḥ śataṃ carmāṇi mlātāni
 śatam me balbajastukā aruṣīṇāṃ catuḥśatam
-sudevā stha kāṇvāyanā vayo-vayo vicarantaḥ
+sudevā stha kāṇvāyanā vayo vayo vicarantaḥ
 aśvāso na caṅkramata
 ād it sāptasya carkirann ānūnasya mahi śravaḥ
 śyāvīr atidhvasan pathaś cakṣuṣā cana saṃnaśe
@@ -14134,7 +14134,7 @@ ekaivoṣāḥ sarvam idaṃ vi bhāty ekaṃ vā idaṃ vi babhūva sarvam
 jyotiṣmantaṃ ketumantaṃ tricakraṃ sukhaṃ rathaṃ suṣadam bhūrivāram
 citrāmaghā yasya yoge 'dhijajñe taṃ vāṃ huve ati riktam pibadhyai
 imāni vām bhāgadheyāni sisrata indrāvaruṇā pra mahe suteṣu vām
-yajñe-yajñe ha savanā bhuraṇyatho yat sunvate yajamānāya śikṣathaḥ
+yajñe yajñe ha savanā bhuraṇyatho yat sunvate yajamānāya śikṣathaḥ
 niṣṣidhvarīr oṣadhīr āpa āstām indrāvaruṇā mahimānam āśata
 yā sisratū rajasaḥ pāre adhvano yayoḥ śatrur nakir ādeva ohate
 satyaṃ tad indrāvaruṇā kṛśasya vām madhva ūrmiṃ duhate sapta vāṇīḥ
@@ -14179,7 +14179,7 @@ sa tvaṃ no hotaḥ suhutaṃ haviṣ kṛdhi vaṃsvā no vāryā puru
 atandro havyā vahasi haviṣkṛta ād id deveṣu rājasi
 sapta hotāras tam id īḷate tvāgne sutyajam ahrayam
 bhinatsy adriṃ tapasā vi śociṣā prāgne tiṣṭha janāṃ ati
-agnim-agniṃ vo adhriguṃ huvema vṛktabarhiṣaḥ
+agnim agniṃ vo adhriguṃ huvema vṛktabarhiṣaḥ
 agniṃ hitaprayasaḥ śaśvatīṣv ā hotāraṃ carṣaṇīnām
 ketena śarman sacate suṣāmaṇy agne tubhyaṃ cikitvanā
 iṣaṇyayā naḥ pururūpam ā bhara vājaṃ nediṣṭham ūtaye
@@ -14198,7 +14198,7 @@ sanema vājaṃ tava śiprinn avasā makṣū cid yanto adrivaḥ
 śagdhy ū ṣu śacīpata indra viśvābhir ūtibhiḥ
 bhagaṃ na hi tvā yaśasaṃ vasuvidam anu śūra carāmasi
 pauro aśvasya purukṛd gavām asy utso deva hiraṇyayaḥ
-nakir hi dānam parimardhiṣat tve yad-yad yāmi tad ā bhara
+nakir hi dānam parimardhiṣat tve yad yad yāmi tad ā bhara
 tvaṃ hy ehi cerave vidā bhagaṃ vasuttaye
 ud vāvṛṣasva maghavan gaviṣṭaya ud indrāśvamiṣṭaye
 tvam purū sahasrāṇi śatāni ca yūthā dānāya maṃhase
@@ -14219,7 +14219,7 @@ indra spaḷ uta vṛtrahā paraspā no vareṇyaḥ
 sa no rakṣiṣac caramaṃ sa madhyamaṃ sa paścāt pātu naḥ puraḥ
 tvaṃ naḥ paścād adharād uttarāt pura indra ni pāhi viśvataḥ
 āre asmat kṛṇuhi daivyam bhayam āre hetīr adevīḥ
-adyādyā śvaḥ-śva indra trāsva pare ca naḥ
+adyādyā śvaḥ śva indra trāsva pare ca naḥ
 viśvā ca no jaritṝn satpate ahā divā naktaṃ ca rakṣiṣaḥ
 prabhaṅgī śūro maghavā tuvīmaghaḥ sammiślo viryāya kam
 ubhā te bāhū vṛṣaṇā śatakrato ni yā vajram mimikṣatuḥ
@@ -14403,7 +14403,7 @@ abhiṣṭaye sadāvṛdhaṃ svarmīḷheṣu yaṃ naraḥ
 nānā havanta ūtaye
 paromātram ṛcīṣamam indram ugraṃ surādhasam
 īśānaṃ cid vasūnām
-taṃ-tam id rādhase maha indraṃ codāmi pītaye
+taṃ tam id rādhase maha indraṃ codāmi pītaye
 yaḥ pūrvyām anuṣṭutim īśe kṛṣṭīnāṃ nṛtuḥ
 na yasya te śavasāna sakhyam ānaṃśa martyaḥ
 nakiḥ śavāṃsi te naśat
@@ -14417,7 +14417,7 @@ uru ṇas tanve tana uru kṣayāya nas kṛdhi
 uru ṇo yandhi jīvase
 uruṃ nṛbhya uruṃ gava uruṃ rathāya panthām
 devavītim manāmahe
-upa mā ṣaḍ dvā-dvā naraḥ somasya harṣyā
+upa mā ṣaḍ dvā dvā naraḥ somasya harṣyā
 tiṣṭhanti svādurātayaḥ
 ṛjrāv indrota ā dade harī ṛkṣasya sūnavi
 āśvamedhasya rohitā
@@ -14429,7 +14429,7 @@ aiṣu cetad vṛṣaṇvaty antar ṛjreṣv aruṣī
 svabhīśuḥ kaśāvatī
 na yuṣme vājabandhavo ninitsuś cana martyaḥ
 avadyam adhi dīdharat
-pra-pra vas triṣṭubham iṣam mandadvīrāyendave
+pra pra vas triṣṭubham iṣam mandadvīrāyendave
 dhiyā vo medhasātaye purandhyā vivāsati
 nadaṃ va odatīnāṃ nadaṃ yoyuvatīnām
 patiṃ vo aghnyānāṃ dhenūnām iṣudhyasi
@@ -14492,7 +14492,7 @@ dhānānāṃ na saṃ gṛbhāyāsmayur dviḥ saṃ gṛbhāyāsmayuḥ
 sakhāyaḥ kratum icchata kathā rādhāma śarasya
 upastutim bhojaḥ sūrir yo ahrayaḥ
 bhūribhiḥ samaha ṛṣibhir barhiṣmadbhi staviṣyase
-yad ittham ekam-ekam ic chara vatsān parādadaḥ
+yad ittham ekam ekam ic chara vatsān parādadaḥ
 karṇagṛhyā maghavā śauradevyo vatsaṃ nas tribhya ānayat
 ajāṃ sūrir na dhātave
 tvaṃ no agne mahobhiḥ pāhi viśvasyā arāteḥ
@@ -14597,7 +14597,7 @@ aśvinā su vicākaśad vṛkṣam paraśumāṃ iva
 anti ṣad bhūtu vām avaḥ
 puraṃ na dhṛṣṇav ā ruja kṛṣṇayā bādhito viśā
 anti ṣad bhūtu vām avaḥ
-viśo-viśo vo atithiṃ vājayantaḥ purupriyam
+viśo viśo vo atithiṃ vājayantaḥ purupriyam
 agniṃ vo duryaṃ vaca stuṣe śūṣasya manmabhiḥ
 yaṃ janāso haviṣmanto mitraṃ na sarpirāsutim
 praśaṃsanti praśastibhiḥ
@@ -14616,7 +14616,7 @@ tayā vardhasva suṣṭutaḥ
 sā dyumnair dyumninī bṛhad upopa śravasi śravaḥ
 dadhīta vṛtratūrye
 aśvam id gāṃ rathaprāṃ tveṣam indraṃ na satpatim
-yasya śravāṃsi tūrvatha panyam-panyaṃ ca kṛṣṭayaḥ
+yasya śravāṃsi tūrvatha panyam panyaṃ ca kṛṣṭayaḥ
 yaṃ tvā gopavano girā caniṣṭhad agne aṅgiraḥ
 sa pāvaka śrudhī havam
 yaṃ tvā janāsa īḷate sabādho vājasātaye
@@ -14915,7 +14915,7 @@ tam u tvā nūnam asura pracetasaṃ rādho bhāgam ivemahe
 mahīva kṛttiḥ śaraṇā ta indra pra te sumnā no aśnavan
 kanyā vār avāyatī somam api srutāvidat
 astam bharanty abravīd indrāya sunavai tvā śakrāya sunavai tvā
-asau ya eṣi vīrako gṛhaṃ-gṛhaṃ vicākaśad
+asau ya eṣi vīrako gṛhaṃ gṛhaṃ vicākaśad
 imaṃ jambhasutam piba dhānāvantaṃ karambhiṇam apūpavantam ukthinam
 ā cana tvā cikitsāmo 'dhi cana tvā nemasi
 śanair iva śanakair ivendrāyendo pari srava
@@ -15026,7 +15026,7 @@ ajātaśatrur astṛtaḥ
 śrutaṃ vo vṛtrahantamam pra śardhaṃ carṣaṇīnām
 ā śuṣe rādhase mahe
 ayā dhiyā ca gavyayā puruṇāman puruṣṭuta
-yat some-soma ābhavaḥ
+yat some soma ābhavaḥ
 bodhinmanā id astu no vṛtrahā bhūryāsutiḥ
 śṛṇotu śakra āśiṣam
 kayā tvaṃ na ūtyābhi pra mandase vṛṣan
@@ -15047,7 +15047,7 @@ stotṛbhya indram ā vaha
 stotṛbhya indram arcata
 ā te dadhāmīndriyam ukthā viśvā śatakrato
 stotṛbhya indra mṛḷaya
-bhadram-bhadraṃ na ā bhareṣam ūrjaṃ śatakrato
+bhadram bhadraṃ na ā bhareṣam ūrjaṃ śatakrato
 yad indra mṛḷayāsi naḥ
 sa no viśvāny ā bhara suvitāni śatakrato
 yad indra mṛḷayāsi naḥ
@@ -15190,7 +15190,7 @@ hantā dasyor manor vṛdhaḥ patir divaḥ
 adhā hīndra girvaṇa upa tvā kāmān mahaḥ sasṛjmahe
 udeva yanta udabhiḥ
 vār ṇa tvā yavyābhir vardhanti śūra brahmāṇi
-vāvṛdhvāṃsaṃ cid adrivo dive-dive
+vāvṛdhvāṃsaṃ cid adrivo dive dive
 yuñjanti harī iṣirasya gāthayorau ratha uruyuge
 indravāhā vacoyujā
 tvaṃ na indrā bharaṃ ojo nṛmṇaṃ śatakrato vicarṣaṇe
@@ -15351,7 +15351,7 @@ varivodhātamo bhava maṃhiṣṭho vṛtrahantamaḥ
 parṣi rādho maghonām
 abhy arṣa mahānāṃ devānāṃ vītim andhasā
 abhi vājam uta śravaḥ
-tvām acchā carāmasi tad id arthaṃ dive-dive
+tvām acchā carāmasi tad id arthaṃ dive dive
 indo tve na āśasaḥ
 punāti te parisrutaṃ somaṃ sūryasya duhitā
 vāreṇa śaśvatā tanā
@@ -15501,7 +15501,7 @@ nṛcakṣasaṃ tvā vayam indrapītaṃ svarvidam
 bhakṣīmahi prajām iṣam
 pari priyā divaḥ kavir vayāṃsi naptyor hitaḥ
 suvāno yāti kavikratuḥ
-pra-pra kṣayāya panyase janāya juṣṭo adruhe
+pra pra kṣayāya panyase janāya juṣṭo adruhe
 vīty arṣa caniṣṭhayā
 sa sūnur mātarā śucir jāto jāte arocayat
 mahān mahī ṛtāvṛdhā
@@ -16091,7 +16091,7 @@ ayaṃ viśvāni tiṣṭhati punāno bhuvanopari
 somo devo na sūryaḥ
 pari ṇo devavītaye vājāṃ arṣasi gomataḥ
 punāna indav indrayuḥ
-yavaṃ-yavaṃ no andhasā puṣṭam-puṣṭam pari srava
+yavaṃ yavaṃ no andhasā puṣṭam puṣṭam pari srava
 soma viśvā ca saubhagā
 indo yathā tava stavo yathā te jātam andhasaḥ
 ni barhiṣi priye sadaḥ
@@ -16177,7 +16177,7 @@ pavamāna rasas tava dakṣo vi rājati dyumān
 jyotir viśvaṃ svar dṛśe
 yas te mado vareṇyas tenā pavasvāndhasā
 devāvīr aghaśaṃsahā
-jaghnir vṛtram amitriyaṃ sasnir vājaṃ dive-dive
+jaghnir vṛtram amitriyaṃ sasnir vājaṃ dive dive
 goṣā u aśvasā asi
 sammiślo aruṣo bhava sūpasthābhir na dhenubhiḥ
 sīdañ chyeno na yonim ā
@@ -16381,7 +16381,7 @@ sīdanto vanuṣo yathā
 pavasva sūryo dṛśe
 hinvanti sūram usrayaḥ svasāro jāmayas patim
 mahām indum mahīyuvaḥ
-pavamāna rucā-rucā devo devebhyas pari
+pavamāna rucā rucā devo devebhyas pari
 viśvā vasūny ā viśa
 ā pavamāna suṣṭutiṃ vṛṣṭiṃ devebhyo duvaḥ
 iṣe pavasva saṃyatam
@@ -16517,7 +16517,7 @@ kakuhaḥ somyo rasa indur indrāya pūrvyaḥ
 āyuḥ pavata āyave
 hinvanti sūram usrayaḥ pavamānam madhuścutam
 abhi girā sam asvaran
-avitā no ajāśvaḥ pūṣā yāmani-yāmani
+avitā no ajāśvaḥ pūṣā yāmani yāmani
 ā bhakṣat kanyāsu naḥ
 ayaṃ somaḥ kapardine ghṛtaṃ na pavate madhu
 ā bhakṣat kanyāsu naḥ
@@ -16663,7 +16663,7 @@ madhor dhārābhir janayanto arkam it priyām indrasya tanvam avīvṛdhan
 pavitravantaḥ pari vācam āsate pitaiṣām pratno abhi rakṣati vratam
 mahaḥ samudraṃ varuṇas tiro dadhe dhīrā ic chekur dharuṇeṣv ārabham
 sahasradhāre 'va te sam asvaran divo nāke madhujihvā asaścataḥ
-asya spaśo na ni miṣanti bhūrṇayaḥ pade-pade pāśinaḥ santi setavaḥ
+asya spaśo na ni miṣanti bhūrṇayaḥ pade pade pāśinaḥ santi setavaḥ
 pitur mātur adhy ā ye samasvarann ṛcā śocantaḥ saṃdahanto avratān
 indradviṣṭām apa dhamanti māyayā tvacam asiknīm bhūmano divas pari
 pratnān mānād adhy ā ye samasvarañ chlokayantrāso rabhasasya mantavaḥ
@@ -16699,7 +16699,7 @@ dadhāti putraḥ pitror apīcyaṃ nāma tṛtīyam adhi rocane divaḥ
 ava dyutānaḥ kalaśāṃ acikradan nṛbhir yemānaḥ kośa ā hiraṇyaye
 abhīm ṛtasya dohanā anūṣatādhi tripṛṣṭha uṣaso vi rājati
 adribhiḥ suto matibhiś canohitaḥ prarocayan rodasī mātarā śuciḥ
-romāṇy avyā samayā vi dhāvati madhor dhārā pinvamānā dive-dive
+romāṇy avyā samayā vi dhāvati madhor dhārā pinvamānā dive dive
 pari soma pra dhanvā svastaye nṛbhiḥ punāno abhi vāsayāśiram
 ye te madā āhanaso vihāyasas tebhir indraṃ codaya dātave magham
 dhartā divaḥ pavate kṛtvyo raso dakṣo devānām anumādyo nṛbhiḥ
@@ -16717,7 +16717,7 @@ abhīm ṛtasya sudughā ghṛtaścuto vāśrā arṣanti payaseva dhenavaḥ
 sa pūrvyaḥ pavate yaṃ divas pari śyeno mathāyad iṣitas tiro rajaḥ
 sa madhva ā yuvate vevijāna it kṛśānor astur manasāha bibhyuṣā
 te naḥ pūrvāsa uparāsa indavo mahe vājāya dhanvantu gomate
-īkṣeṇyāso ahyo na cāravo brahma-brahma ye jujuṣur havir-haviḥ
+īkṣeṇyāso ahyo na cāravo brahma brahma ye jujuṣur havir haviḥ
 ayaṃ no vidvān vanavad vanuṣyata induḥ satrācā manasā puruṣṭutaḥ
 inasya yaḥ sadane garbham ādadhe gavām urubjam abhy arṣati vrajam
 cakrir divaḥ pavate kṛtvyo raso mahāṃ adabdho varuṇo hurug yate
@@ -16741,7 +16741,7 @@ dhanvan na tṛṣṇā sam arīta tāṃ abhi soma jahi pavamāna durādhyaḥ
 divi te nābhā paramo ya ādade pṛthivyās te ruruhuḥ sānavi kṣipaḥ
 adrayas tvā bapsati gor adhi tvacy apsu tvā hastair duduhur manīṣiṇaḥ
 evā ta indo subhvaṃ supeśasaṃ rasaṃ tuñjanti prathamā abhiśriyaḥ
-nidaṃ-nidam pavamāna ni tāriṣa āvis te śuṣmo bhavatu priyo madaḥ
+nidaṃ nidam pavamāna ni tāriṣa āvis te śuṣmo bhavatu priyo madaḥ
 somasya dhārā pavate nṛcakṣasa ṛtena devān havate divas pari
 bṛhaspate ravathenā vi didyute samudrāso na savanāni vivyacuḥ
 yaṃ tvā vājinn aghnyā abhy anūṣatāyohataṃ yonim ā rohasi dyumān
@@ -16807,7 +16807,7 @@ svādur mitrāya varuṇāya vāyave bṛhaspataye madhumāṃ adābhyaḥ
 atyam mṛjanti kalaśe daśa kṣipaḥ pra viprāṇām matayo vāca īrate
 pavamānā abhy arṣanti suṣṭutim endraṃ viśanti madirāsa indavaḥ
 pavamāno abhy arṣā suvīryam urvīṃ gavyūtim mahi śarma saprathaḥ
-mākir no asya pariṣūtir īśatendo jayema tvayā dhanaṃ-dhanam
+mākir no asya pariṣūtir īśatendo jayema tvayā dhanaṃ dhanam
 adhi dyām asthād vṛṣabho vicakṣaṇo 'rūrucad vi divo rocanā kaviḥ
 rājā pavitram aty eti roruvad divaḥ pīyūṣaṃ duhate nṛcakṣasaḥ
 divo nāke madhujihvā asaścato venā duhanty ukṣaṇaṃ giriṣṭhām
@@ -17259,7 +17259,7 @@ pavitravanto akṣaran devān gacchantu vo madāḥ
 indur indrāya pavata iti devāso abruvan
 vācas patir makhasyate viśvasyeśāna ojasā
 sahasradhāraḥ pavate samudro vācamīṅkhayaḥ
-somaḥ patī rayīṇāṃ sakhendrasya dive-dive
+somaḥ patī rayīṇāṃ sakhendrasya dive dive
 ayam pūṣā rayir bhagaḥ somaḥ punāno arṣati
 patir viśvasya bhūmano vy akhyad rodasī ubhe
 sam u priyā anūṣata gāvo madāya ghṛṣvayaḥ
@@ -17394,7 +17394,7 @@ indrāya pavate madaḥ somo marutvate sutaḥ
 sahasradhāro aty avyam arṣati tam ī mṛjanty āyavaḥ
 punānaś camū janayan matiṃ kaviḥ somo deveṣu raṇyati
 apo vasānaḥ pari gobhir uttaraḥ sīdan vaneṣv avyata
-tavāhaṃ soma rāraṇa sakhya indo dive-dive
+tavāhaṃ soma rāraṇa sakhya indo dive dive
 purūṇi babhro ni caranti mām ava paridhīṃr ati tāṃ ihi
 utāhaṃ naktam uta soma te divā sakhyāya babhra ūdhani
 ghṛṇā tapantam ati sūryam paraḥ śakunā iva paptima
@@ -17472,7 +17472,7 @@ ajījano hi pavamāna sūryaṃ vidhāre śakmanā payaḥ
 gojīrayā raṃhamāṇaḥ purandhyā
 ajījano amṛta martyeṣv āṃ ṛtasya dharmann amṛtasya cāruṇaḥ
 sadāsaro vājam acchā saniṣyadat
-abhy-abhi hi śravasā tatardithotsaṃ na kaṃ cij janapānam akṣitam
+abhy abhi hi śravasā tatardithotsaṃ na kaṃ cij janapānam akṣitam
 śaryābhir na bharamāṇo gabhastyoḥ
 ād īṃ ke cit paśyamānāsa āpyaṃ vasuruco divyā abhy anūṣata
 vāraṃ na devaḥ savitā vy ūrṇute
@@ -17543,8 +17543,8 @@ viṣṇur itthā paramam asya vidvāñ jāto bṛhann abhi pāti tṛtīyam
 āsā yad asya payo akrata svaṃ sacetaso abhy arcanty atra
 ata u tvā pitubhṛto janitrīr annāvṛdham prati caranty annaiḥ
 tā īm praty eṣi punar anyarūpā asi tvaṃ vikṣu mānuṣīṣu hotā
-hotāraṃ citraratham adhvarasya yajñasya-yajñasya ketuṃ ruśantam
-pratyardhiṃ devasya-devasya mahnā śriyā tv agnim atithiṃ janānām
+hotāraṃ citraratham adhvarasya yajñasya yajñasya ketuṃ ruśantam
+pratyardhiṃ devasya devasya mahnā śriyā tv agnim atithiṃ janānām
 sa tu vastrāṇy adha peśanāni vasāno agnir nābhā pṛthivyāḥ
 aruṣo jātaḥ pada iḷāyāḥ purohito rājan yakṣīha devān
 ā hi dyāvāpṛthivī agna ubhe sadā putro na mātarā tatantha
@@ -17639,7 +17639,7 @@ mumoda garbho vṛṣabhaḥ kakudmān asremā vatsaḥ śimīvāṃ arāvīt
 sa devatāty udyatāni kṛṇvan sveṣu kṣayeṣu prathamo jigāti
 ā yo mūrdhānam pitror arabdha ny adhvare dadhire sūro arṇaḥ
 asya patmann aruṣīr aśvabudhnā ṛtasya yonau tanvo juṣanta
-uṣa-uṣo hi vaso agram eṣi tvaṃ yamayor abhavo vibhāvā
+uṣa uṣo hi vaso agram eṣi tvaṃ yamayor abhavo vibhāvā
 ṛtāya sapta dadhiṣe padāni janayan mitraṃ tanve svāyai
 bhuvaś cakṣur maha ṛtasya gopā bhuvo varuṇo yad ṛtāya veṣi
 bhuvo apāṃ napāj jātavedo bhuvo dūto yasya havyaṃ jujoṣaḥ
@@ -17795,7 +17795,7 @@ ye tātṛṣur devatrā jehamānā hotrāvida stomataṣṭāso arkaiḥ
 āgne yāhi suvidatrebhir arvāṅ satyaiḥ kavyaiḥ pitṛbhir gharmasadbhiḥ
 ye satyāso havirado haviṣpā indreṇa devaiḥ sarathaṃ dadhānāḥ
 āgne yāhi sahasraṃ devavandaiḥ paraiḥ pūrvaiḥ pitṛbhir gharmasadbhiḥ
-agniṣvāttāḥ pitara eha gacchata sadaḥ-sadaḥ sadata supraṇītayaḥ
+agniṣvāttāḥ pitara eha gacchata sadaḥ sadaḥ sadata supraṇītayaḥ
 attā havīṃṣi prayatāni barhiṣy athā rayiṃ sarvavīraṃ dadhātana
 tvam agna īḷito jātavedo 'vāḍ ḍhavyāni surabhīṇi kṛtvī
 prādāḥ pitṛbhyaḥ svadhayā te akṣann addhi tvaṃ deva prayatā havīṃṣi
@@ -17961,12 +17961,12 @@ guhā yadī kavīnāṃ viśāṃ nakṣatraśavasām
 makṣū tā ta indra dānāpnasa ākṣāṇe śūra vajrivaḥ
 yad dha śuṣṇasya dambhayo jātaṃ viśvaṃ sayāvabhiḥ
 mākudhryag indra śūra vasvīr asme bhūvann abhiṣṭayaḥ
-vayaṃ-vayaṃ ta āsāṃ sumne syāma vajrivaḥ
+vayaṃ vayaṃ ta āsāṃ sumne syāma vajrivaḥ
 asme tā ta indra santu satyāhiṃsantīr upaspṛśaḥ
 vidyāma yāsām bhujo dhenūnāṃ na vajrivaḥ
 ahastā yad apadī vardhata kṣāḥ śacībhir vedyānām
 śuṣṇam pari pradakṣiṇid viśvāyave ni śiśnathaḥ
-pibā-pibed indra śūra somam mā riṣaṇyo vasavāna vasuḥ san
+pibā pibed indra śūra somam mā riṣaṇyo vasavāna vasuḥ san
 uta trāyasva gṛṇato maghono mahaś ca rāyo revatas kṛdhī naḥ
 yajāmaha indraṃ vajradakṣiṇaṃ harīṇāṃ rathyaṃ vivratānām
 pra śmaśru dodhuvad ūrdhvathā bhūd vi senābhir dayamāno vi rādhasā
@@ -17977,7 +17977,7 @@ yadā vajraṃ hiraṇyam id athā rathaṃ harī yam asya vahato vi sūribhiḥ
 so cin nu vṛṣṭir yūthyā svā sacāṃ indraḥ śmaśrūṇi haritābhi pruṣṇute
 ava veti sukṣayaṃ sute madhūd id dhūnoti vāto yathā vanam
 yo vācā vivāco mṛdhravācaḥ purū sahasrāśivā jaghāna
-tat-tad id asya pauṃsyaṃ gṛṇīmasi piteva yas taviṣīṃ vāvṛdhe śavaḥ
+tat tad id asya pauṃsyaṃ gṛṇīmasi piteva yas taviṣīṃ vāvṛdhe śavaḥ
 stomaṃ ta indra vimadā ajījanann apūrvyam purutamaṃ sudānave
 vidmā hy asya bhojanam inasya yad ā paśuṃ na gopāḥ karāmahe
 mākir na enā sakhyā vi yauṣus tava cendra vimadasya ca ṛṣeḥ
@@ -18076,7 +18076,7 @@ etau me gāvau pramarasya yuktau mo ṣu pra sedhīr muhur in mamandhi
 āpaś cid asya vi naśanty arthaṃ sūraś ca marka uparo babhūvān
 ayaṃ yo vajraḥ purudhā vivṛtto 'vaḥ sūryasya bṛhataḥ purīṣāt
 śrava id enā paro anyad asti tad avyathī jarimāṇas taranti
-vṛkṣe-vṛkṣe niyatā mīmayad gaus tato vayaḥ pra patān pūruṣādaḥ
+vṛkṣe vṛkṣe niyatā mīmayad gaus tato vayaḥ pra patān pūruṣādaḥ
 athedaṃ viśvam bhuvanam bhayāta indrāya sunvad ṛṣaye ca śikṣat
 devānām māne prathamā atiṣṭhan kṛntatrād eṣām uparā ud āyan
 trayas tapanti pṛthivīm anūpā dvā bṛbūkaṃ vahataḥ purīṣam
@@ -18094,7 +18094,7 @@ kathā ta etad aham ā ciketaṃ gṛtsasya pākas tavaso manīṣām
 tvaṃ no vidvāṃ ṛtuthā vi voco yam ardhaṃ te maghavan kṣemyā dhūḥ
 evā hi māṃ tavasaṃ vardhayanti divaś cin me bṛhata uttarā dhūḥ
 purū sahasrā ni śiśāmi sākam aśatruṃ hi mā janitā jajāna
-evā hi māṃ tavasaṃ jajñur ugraṃ karman-karman vṛṣaṇam indra devāḥ
+evā hi māṃ tavasaṃ jajñur ugraṃ karman karman vṛṣaṇam indra devāḥ
 vadhīṃ vṛtraṃ vajreṇa mandasāno 'pa vrajam mahinā dāśuṣe vam
 devāsa āyan paraśūṃr abibhran vanā vṛścanto abhi viḍbhir āyan
 ni sudrvaṃ dadhato vakṣaṇāsu yatrā kṛpīṭam anu tad dahanti
@@ -18307,11 +18307,11 @@ yad adya tvā sūryopabravāmahai taṃ no devā anu maṃsīrata kratum
 taṃ no dyāvāpṛthivī tan na āpa indraḥ śṛṇvantu maruto havaṃ vacaḥ
 mā śūne bhūma sūryasya saṃdṛśi bhadraṃ jīvanto jaraṇām aśīmahi
 viśvāhā tvā sumanasaḥ sucakṣasaḥ prajāvanto anamīvā anāgasaḥ
-udyantaṃ tvā mitramaho dive-dive jyog jīvāḥ prati paśyema sūrya
-mahi jyotir bibhrataṃ tvā vicakṣaṇa bhāsvantaṃ cakṣuṣe-cakṣuṣe mayaḥ
+udyantaṃ tvā mitramaho dive dive jyog jīvāḥ prati paśyema sūrya
+mahi jyotir bibhrataṃ tvā vicakṣaṇa bhāsvantaṃ cakṣuṣe cakṣuṣe mayaḥ
 ārohantam bṛhataḥ pājasas pari vayaṃ jīvāḥ prati paśyema sūrya
 yasya te viśvā bhuvanāni ketunā pra cerate ni ca viśante aktubhiḥ
-anāgāstvena harikeśa sūryāhnāhnā no vasyasā-vasyasod ihi
+anāgāstvena harikeśa sūryāhnāhnā no vasyasā vasyasod ihi
 śaṃ no bhava cakṣasā śaṃ no ahnā śam bhānunā śaṃ himā śaṃ ghṛṇena
 yathā śam adhvañ cham asad duroṇe tat sūrya draviṇaṃ dhehi citram
 asmākaṃ devā ubhayāya janmane śarma yacchata dvipade catuṣpade
@@ -18357,10 +18357,10 @@ vṛkasya cid vartikām antar āsyād yuvaṃ śacībhir grasitām amuñcatam
 etaṃ vāṃ stomam aśvināv akarmātakṣāma bhṛgavo na ratham
 ny amṛkṣāma yoṣaṇāṃ na marye nityaṃ na sūnuṃ tanayaṃ dadhānāḥ
 rathaṃ yāntaṃ kuha ko ha vāṃ narā prati dyumantaṃ suvitāya bhūṣati
-prātaryāvāṇaṃ vibhvaṃ viśe-viśe vastor-vastor vahamānaṃ dhiyā śami
+prātaryāvāṇaṃ vibhvaṃ viśe viśe vastor vastor vahamānaṃ dhiyā śami
 kuha svid doṣā kuha vastor aśvinā kuhābhipitvaṃ karataḥ kuhoṣatuḥ
 ko vāṃ śayutrā vidhaveva devaram maryaṃ na yoṣā kṛṇute sadhastha ā
-prātar jarethe jaraṇeva kāpayā vastor-vastor yajatā gacchatho gṛham
+prātar jarethe jaraṇeva kāpayā vastor vastor yajatā gacchatho gṛham
 kasya dhvasrā bhavathaḥ kasya vā narā rājaputreva savanāva gacchathaḥ
 yuvām mṛgeva vāraṇā mṛgaṇyavo doṣā vastor haviṣā ni hvayāmahe
 yuvaṃ hotrām ṛtuthā juhvate nareṣaṃ janāya vahathaḥ śubhas patī
@@ -18422,7 +18422,7 @@ vayo na vṛkṣaṃ supalāśam āsadan somāsa indram mandinaś camūṣadaḥ
 praiṣām anīkaṃ śavasā davidyutad vidat svar manave jyotir āryam
 kṛtaṃ na śvaghnī vi cinoti devane saṃvargaṃ yan maghavā sūryaṃ jayat
 na tat te anyo anu vīryaṃ śakan na purāṇo maghavan nota nūtanaḥ
-viśaṃ-viśam maghavā pary aśāyata janānāṃ dhenā avacākaśad vṛṣā
+viśaṃ viśam maghavā pary aśāyata janānāṃ dhenā avacākaśad vṛṣā
 yasyāha śakraḥ savaneṣu raṇyati sa tīvraiḥ somaiḥ sahate pṛtanyataḥ
 āpo na sindhum abhi yat samakṣaran somāsa indraṃ kulyā iva hradam
 vardhanti viprā maho asya sādane yavaṃ na vṛṣṭir divyena dānunā
@@ -18474,7 +18474,7 @@ dṛśāno rukma urviyā vy adyaud durmarṣam āyuḥ śriye rucānaḥ
 agnir amṛto abhavad vayobhir yad enaṃ dyaur janayat suretāḥ
 yas te adya kṛṇavad bhadraśoce 'pūpaṃ deva ghṛtavantam agne
 pra taṃ naya prataraṃ vasyo acchābhi sumnaṃ devabhaktaṃ yaviṣṭha
-ā tam bhaja sauśravaseṣv agna uktha-uktha ā bhaja śasyamāne
+ā tam bhaja sauśravaseṣv agna uktha uktha ā bhaja śasyamāne
 priyaḥ sūrye priyo agnā bhavāty uj jātena bhinadad uj janitvaiḥ
 tvām agne yajamānā anu dyūn viśvā vasu dadhire vāryāṇi
 tvayā saha draviṇam icchamānā vrajaṃ gomantam uśijo vi vavruḥ
@@ -18526,7 +18526,7 @@ aham etaṃ gavyayam aśvyam paśum purīṣiṇaṃ sāyakenā hiraṇyayam
 purū sahasrā ni śiśāmi dāśuṣe yan mā somāsa ukthino amandiṣuḥ
 aham indro na parā jigya id dhanaṃ na mṛtyave 'va tasthe kadā cana
 somam in mā sunvanto yācatā vasu na me pūravaḥ sakhye riṣāthana
-aham etāñ chāśvasato dvā-dvendraṃ ye vajraṃ yudhaye 'kṛṇvata
+aham etāñ chāśvasato dvā dvendraṃ ye vajraṃ yudhaye 'kṛṇvata
 āhvayamānāṃ ava hanmanāhanaṃ dṛḷhā vadann anamasyur namasvinaḥ
 abhīdam ekam eko asmi niṣṣāḷ abhī dvā kim u trayaḥ karanti
 khale na parṣān prati hanmi bhūri kim mā nindanti śatravo 'nindrāḥ
@@ -18595,9 +18595,9 @@ tavāgne yajño 'yam astu sarvas tubhyaṃ namantām pradiśaś catasraḥ
 viśve devāḥ śāstana mā yatheha hotā vṛto manavai yan niṣadya
 pra me brūta bhāgadheyaṃ yathā vo yena pathā havyam ā vo vahāni
 ahaṃ hotā ny asīdaṃ yajīyān viśve devā maruto mā junanti
-ahar-ahar aśvinādhvaryavaṃ vām brahmā samid bhavati sāhutir vām
+ahar ahar aśvinādhvaryavaṃ vām brahmā samid bhavati sāhutir vām
 ayaṃ yo hotā kir u sa yamasya kam apy ūhe yat samañjanti devāḥ
-ahar-ahar jāyate māsi-māsy athā devā dadhire havyavāham
+ahar ahar jāyate māsi māsy athā devā dadhire havyavāham
 māṃ devā dadhire havyavāham apamluktam bahu kṛcchrā carantam
 agnir vidvān yajñaṃ naḥ kalpayāti pañcayāmaṃ trivṛtaṃ saptatantum
 ā vo yakṣy amṛtatvaṃ suvīraṃ yathā vo devā varivaḥ karāṇi
@@ -18642,7 +18642,7 @@ dūre tan nāma guhyam parācair yat tvā bhīte ahvayetāṃ vayodhai
 ud astabhnāḥ pṛthivīṃ dyām abhīke bhrātuḥ putrān maghavan titviṣāṇaḥ
 mahat tan nāma guhyam puruspṛg yena bhūtaṃ janayo yena bhavyam
 pratnaṃ jātaṃ jyotir yad asya priyam priyāḥ sam aviśanta pañca
-ā rodasī apṛṇād ota madhyam pañca devāṃ ṛtuśaḥ sapta-sapta
+ā rodasī apṛṇād ota madhyam pañca devāṃ ṛtuśaḥ sapta sapta
 catustriṃśatā purudhā vi caṣṭe sarūpeṇa jyotiṣā vivratena
 yad uṣa aucchaḥ prathamā vibhānām ajanayo yena puṣṭasya puṣṭam
 yat te jāmitvam avaram parasyā mahan mahatyā asuratvam ekam
@@ -18969,7 +18969,7 @@ brahmaṇas patir vṛṣabhir varāhair gharmasvedebhir draviṇaṃ vy ānaṭ
 te satyena manasā gopatiṃ gā iyānāsa iṣaṇayanta dhībhiḥ
 bṛhaspatir mithoavadyapebhir ud usriyā asṛjata svayugbhiḥ
 taṃ vardhayanto matibhiḥ śivābhiḥ siṃham iva nānadataṃ sadhasthe
-bṛhaspatiṃ vṛṣaṇaṃ śūrasātau bhare-bhare anu madema jiṣṇum
+bṛhaspatiṃ vṛṣaṇaṃ śūrasātau bhare bhare anu madema jiṣṇum
 yadā vājam asanad viśvarūpam ā dyām arukṣad uttarāṇi sadma
 bṛhaspatiṃ vṛṣaṇaṃ vardhayanto nānā santo bibhrato jyotir āsā
 satyām āśiṣaṃ kṛṇutā vayodhai kīriṃ cid dhy avatha svebhir evaiḥ
@@ -19121,7 +19121,7 @@ sakṛtsvaṃ ye puruputrām mahīṃ sahasradhārām bṛhatīṃ dudukṣan
 yad vāvāna purutamam purāṣāḷ ā vṛtrahendro nāmāny aprāḥ
 aceti prāsahas patis tuviṣmān yad īm uśmasi kartave karat tat
 pra su va āpo mahimānam uttamaṃ kārur vocāti sadane vivasvataḥ
-pra sapta-sapta tredhā hi cakramuḥ pra sṛtvarīṇām ati sindhur ojasā
+pra sapta sapta tredhā hi cakramuḥ pra sṛtvarīṇām ati sindhur ojasā
 pra te 'radad varuṇo yātave pathaḥ sindho yad vājāṃ abhy adravas tvam
 bhūmyā adhi pravatā yāsi sānunā yad eṣām agraṃ jagatām irajyasi
 divi svano yatate bhūmyopary anantaṃ śuṣmam ud iyarti bhānunā
@@ -19139,7 +19139,7 @@ svaśvā sindhuḥ surathā suvāsā hiraṇyayī sukṛtā vājinīvatī
 sukhaṃ rathaṃ yuyuje sindhur aśvinaṃ tena vājaṃ saniṣad asminn ājau
 mahān hy asya mahimā panasyate 'dabdhasya svayaśaso virapśinaḥ
 ā va ṛñjasa ūrjāṃ vyuṣṭiṣv indram maruto rodasī anaktana
-ubhe yathā no ahanī sacābhuvā sadaḥ-sado varivasyāta udbhidā
+ubhe yathā no ahanī sacābhuvā sadaḥ sado varivasyāta udbhidā
 tad u śreṣṭhaṃ savanaṃ sunotanātyo na hastayato adriḥ sotari
 vidad dhy aryo abhibhūti pauṃsyam maho rāye cit tarute yad arvataḥ
 tad id dhy asya savanaṃ viver apo yathā purā manave gātum aśret
@@ -19153,7 +19153,7 @@ naro yatra duhate kāmyam madhv āghoṣayanto abhito mithasturaḥ
 sunvanti somaṃ rathirāso adrayo nir asya rasaṃ gaviṣo duhanti te
 duhanty ūdhar upasecanāya kaṃ naro havyā na marjayanta āsabhiḥ
 ete naraḥ svapaso abhūtana ya indrāya sunutha somam adrayaḥ
-vāmaṃ-vāmaṃ vo divyāya dhāmne vasu-vasu vaḥ pārthivāya sunvate
+vāmaṃ vāmaṃ vo divyāya dhāmne vasu vasu vaḥ pārthivāya sunvate
 abhrapruṣo na vācā pruṣā vasu haviṣmanto na yajñā vijānuṣaḥ
 sumārutaṃ na brahmāṇam arhase gaṇam astoṣy eṣāṃ na śobhase
 śriye maryāso añjīṃr akṛṇvata sumārutaṃ na pūrvīr ati kṣapaḥ
@@ -19262,7 +19262,7 @@ agnir iva manyo tviṣitaḥ sahasva senānīr naḥ sahure hūta edhi
 hatvāya śatrūn vi bhajasva veda ojo mimāno vi mṛdho nudasva
 sahasva manyo abhimātim asme rujan mṛṇan pramṛṇan prehi śatrūn
 ugraṃ te pājo nanv ā rurudhre vaśī vaśaṃ nayasa ekaja tvam
-eko bahūnām asi manyav īḷito viśaṃ-viśaṃ yudhaye saṃ śiśādhi
+eko bahūnām asi manyav īḷito viśaṃ viśaṃ yudhaye saṃ śiśādhi
 akṛttaruk tvayā yujā vayaṃ dyumantaṃ ghoṣaṃ vijayāya kṛṇmahe
 vijeṣakṛd indra ivānavabravo 'smākam manyo adhipā bhaveha
 priyaṃ te nāma sahure gṛṇīmasi vidmā tam utsaṃ yata ābabhūtha
@@ -19306,7 +19306,7 @@ sūryāyai devebhyo mitrāya varuṇāya ca
 ye bhūtasya pracetasa idaṃ tebhyo 'karaṃ namaḥ
 pūrvāparaṃ carato māyayaitau śiśū krīḷantau pari yāto adhvaram
 viśvāny anyo bhuvanābhicaṣṭa ṛtūṃr anyo vidadhaj jāyate punaḥ
-navo-navo bhavati jāyamāno 'hnāṃ ketur uṣasām ety agram
+navo navo bhavati jāyamāno 'hnāṃ ketur uṣasām ety agram
 bhāgaṃ devebhyo vi dadhāty āyan pra candramās tirate dīrgham āyuḥ
 sukiṃśukaṃ śalmaliṃ viśvarūpaṃ hiraṇyavarṇaṃ suvṛtaṃ sucakram
 ā roha sūrye amṛtasya lokaṃ syonam patye vahatuṃ kṛṇuṣva
@@ -19453,7 +19453,7 @@ prati te te ajarāsas tapiṣṭhā aghaśaṃsaṃ śośucato dahantu
 paścāt purastād adharād udaktāt kaviḥ kāvyena pari pāhi rājan
 sakhe sakhāyam ajaro jarimṇe 'gne martāṃ amartyas tvaṃ naḥ
 pari tvāgne puraṃ vayaṃ vipraṃ sahasya dhīmahi
-dhṛṣadvarṇaṃ dive-dive hantāram bhaṅgurāvatām
+dhṛṣadvarṇaṃ dive dive hantāram bhaṅgurāvatām
 viṣeṇa bhaṅgurāvataḥ prati ṣma rakṣaso daha
 agne tigmena śociṣā tapuragrābhir ṛṣṭibhiḥ
 praty agne mithunā daha yātudhānā kimīdinā
@@ -19568,8 +19568,8 @@ yajñena yajñam ayajanta devās tāni dharmāṇi prathamāny āsan
 te ha nākam mahimānaḥ sacanta yatra pūrve sādhyāḥ santi devāḥ
 saṃ jāgṛvadbhir jaramāṇa idhyate dame damūnā iṣayann iḷas pade
 viśvasya hotā haviṣo vareṇyo vibhur vibhāvā suṣakhā sakhīyate
-sa darśataśrīr atithir gṛhe-gṛhe vane-vane śiśriye takvavīr iva
-janaṃ-janaṃ janyo nāti manyate viśa ā kṣeti viśyo viśaṃ-viśam
+sa darśataśrīr atithir gṛhe gṛhe vane vane śiśriye takvavīr iva
+janaṃ janaṃ janyo nāti manyate viśa ā kṣeti viśyo viśaṃ viśam
 sudakṣo dakṣaiḥ kratunāsi sukratur agne kaviḥ kāvyenāsi viśvavit
 vasur vasūnāṃ kṣayasi tvam eka id dyāvā ca yāni pṛthivī ca puṣyataḥ
 prajānann agne tava yonim ṛtviyam iḷāyās pade ghṛtavantam āsadaḥ
@@ -19611,7 +19611,7 @@ tebhiś caṣṭe varuṇo mitro aryamendro devebhir arvaśebhir arvaśaḥ
 indre bhujaṃ śaśamānāsa āśata sūro dṛśīke vṛṣaṇaś ca pauṃsye
 pra ye nv asyārhaṇā tatakṣire yujaṃ vajraṃ nṛṣadaneṣu kāravaḥ
 sūraś cid ā harito asya rīramad indrād ā kaś cid bhayate tavīyasaḥ
-bhīmasya vṛṣṇo jaṭharād abhiśvaso dive-dive sahuri stann abādhitaḥ
+bhīmasya vṛṣṇo jaṭharād abhiśvaso dive dive sahuri stann abādhitaḥ
 stomaṃ vo adya rudrāya śikvase kṣayadvīrāya namasā didiṣṭana
 yebhiḥ śivaḥ svavāṃ evayāvabhir divaḥ siṣakti svayaśā nikāmabhiḥ
 te hi prajāyā abharanta vi śravo bṛhaspatir vṛṣabhaḥ somajāmayaḥ
@@ -19628,7 +19628,7 @@ rebhad atra januṣā pūrvo aṅgirā grāvāṇa ūrdhvā abhi cakṣur adhvar
 yebhir vihāyā abhavad vicakṣaṇaḥ pāthaḥ sumekaṃ svadhitir vananvati
 mahi dyāvāpṛthivī bhūtam urvī nārī yahvī na rodasī sadaṃ naḥ
 tebhir naḥ pātaṃ sahyasa ebhir naḥ pātaṃ śūṣaṇi
-yajñe-yajñe sa martyo devān saparyati
+yajñe yajñe sa martyo devān saparyati
 yaḥ sumnair dīrghaśruttama āvivāsaty enān
 viśveṣām irajyavo devānāṃ vār mahaḥ
 viśve hi viśvamahaso viśve yajñeṣu yajñiyāḥ
@@ -19678,7 +19678,7 @@ vṛṣā vo aṃśur na kilā riṣāthaneḷāvantaḥ sadam it sthanāśitā�
 raivatyeva mahasā cārava sthana yasya grāvāṇo ajuṣadhvam adhvaram
 tṛdilā atṛdilāso adrayo 'śramaṇā aśṛthitā amṛtyavaḥ
 anāturā ajarā sthāmaviṣṇavaḥ supīvaso atṛṣitā atṛṣṇajaḥ
-dhruvā eva vaḥ pitaro yuge-yuge kṣemakāmāsaḥ sadaso na yuñjate
+dhruvā eva vaḥ pitaro yuge yuge kṣemakāmāsaḥ sadaso na yuñjate
 ajuryāso hariṣāco haridrava ā dyāṃ raveṇa pṛthivīm aśuśravuḥ
 tad id vadanty adrayo vimocane yāmann añjaspā iva ghed upabdibhiḥ
 vapanto bījam iva dhānyākṛtaḥ pṛñcanti somaṃ na minanti bapsataḥ
@@ -19728,7 +19728,7 @@ so asya vajro harito ya āyaso harir nikāmo harir ā gabhastyoḥ
 dyumnī suśipro harimanyusāyaka indre ni rūpā haritā mimikṣire
 divi na ketur adhi dhāyi haryato vivyacad vajro harito na raṃhyā
 tudad ahiṃ hariśipro ya āyasaḥ sahasraśokā abhavad dharimbharaḥ
-tvaṃ-tvam aharyathā upastutaḥ pūrvebhir indra harikeśa yajvabhiḥ
+tvaṃ tvam aharyathā upastutaḥ pūrvebhir indra harikeśa yajvabhiḥ
 tvaṃ haryasi tava viśvam ukthyam asāmi rādho harijāta haryatam
 tā vajriṇam mandinaṃ stomyam mada indraṃ rathe vahato haryatā harī
 purūṇy asmai savanāni haryata indrāya somā harayo dadhanvire
@@ -19740,7 +19740,7 @@ sruveva yasya hariṇī vipetatuḥ śipre vājāya hariṇī davidhvataḥ
 pra yat kṛte camase marmṛjad dharī pītvā madasya haryatasyāndhasaḥ
 uta sma sadma haryatasya pastyor atyo na vājaṃ harivāṃ acikradat
 mahī cid dhi dhiṣaṇāharyad ojasā bṛhad vayo dadhiṣe haryataś cid ā
-ā rodasī haryamāṇo mahitvā navyaṃ-navyaṃ haryasi manma nu priyam
+ā rodasī haryamāṇo mahitvā navyaṃ navyaṃ haryasi manma nu priyam
 pra pastyam asura haryataṃ gor āviṣ kṛdhi haraye sūryāya
 ā tvā haryantam prayujo janānāṃ rathe vahantu hariśipram indra
 pibā yathā pratibhṛtasya madhvo haryan yajñaṃ sadhamāde daśoṇim
@@ -19768,7 +19768,7 @@ ati viśvāḥ pariṣṭhā stena iva vrajam akramuḥ
 oṣadhīḥ prācucyavur yat kiṃ ca tanvo rapaḥ
 yad imā vājayann aham oṣadhīr hasta ādadhe
 ātmā yakṣmasya naśyati purā jīvagṛbho yathā
-yasyauṣadhīḥ prasarpathāṅgam-aṅgam paruṣ-paruḥ
+yasyauṣadhīḥ prasarpathāṅgam aṅgam paruṣ paruḥ
 tato yakṣmaṃ vi bādhadhva ugro madhyamaśīr iva
 sākaṃ yakṣma pra pata cāṣeṇa kikidīvinā
 sākaṃ vātasya dhrājyā sākaṃ naśya nihākayā
@@ -19847,7 +19847,7 @@ gaurasya yaḥ payasaḥ pītim ānaśa ā sarvatātim aditiṃ vṛṇīmahe
 ā no devaḥ savitā sāviṣad vaya ṛjūyate yajamānāya sunvate
 yathā devān pratibhūṣema pākavad ā sarvatātim aditiṃ vṛṇīmahe
 indro asme sumanā astu viśvahā rājā somaḥ suvitasyādhy etu naḥ
-yathā-yathā mitradhitāni saṃdadhur ā sarvatātim aditiṃ vṛṇīmahe
+yathā yathā mitradhitāni saṃdadhur ā sarvatātim aditiṃ vṛṇīmahe
 indra ukthena śavasā parur dadhe bṛhaspate pratarītāsy āyuṣaḥ
 yajño manuḥ pramatir naḥ pitā hi kam ā sarvatātim aditiṃ vṛṇīmahe
 indrasya nu sukṛtaṃ daivyaṃ saho 'gnir gṛhe jaritā medhiraḥ kaviḥ
@@ -20084,7 +20084,7 @@ upāvasṛja tmanyā samañjan devānām pātha ṛtuthā havīṃṣi
 vanaspatiḥ śamitā devo agniḥ svadantu havyam madhunā ghṛtena
 sadyo jāto vy amimīta yajñam agnir devānām abhavat purogāḥ
 asya hotuḥ pradiśy ṛtasya vāci svāhākṛtaṃ havir adantu devāḥ
-manīṣiṇaḥ pra bharadhvam manīṣāṃ yathā-yathā matayaḥ santi nṛṇām
+manīṣiṇaḥ pra bharadhvam manīṣāṃ yathā yathā matayaḥ santi nṛṇām
 indraṃ satyair erayāmā kṛtebhiḥ sa hi vīro girvaṇasyur vidānaḥ
 ṛtasya hi sadaso dhītir adyaut saṃ gārṣṭeyo vṛṣabho gobhir ānaṭ
 ud atiṣṭhat taviṣeṇā raveṇa mahānti cit saṃ vivyācā rajāṃsi
@@ -20209,7 +20209,7 @@ aram asmai bhavati yāmahūtā utāparīṣu kṛṇute sakhāyam
 na sa sakhā yo na dadāti sakhye sacābhuve sacamānāya pitvaḥ
 apāsmāt preyān na tad oko asti pṛṇantam anyam araṇaṃ cid icchet
 pṛṇīyād in nādhamānāya tavyān drāghīyāṃsam anu paśyeta panthām
-o hi vartante rathyeva cakrānyam-anyam upa tiṣṭhanta rāyaḥ
+o hi vartante rathyeva cakrānyam anyam upa tiṣṭhanta rāyaḥ
 mogham annaṃ vindate apracetāḥ satyam bravīmi vadha it sa tasya
 nāryamaṇam puṣyati no sakhāyaṃ kevalāgho bhavati kevalādī
 kṛṣann it phāla āśitaṃ kṛṇoti yann adhvānam apa vṛṅkte caritraiḥ
@@ -20268,7 +20268,7 @@ vāvṛdhānaḥ śavasā bhūryojāḥ śatrur dāsāya bhiyasaṃ dadhāti
 avyanac ca vyanac ca sasni saṃ te navanta prabhṛtā madeṣu
 tve kratum api vṛñjanti viśve dvir yad ete trir bhavanty ūmāḥ
 svādoḥ svādīyaḥ svādunā sṛjā sam adaḥ su madhu madhunābhi yodhīḥ
-iti cid dhi tvā dhanā jayantam made-made anumadanti viprāḥ
+iti cid dhi tvā dhanā jayantam made made anumadanti viprāḥ
 ojīyo dhṛṣṇo sthiram ā tanuṣva mā tvā dabhan yātudhānā durevāḥ
 tvayā vayaṃ śāśadmahe raṇeṣu prapaśyanto yudhenyāni bhūri
 codayāmi ta āyudhā vacobhiḥ saṃ te śiśāmi brahmaṇā vayāṃsi
@@ -20359,7 +20359,7 @@ tām mā devā vy adadhuḥ purutrā bhūristhātrām bhūry āveśayantīm
 mayā so annam atti yo vipaśyati yaḥ prāṇiti ya īṃ śṛṇoty uktam
 amantavo māṃ ta upa kṣiyanti śrudhi śruta śraddhivaṃ te vadāmi
 aham eva svayam idaṃ vadāmi juṣṭaṃ devebhir uta mānuṣebhiḥ
-yaṃ kāmaye taṃ-tam ugraṃ kṛṇomi tam brahmāṇaṃ tam ṛṣiṃ taṃ sumedhām
+yaṃ kāmaye taṃ tam ugraṃ kṛṇomi tam brahmāṇaṃ tam ṛṣiṃ taṃ sumedhām
 ahaṃ rudrāya dhanur ā tanomi brahmadviṣe śarave hantavā u
 ahaṃ janāya samadaṃ kṛṇomy ahaṃ dyāvāpṛthivī ā viveśa
 ahaṃ suve pitaram asya mūrdhan mama yonir apsv antaḥ samudre
@@ -20521,7 +20521,7 @@ vātasyānu dhrājiṃ yanti yad devāso avikṣata
 unmaditā mauneyena vātāṃ ā tasthimā vayam
 śarīred asmākaṃ yūyam martāso abhi paśyatha
 antarikṣeṇa patati viśvā rūpāvacākaśat
-munir devasya-devasya saukṛtyāya sakhā hitaḥ
+munir devasya devasya saukṛtyāya sakhā hitaḥ
 vātasyāśvo vāyoḥ sakhātho deveṣito muniḥ
 ubhau samudrāv ā kṣeti yaś ca pūrva utāparaḥ
 apsarasāṃ gandharvāṇām mṛgāṇāṃ caraṇe caran
@@ -20745,7 +20745,7 @@ hatā indrasya śatravaḥ sarve budbudayāśavaḥ
 parīme gām aneṣata pary agnim ahṛṣata
 deveṣv akrata śravaḥ ka imāṃ ā dadharṣati
 agniṃ hinvantu no dhiyaḥ saptim āśum ivājiṣu
-tena jeṣma dhanaṃ-dhanam
+tena jeṣma dhanaṃ dhanam
 yayā gā ākarāmahe senayāgne tavotyā
 tāṃ no hinva maghattaye
 āgne sthūraṃ rayim bhara pṛthuṃ gomantam aśvinam
@@ -20823,7 +20823,7 @@ yakṣmam matasnābhyāṃ yaknaḥ plāśibhyo vi vṛhāmi te
 yakṣmaṃ śroṇibhyām bhāsadād bhaṃsaso vi vṛhāmi te
 mehanād vanaṅkaraṇāl lomabhyas te nakhebhyaḥ
 yakṣmaṃ sarvasmād ātmanas tam idaṃ vi vṛhāmi te
-aṅgād-aṅgāl lomno-lomno jātam parvaṇi-parvaṇi
+aṅgād aṅgāl lomno lomno jātam parvaṇi parvaṇi
 yakṣmaṃ sarvasmād ātmanas tam idaṃ vi vṛhāmi te
 apehi manasas pate 'pa krāma paraś cara
 paro nirṛtyā ā cakṣva bahudhā jīvato manaḥ
@@ -21025,7 +21025,7 @@ samudrād arṇavād adhi saṃvatsaro ajāyata
 ahorātrāṇi vidadhad viśvasya miṣato vaśī
 sūryācandramasau dhātā yathāpūrvam akalpayat
 divaṃ ca pṛthivīṃ cāntarikṣam atho svaḥ
-saṃ-sam id yuvase vṛṣann agne viśvāny arya ā
+saṃ sam id yuvase vṛṣann agne viśvāny arya ā
 iḷas pade sam idhyase sa no vasūny ā bhara
 saṃ gacchadhvaṃ saṃ vadadhvaṃ saṃ vo manāṃsi jānatām
 devā bhāgaṃ yathā pūrve saṃjānānā upāsate
