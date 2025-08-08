@@ -587,7 +587,7 @@ class VedicTypeTokenVisualizer:
                 ax.legend()
 
         plt.tight_layout()
-        plt.savefig("vedic_type_token_comparison.png", dpi=300, bbox_inches="tight")
+        plt.savefig("../output/vedic_type_token_comparison.png", dpi=300, bbox_inches="tight")
         plt.show()
 
     def plot_ttr_evolution(self, text_order):
@@ -661,5 +661,5 @@ class VedicTypeTokenVisualizer:
         ax4.grid(True, alpha=0.3)
 
         plt.tight_layout()
-        plt.savefig("vedic_ttr_evolution.png", dpi=300, bbox_inches="tight")
+        plt.savefig("../output/vedic_ttr_evolution.png", dpi=300, bbox_inches="tight")
         plt.show()

@@ -781,7 +781,7 @@ class VedicStatisticalVisualizer:
         ax4.set_title('Model Complexity vs Performance', fontsize=14, fontweight='bold')
         
         plt.tight_layout()
-        plt.savefig('vedic_statistical_model_performance.png', dpi=300, bbox_inches='tight')
+        plt.savefig('../output/vedic_statistical_model_performance.png', dpi=300, bbox_inches='tight')
         plt.show()
     
     def plot_feature_importance_heatmap(self):
@@ -829,7 +829,7 @@ class VedicStatisticalVisualizer:
         plt.yticks(rotation=0)
         
         plt.tight_layout()
-        plt.savefig('vedic_feature_importance_heatmap.png', dpi=300, bbox_inches='tight')
+        plt.savefig('../output/vedic_feature_importance_heatmap.png', dpi=300, bbox_inches='tight')
         plt.show()
     
     def plot_pca_analysis(self, pca_results):
@@ -895,7 +895,7 @@ class VedicStatisticalVisualizer:
         ax4.grid(True, alpha=0.3)
         
         plt.tight_layout()
-        plt.savefig('vedic_pca_analysis.png', dpi=300, bbox_inches='tight')
+        plt.savefig('../output/vedic_pca_analysis.png', dpi=300, bbox_inches='tight')
         plt.show()
     
     def plot_regression_diagnostics(self, regression_results, target_feature):
@@ -946,7 +946,7 @@ class VedicStatisticalVisualizer:
         ax4.legend()
         
         plt.tight_layout()
-        plt.savefig(f'vedic_regression_diagnostics_{target_feature}.png', 
+        plt.savefig(f'../output/vedic_regression_diagnostics_{target_feature}.png', 
                    dpi=300, bbox_inches='tight')
         plt.show()
     
@@ -969,5 +969,5 @@ class VedicStatisticalVisualizer:
         plt.ylabel('Distance')
         
         plt.tight_layout()
-        plt.savefig('vedic_text_clustering_dendrogram.png', dpi=300, bbox_inches='tight')
+        plt.savefig('../output/vedic_text_clustering_dendrogram.png', dpi=300, bbox_inches='tight')
         plt.show()

@@ -27,10 +27,10 @@ Samaveda:
   Herdan's C: 0.9174
 
 Yajurveda:
-  Total Tokens: 115,594
-  Total Types: 30,990
+  Total Tokens: 115,584
+  Total Types: 30,989
   TTR: 0.2681
-  Root TTR: 91.1494
+  Root TTR: 91.1504
   Herdan's C: 0.8871
 
 Atharvaveda (Paippalada):
@@ -62,11 +62,11 @@ Pancavimsa-Br:
   Herdan's C: 0.8814
 
 Satapatha-Br:
-  Total Tokens: 28,500
-  Total Types: 12,386
-  TTR: 0.4346
-  Root TTR: 73.3683
-  Herdan's C: 0.9188
+  Total Tokens: 152,995
+  Total Types: 52,136
+  TTR: 0.3408
+  Root TTR: 133.2905
+  Herdan's C: 0.9098
 
 Gopatha-Br:
   Total Tokens: 29,928
@@ -125,10 +125,10 @@ Ramayana:
   Herdan's C: 0.8987
 
 Mahabharata:
-  Total Tokens: 146,571
-  Total Types: 45,598
+  Total Tokens: 146,567
+  Total Types: 45,600
   TTR: 0.3111
-  Root TTR: 119.1027
+  Root TTR: 119.1096
   Herdan's C: 0.9018
 
 Bhagavata-Purana:
@@ -140,10 +140,10 @@ Bhagavata-Purana:
 \n\nMORPHOLOGICAL PRODUCTIVITY ANALYSIS
 --------------------------------------------------
 Most productive morphological patterns (average across texts):
-  instrumental archaic: 0.2367
-  dual morphology: 0.0364
-  subjunctive morphology: 0.0311
-  genitive plural: 0.0289
+  instrumental archaic: 0.2343
+  dual morphology: 0.0361
+  subjunctive morphology: 0.0307
+  genitive plural: 0.0287
 \n\nFEATURE-SPECIFIC TYPE-TOKEN ANALYSIS
 --------------------------------------------------
 
@@ -155,7 +155,7 @@ SUBJUNCTIVE MORPHOLOGY:
   Atharvaveda (Saunaka): 2530 tokens,    7 types, TTR = 0.003
   Kausitaki-Br        : 1431 tokens,    7 types, TTR = 0.005
   Pancavimsa-Br       : 1639 tokens,    6 types, TTR = 0.004
-  Satapatha-Br        :  636 tokens,    5 types, TTR = 0.008
+  Satapatha-Br        : 4326 tokens,    5 types, TTR = 0.001
   Gopatha-Br          : 1369 tokens,    6 types, TTR = 0.004
   Aitareya-Up         :   28 tokens,    6 types, TTR = 0.214
   Taittiriya-Up       :   74 tokens,    5 types, TTR = 0.068
@@ -175,7 +175,7 @@ DUAL MORPHOLOGY:
   Atharvaveda (Saunaka): 1575 tokens,    4 types, TTR = 0.003
   Kausitaki-Br        :  687 tokens,    4 types, TTR = 0.006
   Pancavimsa-Br       :  770 tokens,    4 types, TTR = 0.005
-  Satapatha-Br        :  522 tokens,    3 types, TTR = 0.006
+  Satapatha-Br        : 3169 tokens,    3 types, TTR = 0.001
   Gopatha-Br          :  478 tokens,    4 types, TTR = 0.008
   Aitareya-Up         :   12 tokens,    3 types, TTR = 0.250
   Taittiriya-Up       :   28 tokens,    3 types, TTR = 0.107
@@ -195,7 +195,7 @@ AGENT NOUNS:
   Atharvaveda (Saunaka):  107 tokens,    1 types, TTR = 0.009
   Kausitaki-Br        :   93 tokens,    2 types, TTR = 0.022
   Pancavimsa-Br       :   12 tokens,    1 types, TTR = 0.083
-  Satapatha-Br        :    0 tokens,    0 types, TTR = 0.000
+  Satapatha-Br        :    3 tokens,    1 types, TTR = 0.333
   Gopatha-Br          :   20 tokens,    1 types, TTR = 0.050
   Aitareya-Up         :    0 tokens,    0 types, TTR = 0.000
   Taittiriya-Up       :    0 tokens,    0 types, TTR = 0.000
@@ -215,7 +215,7 @@ ABSTRACT NOUNS:
   Atharvaveda (Saunaka): 3364 tokens,    3 types, TTR = 0.001
   Kausitaki-Br        : 2065 tokens,    3 types, TTR = 0.001
   Pancavimsa-Br       : 1734 tokens,    3 types, TTR = 0.002
-  Satapatha-Br        : 1422 tokens,    3 types, TTR = 0.002
+  Satapatha-Br        : 7785 tokens,    3 types, TTR = 0.000
   Gopatha-Br          : 1089 tokens,    3 types, TTR = 0.003
   Aitareya-Up         :   16 tokens,    2 types, TTR = 0.125
   Taittiriya-Up       :   81 tokens,    2 types, TTR = 0.025
@@ -235,7 +235,7 @@ LONG COMPOUNDS:
   Atharvaveda (Saunaka):  480 tokens,  409 types, TTR = 0.852
   Kausitaki-Br        :  106 tokens,   60 types, TTR = 0.566
   Pancavimsa-Br       : 1072 tokens,  767 types, TTR = 0.715
-  Satapatha-Br        : 4021 tokens, 3461 types, TTR = 0.861
+  Satapatha-Br        : 22034 tokens, 17540 types, TTR = 0.796
   Gopatha-Br          :  827 tokens,  578 types, TTR = 0.699
   Aitareya-Up         :   23 tokens,   23 types, TTR = 1.000
   Taittiriya-Up       :  140 tokens,  113 types, TTR = 0.807
@@ -255,7 +255,7 @@ RITUAL TERMS:
   Atharvaveda (Saunaka):   10 tokens,    2 types, TTR = 0.200
   Kausitaki-Br        :   54 tokens,    6 types, TTR = 0.111
   Pancavimsa-Br       :   11 tokens,    2 types, TTR = 0.182
-  Satapatha-Br        :   32 tokens,    1 types, TTR = 0.031
+  Satapatha-Br        :   84 tokens,    3 types, TTR = 0.036
   Gopatha-Br          :   12 tokens,    2 types, TTR = 0.167
   Aitareya-Up         :    0 tokens,    0 types, TTR = 0.000
   Taittiriya-Up       :    0 tokens,    0 types, TTR = 0.000
@@ -533,36 +533,36 @@ Pancavimsa-Br:
 
 Satapatha-Br:
   subjunctive_morphology:
-    Zipf coefficient: 1.288 (R² = 0.725)
-    Shannon entropy: 2.005
+    Zipf coefficient: 1.845 (R² = 0.862)
+    Shannon entropy: 1.763
     Hapax ratio: 0.000
   dual_morphology:
-    Zipf coefficient: 2.426 (R² = 0.682)
-    Shannon entropy: 1.149
+    Zipf coefficient: 2.697 (R² = 0.616)
+    Shannon entropy: 1.112
     Hapax ratio: 0.000
   instrumental_archaic:
-    Zipf coefficient: 0.705 (R² = 0.889)
-    Shannon entropy: 7.967
-    Hapax ratio: 0.722
+    Zipf coefficient: 0.726 (R² = 0.893)
+    Shannon entropy: 9.249
+    Hapax ratio: 0.720
   genitive_plural:
     Zipf coefficient: 0.000 (R² = 0.000)
     Shannon entropy: 0.000
     Hapax ratio: 0.000
   action_nouns:
     Zipf coefficient: 0.000 (R² = 0.000)
-    Shannon entropy: 0.112
+    Shannon entropy: 0.107
     Hapax ratio: 0.000
   abstract_nouns:
-    Zipf coefficient: 3.982 (R² = 0.825)
-    Shannon entropy: 0.845
+    Zipf coefficient: 4.581 (R² = 0.793)
+    Shannon entropy: 0.827
     Hapax ratio: 0.000
   primary_derivatives:
-    Zipf coefficient: 5.048 (R² = 0.989)
-    Shannon entropy: 0.155
+    Zipf coefficient: 5.433 (R² = 0.981)
+    Shannon entropy: 0.151
     Hapax ratio: 0.000
   secondary_derivatives:
-    Zipf coefficient: 3.684 (R² = 0.895)
-    Shannon entropy: 0.912
+    Zipf coefficient: 4.116 (R² = 0.902)
+    Shannon entropy: 0.890
     Hapax ratio: 0.000
 
 Gopatha-Br:

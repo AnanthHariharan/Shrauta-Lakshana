@@ -12,7 +12,6 @@ TOTAL FEATURES ANALYZED: 78
 MAJOR DIACHRONIC TRENDS
 --------------------------------------------------
 INCREASING FEATURES (20):
-  • present participle at: +11169.1% change
   • particle vai: +6418.4% change
   • philosophical terms: +2249.1% change
   • long compounds: +1176.7% change
@@ -22,6 +21,7 @@ INCREASING FEATURES (20):
   • diphthongs ai: +199.0% change
   • subjunctive an: +150.4% change
   • diphthongs au: +127.3% change
+  • instrumental classical ena: +119.7% change
 
 DECREASING FEATURES (16):
   • particle id: -99.8% change
@@ -49,12 +49,12 @@ PHONOLOGICAL ARCHAISMS:
   → medial voiced aspirates: 221.11 → 214.10 (-3.2%)
 
 PHONOLOGICAL INNOVATIONS:
-  ↗ monophthongs e: 170.29 → 199.90 (+17.4%)
+  ↗ monophthongs e: 170.30 → 199.90 (+17.4%)
   ↘ monophthongs o: 134.20 → 118.06 (-12.0%)
   ↗ retroflex assimilation: 17.44 → 21.06 (+20.7%)
 
 MORPHOLOGICAL ARCHAISMS:
-  ↗ subjunctive full: 22.29 → 35.12 (+57.6%)
+  ↗ subjunctive full: 22.29 → 35.12 (+57.5%)
   ↘ dual nominative: 17.19 → 13.63 (-20.7%)
   ↗ perfect reduplicated: 0.04 → 0.24 (+572.7%)
   ↗ injunctive augmentless: 44.98 → 69.40 (+54.3%)
@@ -72,7 +72,7 @@ MORPHOLOGICAL INNOVATIONS:
 SYNTACTIC ARCHAISMS:
   ↗ particle sma: 0.18 → 0.24 (+38.9%)
   ↗ particle ha: 0.68 → 7.04 (+935.2%)
-  ↗ particle vai: 3.27 → 7.84 (+140.1%)
+  ↗ particle vai: 3.27 → 7.84 (+140.0%)
 
 SYNTACTIC INNOVATIONS:
   ↗ correlatives ya ta: 0.29 → 0.61 (+112.9%)
@@ -95,8 +95,8 @@ PHILOSOPHICAL LEXICON:
 
 TEXTUAL & STYLISTIC:
   ↗ reported speech: 5.03 → 19.72 (+291.8%)
-  ↗ connectives: 1.29 → 5.86 (+354.6%)
-  ↗ prose particles: 7.19 → 22.66 (+215.3%)
+  ↗ connectives: 1.29 → 5.86 (+354.5%)
+  ↗ prose particles: 7.19 → 22.66 (+215.2%)
   ↘ substrate lexemes: 0.04 → 0.00 (-100.0%)
 
 
@@ -108,9 +108,9 @@ Samhita Period:
   Conservation Ratio: 1.16
 
 Brahmana Period:
-  Archaism Index: 29.76
-  Innovation Index: 28.46
-  Conservation Ratio: 1.07
+  Archaism Index: 29.74
+  Innovation Index: 28.31
+  Conservation Ratio: 1.08
 
 Upanishad Period:
   Archaism Index: 26.54
@@ -135,12 +135,12 @@ Samhita Period:
   Overall Innovation Score: 2.44
 
 Brahmana Period:
-  Morphological Innovation Density: 3.28
-  Syntactic Complexity: 9.06
-  Phonological Archaism: 82.04
-  Textual Sophistication: 19.50
-  Substrate Influence: 0.00
-  Overall Innovation Score: 10.61
+  Morphological Innovation Density: 3.19
+  Syntactic Complexity: 8.98
+  Phonological Archaism: 81.71
+  Textual Sophistication: 18.76
+  Substrate Influence: 0.01
+  Overall Innovation Score: 10.31
 
 Upanishad Period:
   Morphological Innovation Density: 2.27

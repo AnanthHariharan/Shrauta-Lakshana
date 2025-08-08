@@ -473,7 +473,7 @@ class EnhancedVedicAnalyzer(VedicDiachronicAnalyzer):
                     ax.plot(x_numeric, p(x_numeric), "r--", alpha=0.5)
 
             plt.tight_layout()
-            plt.savefig('vedic_full_diachronic_trends.png', dpi=300)
+            plt.savefig('../output/vedic_full_diachronic_trends.png', dpi=300)
             plt.show()
 
 def plot_diachronic_trends(analyzer):
@@ -537,7 +537,7 @@ def plot_diachronic_trends(analyzer):
             ax.grid(True, alpha=0.3)
 
     plt.tight_layout()
-    plt.savefig('vedic_comprehensive_diachronic_analysis.png', dpi=300, bbox_inches='tight')
+    plt.savefig('../output/vedic_comprehensive_diachronic_analysis.png', dpi=300, bbox_inches='tight')
     plt.show()
 
 def plot_category_trends(analyzer):
@@ -585,7 +585,7 @@ def plot_category_trends(analyzer):
             ax.grid(True, alpha=0.3)
 
         plt.tight_layout()
-        plt.savefig('vedic_category_trends.png', dpi=300, bbox_inches='tight')
+        plt.savefig('../output/vedic_category_trends.png', dpi=300, bbox_inches='tight')
         plt.show()
 
 def statistical_analysis(analyzer):
