@@ -1,0 +1,17 @@
+TRANSFORMER TRAINING SUMMARY - PRODUCTION
+==================================================
+
+Training Time: 83.3s (1.4m)
+Total Samples: 17
+Training Samples: 13
+Validation Samples: 4
+Morphological Features: 78
+Best Validation Loss: 2.1933
+Optimal Temperature: 0.100
+Final Epoch: 4
+
+EPOCH DETAILS:
+Epoch  1: Train=0.906 Val=2.193 Morph=0.686 (17.8s)
+Epoch  2: Train=0.880 Val=2.319 Morph=0.680 (17.7s)
+Epoch  3: Train=0.842 Val=2.487 Morph=0.667 (17.4s)
+Epoch  4: Train=0.828 Val=2.677 Morph=0.653 (17.5s)

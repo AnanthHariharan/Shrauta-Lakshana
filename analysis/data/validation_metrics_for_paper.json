@@ -1,0 +1,218 @@
+{
+  "period_classification": {
+    "macro_f1": 0.30357142857142855,
+    "micro_f1": 0.3333333333333333,
+    "weighted_f1": 0.31746031746031744,
+    "per_class_f1": {
+      "Early Vedic": 0.2857142857142857,
+      "Late Vedic": 0.0,
+      "Latest Vedic": 0.5,
+      "Classical": 0.42857142857142855
+    },
+    "confusion_matrix": [
+      [
+        1,
+        3,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        2,
+        4
+      ],
+      [
+        0,
+        0,
+        0,
+        3
+      ]
+    ],
+    "classification_report": {
+      "Early Vedic": {
+        "precision": 0.5,
+        "recall": 0.2,
+        "f1-score": 0.2857142857142857,
+        "support": 5.0
+      },
+      "Late Vedic": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 4.0
+      },
+      "Latest Vedic": {
+        "precision": 1.0,
+        "recall": 0.3333333333333333,
+        "f1-score": 0.5,
+        "support": 6.0
+      },
+      "Classical": {
+        "precision": 0.2727272727272727,
+        "recall": 1.0,
+        "f1-score": 0.42857142857142855,
+        "support": 3.0
+      },
+      "accuracy": 0.3333333333333333,
+      "macro avg": {
+        "precision": 0.4431818181818182,
+        "recall": 0.3833333333333333,
+        "f1-score": 0.30357142857142855,
+        "support": 18.0
+      },
+      "weighted avg": {
+        "precision": 0.5176767676767677,
+        "recall": 0.3333333333333333,
+        "f1-score": 0.31746031746031744,
+        "support": 18.0
+      }
+    },
+    "accuracy": 0.3333333333333333
+  },
+  "confidence_calibration": {
+    "pearson_correlation": 0.9209195510815705,
+    "pearson_p_value": 6.879545943249939e-42,
+    "spearman_correlation": 0.9175877587758775,
+    "spearman_p_value": 4.790289981755225e-41,
+    "mae": 0.05260852491685896,
+    "rmse": 0.06380818713644788,
+    "ece": 0.04290639371684957,
+    "brier_score": 0.004071484745639954
+  },
+  "pattern_detection_agreement": {
+    "feature_agreements": {
+      "subjunctive_full": {
+        "mean_relative_difference": 0.005147967408415549,
+        "agreement_rate": 1.0,
+        "correlation": 0.9998167679291773
+      },
+      "dual_instrumental": {
+        "mean_relative_difference": 0.3842390955191092,
+        "agreement_rate": 0.5,
+        "correlation": 0.9693048794819191
+      },
+      "particle_sma": {
+        "mean_relative_difference": 0.4150916378147433,
+        "agreement_rate": 0.2777777777777778,
+        "correlation": 0.9071078409137565
+      },
+      "long_compounds": {
+        "mean_relative_difference": 0.015308149356681523,
+        "agreement_rate": 1.0,
+        "correlation": 0.9999700163765953
+      },
+      "perfect_reduplicated": {
+        "mean_relative_difference": 0.6734499442717242,
+        "agreement_rate": 0.16666666666666666,
+        "correlation": 0.8900178390212392
+      }
+    },
+    "overall_mean_relative_difference": 0.2986473588741348,
+    "overall_agreement_rate": 0.5888888888888889
+  },
+  "diachronic_trend_statistics": {
+    "subjunctive_full": {
+      "slope": 1.044275013568246,
+      "r_squared": 0.3701776708795272,
+      "p_value": 0.007378236836616442,
+      "spearman_rho": 0.6202270381836945,
+      "spearman_p": 0.006032002847171171,
+      "mann_kendall_trend": "increasing",
+      "mann_kendall_p": 0.0050637539414915,
+      "cohens_d": -1.6908899059772924,
+      "direction": "increasing",
+      "significant": "True"
+    },
+    "particle_sma": {
+      "slope": 0.019137413154757723,
+      "r_squared": 0.06587872544744068,
+      "p_value": 0.3038887493449366,
+      "spearman_rho": 0.3644812049994589,
+      "spearman_p": 0.13699866210343833,
+      "mann_kendall_trend": "increasing",
+      "mann_kendall_p": 0.16107209767735542,
+      "cohens_d": -1.506362474956407,
+      "direction": "increasing",
+      "significant": "False"
+    },
+    "dual_instrumental": {
+      "slope": -0.0066929948058239005,
+      "r_squared": 0.003199828633081773,
+      "p_value": 0.8235807465982341,
+      "spearman_rho": -0.09203742539485295,
+      "spearman_p": 0.7164398135520718,
+      "mann_kendall_trend": "no trend",
+      "mann_kendall_p": 1.0,
+      "cohens_d": 0.24012599756820824,
+      "direction": "decreasing",
+      "significant": "False"
+    },
+    "retroflex_l": {
+      "slope": -0.06245571303237894,
+      "r_squared": 0.11185887136135599,
+      "p_value": 0.17492504919232282,
+      "spearman_rho": -0.05422167116168622,
+      "spearman_p": 0.8307932041338316,
+      "mann_kendall_trend": "decreasing",
+      "mann_kendall_p": 0.9095286450149365,
+      "cohens_d": 0.4736073864864031,
+      "direction": "decreasing",
+      "significant": "False"
+    },
+    "long_compounds": {
+      "slope": 0.9779174315269378,
+      "r_squared": 0.02490561411911955,
+      "p_value": 0.5316929194003392,
+      "spearman_rho": 0.42002063983488136,
+      "spearman_p": 0.08267356720316324,
+      "mann_kendall_trend": "increasing",
+      "mann_kendall_p": 0.0814429797390801,
+      "cohens_d": -1.2058138625209915,
+      "direction": "increasing",
+      "significant": "False"
+    },
+    "philosophical_terms": {
+      "slope": 0.07438944866213716,
+      "r_squared": 0.33608186372962595,
+      "p_value": 0.011678750217422361,
+      "spearman_rho": 0.5348477739085543,
+      "spearman_p": 0.02219679156016151,
+      "mann_kendall_trend": "increasing",
+      "mann_kendall_p": 0.01701908553354614,
+      "cohens_d": -2.5174383039352937,
+      "direction": "increasing",
+      "significant": "True"
+    },
+    "subordinators": {
+      "slope": 0.09730954428942125,
+      "r_squared": 0.002062028633789077,
+      "p_value": 0.858003018893011,
+      "spearman_rho": 0.11248710010319916,
+      "spearman_p": 0.6567565630509027,
+      "mann_kendall_trend": "increasing",
+      "mann_kendall_p": 0.7618733947779845,
+      "cohens_d": -0.3795353780743093,
+      "direction": "increasing",
+      "significant": "False"
+    },
+    "infinitive_tum": {
+      "slope": 0.063378023444657,
+      "r_squared": 0.022839736443261448,
+      "p_value": 0.5494354789559555,
+      "spearman_rho": 0.08169614164262227,
+      "spearman_p": 0.7472533430922126,
+      "mann_kendall_trend": "increasing",
+      "mann_kendall_p": 0.9697851923488126,
+      "cohens_d": -0.7578921875333626,
+      "direction": "increasing",
+      "significant": "False"
+    }
+  }
+}

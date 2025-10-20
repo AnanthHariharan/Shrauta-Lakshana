@@ -1,0 +1,27 @@
+TRANSFORMER MORPHOLOGICAL ANALYZER VALIDATION REPORT
+======================================================================
+
+GOLD STANDARD VALIDATION
+--------------------------------------------------
+Confidence Correlation: 0.709
+Confidence MAE: 0.464
+Confidence RMSE: 0.465
+
+REGEX CROSS-VALIDATION RESULTS
+--------------------------------------------------
+subjunctive_full:
+  Mean Relative Difference: 0.757
+  Agreement Rate: 0.000
+dual_instrumental:
+  Mean Relative Difference: 0.608
+  Agreement Rate: 0.200
+particle_sma:
+  Mean Relative Difference: 0.901
+  Agreement Rate: 0.000
+long_compounds:
+  Mean Relative Difference: 0.419
+  Agreement Rate: 0.400
+perfect_reduplicated:
+  Mean Relative Difference: 0.991
+  Agreement Rate: 0.000
+
