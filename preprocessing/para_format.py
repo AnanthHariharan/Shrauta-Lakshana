@@ -34,6 +34,18 @@ def format_paragraphs(input_filepath, output_filepath):
         print(f"An error occurred: {e}")
 
 
-input_file = "atharva-paippalada-samhita.txt"
-output_file = "atharva-paippalada-samhita-formatted.txt"
-format_paragraphs(input_file, output_file)
+import os
+
+# Example usage - modify these paths as needed
+# This script should be run from the preprocessing directory
+# Use relative paths to access texts in the sibling 'texts' directory
+
+if __name__ == "__main__":
+    # Example: format a samhita text file
+    input_file = os.path.join("..", "texts", "samhita", "atharva-paippalada-samhita.txt")
+    output_file = os.path.join("..", "texts", "samhita", "atharva-paippalada-samhita-formatted.txt")
+
+    # Uncomment the line below to run the formatter
+    # format_paragraphs(input_file, output_file)
+
+    print("Para format utility ready. Update input_file and output_file paths, then uncomment the function call.")

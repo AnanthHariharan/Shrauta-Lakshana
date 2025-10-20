@@ -18,7 +18,18 @@ def remove_blank_lines(input_filepath, output_filepath):
         print(f"An error occurred: {e}")
 
 
-input_file = "bhagavata-purana.txt"
-output_file = "bhagavata-purana.txt"
+import os
 
-remove_blank_lines(input_file, output_file)
+# Example usage - modify these paths as needed
+# This script should be run from the preprocessing directory
+# Use relative paths to access texts in the sibling 'texts' directory
+
+if __name__ == "__main__":
+    # Example: remove blank lines from a classical text file
+    input_file = os.path.join("..", "texts", "classical-sanskrit", "bhagavata-purana.txt")
+    output_file = os.path.join("..", "texts", "classical-sanskrit", "bhagavata-purana.txt")
+
+    # Uncomment the line below to run the blank line remover
+    # remove_blank_lines(input_file, output_file)
+
+    print("Blank line remover utility ready. Update input_file and output_file paths, then uncomment the function call.")
