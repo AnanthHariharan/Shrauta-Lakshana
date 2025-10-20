@@ -477,19 +477,6 @@ Areas particularly welcome for contributions:
 
 This project is released under the MIT License. See the [LICENSE](LICENSE) file for full details.
 
-## Citation
-
-If you use this toolkit in your research, please cite:
-
-```bibtex
-@software{shrauta_lakshana,
-  title = {Shrauta-Lakshana: Computational Linguistics Toolkit for Vedic Sanskrit Diachronic Analysis},
-  author = {Hariharan, Ananth},
-  year = {2024},
-  url = {https://github.com/ananthhariharan/Shrauta-Lakshana}
-}
-```
-
 ## Acknowledgments
 
 This project builds upon traditional Vedic philology and modern computational linguistics research. The chronological framework and linguistic features are based on established Sanskrit linguistic scholarship.
