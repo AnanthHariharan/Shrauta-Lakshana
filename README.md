@@ -25,21 +25,45 @@ Shrauta-Lakshana provides multi-layered analysis of Sanskrit texts from c. 1500 
 ```
 Shrauta-Lakshana/
 ├── analysis/                           # Core analysis modules
-│   ├── diachronic_analysis.py         # Comprehensive diachronic feature analyzer
-│   ├── samhita_analysis.py            # Basic corpus analysis tools
-│   ├── statistical_modeling.py        # Advanced statistical models & ML
-│   ├── type_token_analysis.py         # Morphological productivity & lexical diversity
-│   ├── transformer_morphological_analyzer.py  # Deep learning morphological analysis
-│   ├── enhanced_bert_ensemble_system.py       # BERT-based ensemble models
-│   ├── enhanced_diachronic_transformer_analysis.py  # Transformer diachronic analysis
-│   ├── transformer_validation_system.py       # Model validation framework
-│   ├── run_statistical_analysis.py    # Statistical analysis runner
-│   ├── run_type_token_analysis.py     # Type-token analysis runner
-│   ├── run_enhanced_ensemble_analysis.py      # Ensemble analysis runner
-│   ├── train_transformer_production.py        # Production transformer training
-│   ├── train_transformer_quickstart.py        # Quick transformer training setup
-│   ├── comprehensive_results_analysis.py      # Results aggregation & reporting
-│   └── test_*.py                      # Testing & validation scripts
+│   ├── scripts/                       # Analysis scripts organized by type
+│   │   ├── diachronic/               # Diachronic analysis scripts
+│   │   │   ├── diachronic_analysis.py
+│   │   │   └── enhanced_diachronic_transformer_analysis.py
+│   │   ├── ensemble/                 # Ensemble modeling scripts
+│   │   │   ├── enhanced_bert_ensemble_system.py
+│   │   │   ├── full_corpus_ensemble_analysis.py
+│   │   │   ├── transformer_morphological_analyzer.py
+│   │   │   └── transformer_validation_system.py
+│   │   ├── statistical/              # Statistical analysis scripts
+│   │   │   ├── statistical_modeling.py
+│   │   │   └── type_token_analysis.py
+│   │   └── utilities/                # Helper and analysis utilities
+│   │       ├── calculate_period_word_counts.py
+│   │       ├── comprehensive_results_analysis.py
+│   │       ├── run_enhanced_ensemble_analysis.py
+│   │       ├── run_statistical_analysis.py
+│   │       ├── run_type_token_analysis.py
+│   │       └── samhita_analysis.py
+│   ├── training/                     # Model training scripts and outputs
+│   │   ├── train_transformer_production.py
+│   │   ├── train_transformer_quickstart.py
+│   │   ├── train_transformer_efficient.py
+│   │   ├── train_transformer_fixed.py
+│   │   ├── data/                    # Training data files
+│   │   ├── models/                  # Trained model checkpoints
+│   │   └── logs/                    # Training logs
+│   ├── tests/                        # Testing & validation scripts
+│   │   └── test_*.py
+│   ├── data/                         # Analysis results and data
+│   ├── docs/                         # Documentation
+│   │   ├── ACL_SUBMISSION_SUMMARY.md
+│   │   ├── PLOTTING_GUIDE.md
+│   │   └── requirements_transformer.txt
+│   ├── visualizations/               # Generated plots
+│   ├── logs/                         # Analysis logs
+│   ├── validation_reports/           # Model validation reports
+│   ├── README.md                     # Analysis module overview
+│   └── QUICK_REFERENCE.md           # Quick reference guide
 ├── output/                            # Generated results & visualizations
 │   ├── *.csv                         # Data exports & statistical summaries
 │   ├── *.png                         # Visualizations & plots
@@ -165,7 +189,7 @@ pip install xgboost lightgbm
 
 ### 1. Comprehensive Diachronic Analysis
 ```python
-from analysis.diachronic_analysis import EnhancedVedicAnalyzer, plot_diachronic_trends
+from analysis.scripts.diachronic.diachronic_analysis import EnhancedVedicAnalyzer, plot_diachronic_trends
 
 # Initialize analyzer with 60+ linguistic features
 analyzer = EnhancedVedicAnalyzer()
@@ -183,7 +207,7 @@ analyzer.export_results()
 
 ### 2. Advanced Statistical Modeling
 ```python
-from analysis.statistical_modeling import VedicStatisticalModeler, VedicTextMetadata
+from analysis.scripts.statistical.statistical_modeling import VedicStatisticalModeler, VedicTextMetadata
 
 # Initialize with metadata integration
 metadata = VedicTextMetadata()
@@ -204,7 +228,7 @@ pca_results = modeler.principal_component_analysis()
 
 ### 3. Type-Token Frequency Analysis
 ```python
-from analysis.type_token_analysis import VedicTypeTokenAnalyzer
+from analysis.scripts.statistical.type_token_analysis import VedicTypeTokenAnalyzer
 
 # Morphological productivity analysis
 tt_analyzer = VedicTypeTokenAnalyzer()
@@ -234,11 +258,11 @@ The toolkit employs fine-tuned multilingual BERT models for Sanskrit morphologic
 - Calibration: Temperature scaling for calibrated confidence scores
 
 ```python
-from analysis.transformer_morphological_analyzer import (
+from analysis.scripts.ensemble.transformer_morphological_analyzer import (
     SanskritTransformerMorphAnalyzer,
     VedicMorphologicalTrainingDataGenerator
 )
-from analysis.enhanced_bert_ensemble_system import BERTEnhancedEnsembleAnalyzer
+from analysis.scripts.ensemble.enhanced_bert_ensemble_system import BERTEnhancedEnsembleAnalyzer
 
 # Initialize model with mBERT backbone
 model = SanskritTransformerMorphAnalyzer(
@@ -265,25 +289,25 @@ results = ensemble.run_enhanced_analysis(corpus_files)
 cd analysis/
 
 # Run comprehensive diachronic analysis
-python diachronic_analysis.py
+python scripts/diachronic/diachronic_analysis.py
 
 # Run statistical modeling pipeline
-python run_statistical_analysis.py
+python scripts/utilities/run_statistical_analysis.py
 
 # Run type-token analysis pipeline
-python run_type_token_analysis.py
+python scripts/utilities/run_type_token_analysis.py
 
 # Run enhanced ensemble analysis
-python run_enhanced_ensemble_analysis.py
+python scripts/utilities/run_enhanced_ensemble_analysis.py
 
 # Train transformer models (quick start)
-python train_transformer_quickstart.py
+python training/train_transformer_quickstart.py
 
 # Train transformer models (production)
-python train_transformer_production.py
+python training/train_transformer_production.py
 
 # Comprehensive results analysis
-python comprehensive_results_analysis.py
+python scripts/utilities/comprehensive_results_analysis.py
 ```
 
 ## Output

@@ -46,8 +46,9 @@ ENV/
 *.model
 *.ckpt
 checkpoints/
-models/
 saved_models/
+analysis/models/*.pt
+analysis/models/*.pth
 
 # Data files (uncomment if you don't want to track large data files)
 # *.csv
@@ -64,6 +65,7 @@ Thumbs.db
 
 # Logs
 *.log
+analysis/logs/
 
 # Temporary files
 *.tmp
@@ -73,5 +75,13 @@ Thumbs.db
 # Environment variables
 .env
 .env.local
+
+# PyTorch models (general)
 *.pt
+
+# Compiled Python
 __pycache__/
+
+# Training outputs
+analysis/training/logs/
+analysis/training/models/
