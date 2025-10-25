@@ -46,7 +46,7 @@ class FullCorpusEnsembleAnalyzer:
     def __init__(self):
         # Load training metadata
         with open(
-            "../../training_data/sanskrit_transformer_PRODUCTION_data.json", "r"
+            "../../training/data/sanskrit_transformer_PRODUCTION_data.json", "r"
         ) as f:
             training_data = json.load(f)
 
@@ -60,7 +60,7 @@ class FullCorpusEnsembleAnalyzer:
         )
         self.transformer_model.load_state_dict(
             torch.load(
-                "../../models/sanskrit_transformer_PRODUCTION_best.pt",
+                "../../training/models/sanskrit_transformer_PRODUCTION_best.pt",
                 map_location="cpu",
             )
         )
@@ -785,11 +785,24 @@ class FullCorpusEnsembleAnalyzer:
         ax2.legend(["Regex", "Transformer", "Ensemble"])
         ax2.tick_params(axis="x", rotation=45)
 
-        # 3. Agreement vs detection correlation
+        # 3. Agreement vs detection correlation with regression line
         ax3.scatter(df["agreement_rate"], df["ensemble_positive"], alpha=0.6, c="green")
+
+        # Add regression line
+        from scipy import stats
+        x = df["agreement_rate"].values
+        y = df["ensemble_positive"].values
+        slope, intercept, r_value, p_value, std_err = stats.linregress(x, y)
+
+        # Plot regression line
+        x_line = np.linspace(x.min(), x.max(), 100)
+        y_line = slope * x_line + intercept
+        ax3.plot(x_line, y_line, 'r-', linewidth=2, alpha=0.8, label=f'R²={r_value**2:.3f}')
+
         ax3.set_xlabel("Agreement Rate")
         ax3.set_ylabel("Ensemble Detection Rate")
         ax3.set_title("Agreement vs Detection Correlation")
+        ax3.legend()
 
         # 4. Text-wise agreement
         texts_sorted = df.sort_values("agreement_rate")

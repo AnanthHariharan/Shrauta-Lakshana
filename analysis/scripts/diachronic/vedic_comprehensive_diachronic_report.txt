@@ -1,0 +1,176 @@
+COMPREHENSIVE VEDIC SANSKRIT DIACHRONIC ANALYSIS
+======================================================================
+
+CORPUS OVERVIEW
+--------------------------------------------------
+• Samhitas (c. 1500-1000 BCE): Rigveda, Yajurveda, Samaveda, Atharvaveda
+• Brahmanas (c. 900-750 BCE): Kausitaki, Pancavimsa, Satapatha, Gopatha
+• Upanishads (c. 700-550 BCE): Brhadaranyaka, Chandogya, Aitareya, Mandukya
+
+TOTAL FEATURES ANALYZED: 78
+
+MAJOR DIACHRONIC TRENDS
+--------------------------------------------------
+INCREASING FEATURES (27):
+  • particle vai: +8041.2% change
+  • philosophical terms: +2833.9% change
+  • long compounds: +1507.7% change
+  • prose particles: +613.7% change
+  • reported speech: +477.9% change
+  • connectives: +461.8% change
+  • gerund tvaa: +292.0% change
+  • diphthongs ai: +273.5% change
+  • subjunctive an: +212.2% change
+  • diphthongs au: +184.0% change
+
+DECREASING FEATURES (10):
+  • retroflex l: -97.2% change
+  • deity names: -95.1% change
+  • particle u: -91.5% change
+  • sacrifice roots: -72.8% change
+  • instrumental archaic a: -34.3% change
+  • genitive plural athematic: -30.5% change
+  • primary suffixes: -14.3% change
+  • dual nominative: -13.3% change
+  • monophthongs o: -13.0% change
+  • monophthongs e: -4.1% change
+
+STABLE FEATURES (41)
+
+
+FEATURE CATEGORY ANALYSIS
+--------------------------------------------------
+
+PHONOLOGICAL ARCHAISMS:
+  ↘ retroflex l: 0.94 → 0.19 (-79.7%)
+  ↗ diphthongs ai: 26.07 → 50.73 (+94.6%)
+  ↗ diphthongs au: 8.16 → 12.30 (+50.6%)
+  → visarga final: 79.66 → 78.79 (-1.1%)
+  → medial voiced aspirates: 221.94 → 230.68 (+3.9%)
+
+PHONOLOGICAL INNOVATIONS:
+  ↗ monophthongs e: 177.76 → 207.61 (+16.8%)
+  → monophthongs o: 133.14 → 122.19 (-8.2%)
+  ↗ retroflex assimilation: 18.46 → 21.59 (+17.0%)
+
+MORPHOLOGICAL ARCHAISMS:
+  ↗ subjunctive full: 22.71 → 33.19 (+46.1%)
+  ↘ dual nominative: 16.71 → 14.78 (-11.5%)
+  ↗ perfect reduplicated: 0.05 → 0.28 (+487.2%)
+  ↗ injunctive augmentless: 48.17 → 71.29 (+48.0%)
+  ↗ n infix presents: 35.79 → 45.29 (+26.6%)
+  ↗ reduplicated presents: 0.05 → 0.14 (+158.5%)
+  → locative dual: 0.55 → 0.54 (-1.8%)
+  ↘ locative plural: 4.12 → 2.88 (-30.0%)
+
+MORPHOLOGICAL INNOVATIONS:
+  ↘ perfect periphrastic: 0.00 → 0.00 (-100.0%)
+  ↗ instrumental classical ena: 6.84 → 9.33 (+36.5%)
+  ↗ precative: 2.13 → 3.89 (+83.0%)
+  ↘ benedictive: 0.21 → 0.13 (-38.9%)
+
+SYNTACTIC ARCHAISMS:
+  ↗ particle sma: 0.18 → 0.26 (+50.2%)
+  ↗ particle ha: 0.61 → 6.37 (+946.3%)
+  ↗ particle vai: 5.29 → 10.67 (+101.7%)
+
+SYNTACTIC INNOVATIONS:
+  → correlatives ya ta: 0.27 → 0.28 (+6.4%)
+  ↗ long compounds: 17.62 → 50.08 (+184.2%)
+  ↗ gerund tvaa: 1.32 → 4.61 (+250.4%)
+  ↗ absolute construction: 0.01 → 0.01 (+145.3%)
+  ↗ verb nonfinal: 3.00 → 8.94 (+198.0%)
+  ↗ subordinators: 7.92 → 25.32 (+219.6%)
+
+RELIGIOUS LEXICON:
+  ↗ ritual sacrifice: 0.17 → 0.21 (+27.0%)
+  ↘ deity names: 5.10 → 0.69 (-86.4%)
+  ↘ priestly terms: 0.02 → 0.02 (-24.8%)
+
+PHILOSOPHICAL LEXICON:
+  ↗ philosophical terms: 0.21 → 0.35 (+66.5%)
+  ↗ cosmological terms: 0.06 → 0.32 (+423.4%)
+  ↘ eschatological terms: 0.02 → 0.02 (-12.8%)
+  ↘ philosophical context: 0.02 → 0.00 (-95.4%)
+
+TEXTUAL & STYLISTIC:
+  ↗ reported speech: 7.39 → 27.36 (+270.3%)
+  ↗ connectives: 1.34 → 6.84 (+409.6%)
+  ↗ prose particles: 11.65 → 24.68 (+112.0%)
+  ↘ substrate lexemes: 0.02 → 0.01 (-77.8%)
+
+
+ARCHAISM vs INNOVATION INDICES
+--------------------------------------------------
+Samhita Period:
+  Archaism Index: 23.05
+  Innovation Index: 20.62
+  Conservation Ratio: 1.13
+
+Brahmana Period:
+  Archaism Index: 27.19
+  Innovation Index: 24.47
+  Conservation Ratio: 1.13
+
+Upanishad Period:
+  Archaism Index: 28.26
+  Innovation Index: 27.41
+  Conservation Ratio: 1.05
+
+Classical Period:
+  Archaism Index: 28.40
+  Innovation Index: 21.62
+  Conservation Ratio: 1.33
+
+
+
+ADVANCED COMPOSITE INDICES
+--------------------------------------------------
+Samhita Period:
+  Morphological Innovation Density: 1.84
+  Syntactic Complexity: 2.80
+  Phonological Archaism: 74.29
+  Textual Sophistication: 5.10
+  Substrate Influence: 0.02
+  Overall Innovation Score: 3.24
+
+Brahmana Period:
+  Morphological Innovation Density: 2.99
+  Syntactic Complexity: 6.66
+  Phonological Archaism: 79.36
+  Textual Sophistication: 13.09
+  Substrate Influence: 0.02
+  Overall Innovation Score: 7.58
+
+Upanishad Period:
+  Morphological Innovation Density: 2.68
+  Syntactic Complexity: 8.64
+  Phonological Archaism: 76.96
+  Textual Sophistication: 14.72
+  Substrate Influence: 0.01
+  Overall Innovation Score: 8.68
+
+Classical Period:
+  Morphological Innovation Density: 2.24
+  Syntactic Complexity: 2.93
+  Phonological Archaism: 87.93
+  Textual Sophistication: 9.11
+  Substrate Influence: 0.05
+  Overall Innovation Score: 4.76
+
+
+METHODOLOGY NOTES
+--------------------------------------------------
+• All frequencies normalized per 1000 words
+• Chronological ordering based on scholarly consensus
+• Feature detection via regex pattern matching
+• Statistical significance testing applied
+• Comprehensive coverage of phonological, morphological, syntactic, and lexical domains
+• Advanced phonological features: pluti vowels, voiced aspirate retention, cluster simplification
+• Morphological archaisms: N-infix presents, reduplicated presents, archaic case forms
+• Syntactic evolution: absolute constructions, word order patterns, subordination markers
+• Lexical stratification: substrate influence, philosophical terminology co-occurrence
+• Textual sophistication: prose vs verse markers, reported speech, connectives
+• Composite indices: innovation density, syntactic complexity, textual sophistication
+
+Generated by Enhanced Shrauta-Lakshana Diachronic Analyzer

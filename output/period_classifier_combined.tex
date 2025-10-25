@@ -1,0 +1,20 @@
+\begin{table}[ht]
+\centering
+\caption{Period classification performance (validation set, $n=18$). Overall accuracy 33.3\%. Confusion matrix shows true period (rows) vs. predicted (columns). Bold indicates correct predictions. The classifier fails to identify Late Vedic texts (0\% recall), often confusing them with Classical Sanskrit.}
+\label{tab:period-classifier}
+\small
+\begin{tabular}{lrrrr|rrr}
+\toprule
+\multicolumn{5}{c}{\textbf{Confusion Matrix}} & \multicolumn{3}{c}{\textbf{Performance}} \\
+\cmidrule(lr){1-5} \cmidrule(lr){6-8}
+\textbf{True / Pred.} & \textbf{EV} & \textbf{LV} & \textbf{LatV} & \textbf{Cl} & \textbf{Prec.} & \textbf{Rec.} & \textbf{F1} \\
+\midrule
+Early V. & \textbf{1} & 3 & 0 & 1 & 0.50 & 0.20 & 0.29 \\
+Late V. & 1 & 0 & 0 & 3 & 0.00 & 0.00 & 0.00 \\
+Latest V. & 0 & 0 & \textbf{2} & 4 & 1.00 & 0.33 & 0.50 \\
+Classical & 0 & 0 & 0 & \textbf{3} & 0.27 & 1.00 & 0.43 \\
+\midrule
+\multicolumn{5}{l}{Overall Accuracy: 0.333} & \multicolumn{3}{r}{Macro F1: 0.304} \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,77 @@
+COMPREHENSIVE STATISTICAL ANALYSIS REPORT
+Vedic Sanskrit Diachronic Modeling
+======================================================================
+
+EXECUTIVE SUMMARY
+--------------------------------------------------
+This report presents statistical modeling results for Vedic Sanskrit
+diachronic analysis, using text characteristics (prose/poetry, period,
+recension) as predictive features for linguistic phenomena.
+
+MODEL PERFORMANCE SUMMARY
+--------------------------------------------------
+Best performing models by target feature:
+  perfect_periphrastic     : Random Forest        (R² = -0.320)
+  retroflex_l              : Gradient Boosting    (R² = -3.857)
+  particle_sma             : Lasso Regression     (R² = -4.505)
+  dual_nominative          : Ridge Regression     (R² = -5.475)
+  subjunctive_full         : Random Forest        (R² = -8.101)
+  long_compounds           : Random Forest        (R² = -9.950)
+  philosophical_terms      : Random Forest        (R² = -15.742)
+  correlatives_ya_ta       : Lasso Regression     (R² = -26.133)
+
+
+FEATURE IMPORTANCE ANALYSIS
+--------------------------------------------------
+Most important predictive features (averaged across models):
+  prose_ratio              : 1.8838
+  veda_branch_encoded      : 1.7592
+  chronology               : 1.7462
+  liturgical_focus_encoded : 1.6509
+  text_type_encoded        : 1.4340
+  genre_encoded            : 0.8120
+  geographic_origin_encoded: 0.5063
+  period_ordinal           : 0.3638
+
+
+MODEL VALIDATION SUMMARY
+--------------------------------------------------
+Recommended models (low overfitting risk, good performance):
+
+
+PRINCIPAL COMPONENT ANALYSIS
+--------------------------------------------------
+First 5 components explain 65.9% of variance:
+  PC1: 0.184 (18.4%)
+  PC2: 0.154 (15.4%)
+  PC3: 0.127 (12.7%)
+  PC4: 0.118 (11.8%)
+  PC5: 0.075 (7.5%)
+
+
+HIERARCHICAL CLUSTERING RESULTS
+--------------------------------------------------
+Cluster 1: Yajurveda (Taittiriya), Yajurveda (Maitrayani), Kausitaki-Br, Pancavimsa-Br, Satapatha-Br, Gopatha-Br, Aitareya-Up, Taittiriya-Up, Chandogya-Up, Brhadaranyaka-Up, Prashna-Up, Shvetashvatara-Up
+  Periods: {'latest_vedic': np.int64(6), 'late_vedic': np.int64(4)}
+  Types: {'upanishad': np.int64(6), 'brahmana': np.int64(4)}
+
+Cluster 2: Rigveda, Samaveda, Atharvaveda (Paippalada), Atharvaveda (Saunaka)
+  Periods: {'middle_vedic': np.int64(3), 'early_vedic': np.int64(1)}
+  Types: {'samhita': np.int64(4)}
+
+Cluster 3: Ramayana, Mahabharata, Bhagavata-Purana
+  Periods: {'classical': np.int64(3)}
+  Types: {'epic': np.int64(2), 'purana': np.int64(1)}
+
+METHODOLOGY
+--------------------------------------------------
+• Linear regression, Ridge, Lasso, Random Forest, Gradient Boosting models
+• Cross-validation for model selection and validation
+• Feature importance analysis via coefficients and tree-based methods
+• Principal Component Analysis for dimensionality reduction
+• Hierarchical clustering for text grouping
+• Comprehensive diagnostic plots for model validation
+
+Statistical modeling demonstrates quantitative relationships between
+text characteristics and linguistic feature frequencies, enabling
+prediction and explanation of diachronic language change patterns.

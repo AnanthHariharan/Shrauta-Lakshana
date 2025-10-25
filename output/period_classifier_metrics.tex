@@ -1,0 +1,19 @@
+\begin{table}[ht]
+\centering
+\caption{Period classifier performance. The transformer's auxiliary period classification head predicts one of four chronological periods (Early Vedic, Late Vedic, Latest Vedic, Classical) from text representations. Metrics computed on held-out validation set. Poor performance (33\% accuracy) reflects substantial linguistic variation within periods and limited training data ($n=18$ validation samples).}
+\label{tab:period-classifier}
+\begin{tabular}{lrrrr}
+\toprule
+\textbf{Period} & \textbf{Precision} & \textbf{Recall} & \textbf{F1-Score} & \textbf{Support} \\
+\midrule
+Early Vedic & 0.500 & 0.200 & 0.286 & 5 \\
+Late Vedic & 0.000 & 0.000 & 0.000 & 4 \\
+Latest Vedic & 1.000 & 0.333 & 0.500 & 6 \\
+Classical & 0.273 & 1.000 & 0.429 & 3 \\
+\midrule
+Macro average & 0.443 & 0.383 & 0.304 & 18 \\
+\midrule
+\multicolumn{5}{l}{\textbf{Overall Accuracy: 0.333}} \\
+\bottomrule
+\end{tabular}
+\end{table}

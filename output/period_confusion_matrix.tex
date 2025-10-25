@@ -1,0 +1,15 @@
+\begin{table}[ht]
+\centering
+\caption{Period classifier confusion matrix. Rows represent true periods, columns represent predicted periods. The classifier struggles to distinguish Late Vedic texts (0\% recall), frequently misclassifying them as Classical. Latest Vedic texts are also often misclassified as Classical, suggesting these periods share substantial linguistic features.}
+\label{tab:period-confusion}
+\begin{tabular}{lrrrr}
+\toprule
+\textbf{True / Predicted} & \textbf{Early V.} & \textbf{Late V.} & \textbf{Latest V.} & \textbf{Classical} \\
+\midrule
+Early V. & \textbf{1} & 3 & 0 & 1 \\
+Late V. & 1 & 0 & 0 & 3 \\
+Latest V. & 0 & 0 & \textbf{2} & 4 \\
+Classical & 0 & 0 & 0 & \textbf{3} \\
+\bottomrule
+\end{tabular}
+\end{table}

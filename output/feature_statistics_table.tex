@@ -1,0 +1,26 @@
+\begin{table}[ht]
+\centering
+\caption{Statistical summary of diachronic trends for key linguistic features. Linear regression models test for monotonic change across the 20-text chronological sequence. Features are sorted by $R^2$ (proportion of variance explained by chronological position). $\beta$ indicates the rate of change per text position. Spearman $\rho$ measures rank correlation, robust to non-linear trends. Significance: $^{***}p < 0.001$, $^{**}p < 0.01$, $^{*}p < 0.05$.}
+\label{tab:feature-statistics}
+\begin{tabular}{lrrrrl}
+\toprule
+\textbf{Feature} & \textbf{$R^2$} & \textbf{$\beta$} & \textbf{$p$-value} & \textbf{Spearman $\rho$} & \textbf{Trend} \\
+\midrule
+Deity names & 0.467 & -0.3365 & 0.0009$^{***}$ & -0.782 & $\downarrow$ \\
+Subjunctive (full paradigm) & 0.426 & 1.0090 & 0.0018$^{**}$ & 0.702 & $\uparrow$ \\
+Gerund \textit{-tvā} & 0.335 & 0.3318 & 0.0075$^{**}$ & 0.608 & $\uparrow$ \\
+Philosophical terminology & 0.302 & 0.0693 & 0.0120$^{*}$ & 0.497 & $\uparrow$ \\
+Connectives & 0.120 & 0.2386 & 0.1351 & 0.438 & $\uparrow$ \\
+Retroflex /ḷ/ & 0.102 & -0.0510 & 0.1695 & -0.124 & $\downarrow$ \\
+Particle \textit{sma} & 0.092 & 0.0200 & 0.1930 & 0.376 & $\uparrow$ \\
+Diphthong /ai/ & 0.059 & 0.8340 & 0.3023 & 0.135 & $\uparrow$ \\
+Reported speech & 0.053 & 0.4315 & 0.3291 & 0.271 & $\uparrow$ \\
+Long compounds & 0.036 & 1.1089 & 0.4240 & 0.432 & $\uparrow$ \\
+Perfect reduplicated & 0.035 & 0.0106 & 0.4290 & -0.161 & $\downarrow$ \\
+Prose particles & 0.025 & 0.3474 & 0.5066 & 0.179 & $\uparrow$ \\
+Dual nominative & 0.002 & -0.0227 & 0.8614 & -0.235 & $\downarrow$ \\
+Injunctive (augmentless) & 0.000 & 0.1104 & 0.9314 & -0.044 & $\uparrow$ \\
+Monophthong /e/ & 0.000 & -0.0731 & 0.9561 & -0.032 & $\uparrow$ \\
+\bottomrule
+\end{tabular}
+\end{table}
